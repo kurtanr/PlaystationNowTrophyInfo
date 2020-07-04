@@ -1,0 +1,11 @@
+Arcana Heart 3 | 9 | 50 | True
+Fallout 4 | 3 | 75 | False
+MX vs. ATV Alive | 4 | 30 | True
+Planet Minigolf | 8 | 15 | True
+Primal | 3 | 20 | False
+Rage | 5 | 20 | True
+Red Dead Redemption | 7 | 70 | True
+Red Faction: Guerrilla | 8 | 200 | True
+Sly 2: Band of Thieves HD | 2 | 14 | False
+Sonic Adventure | 5 | 50 | False
+Surgeon Simulator: Anniversary Edition | 9 | 50 | False
