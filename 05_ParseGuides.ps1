@@ -190,9 +190,13 @@ foreach($psNowGame in $psNowGames)
     }
 
     # TimeToComplete
-    if(($innerText -match '(?<time>[0-9]+)\+hours') -or ($innerText -match '(?<time>[0-9]+)hours') -or
-       ($innerText -match '(?<time>[0-9]+)\+hrs') -or ($innerText -match '(?<time>[0-9]+)hrs') -or
-       ($innerText -match '(?<time>[0-9]+)hr') -or ($innerText -match '(?<time>[0-9]+)h'))
+    if($innerText -match 'platinum:([0-9]+)-(?<time>[0-9]+)')
+    {
+        $psNowGame.TimeToComplete = $Matches.time.Trim()
+    }
+    elseif(($innerText -match '(?<time>[0-9]+)\+hours') -or ($innerText -match '(?<time>[0-9]+)hours') -or
+          ($innerText -match '(?<time>[0-9]+)\+hrs') -or ($innerText -match '(?<time>[0-9]+)hrs') -or
+          ($innerText -match '(?<time>[0-9]+)hr') -or ($innerText -match '(?<time>[0-9]+)h'))
     {
         $psNowGame.TimeToComplete = $Matches.time.Trim()
     }
