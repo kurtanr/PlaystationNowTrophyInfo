@@ -80,15 +80,14 @@ Function Get-IsPs4Game([String] $gameName)
 
 Push-Location $PSScriptRoot
 
-# TODO: add comments describing what files mean
-$outputFile = ".\tmp\ps-now-games_en-us+.txt"
-$inNameConversion = ".\customize\name-conversion.txt"
-$inNotAvailableForPs4 = ".\customize\not-available-for-ps4.txt"
-$inGamesWithNoTrophies = ".\customize\gamesWithNoTrophies.txt"
-$inPsNow = ".\tmp\ps-now-games_en-us.txt"
-$inPs3 = ".\tmp\ps3-games.txt"
-$inPs4 = ".\tmp\ps4-games.txt"
-$inPsn = ".\tmp\psn-games.txt"
+$outputFile = ".\tmp\ps-now-games_en-us+.txt"                    # output file: additionally contains platform info and guide url
+$inNameConversion = ".\customize\name-conversion.txt"            # list of game name pairs (game name in PSNOW | game name on playstationtrophies)
+$inNotAvailableForPs4 = ".\customize\not-available-for-ps4.txt"  # list of games released on PS4 and PS3/PSVITA, but not available on PS4 using PSNOW
+$inGamesWithNoTrophies = ".\customize\gamesWithNoTrophies.txt"   # list of games with not trophy support
+$inPsNow = ".\tmp\ps-now-games_en-us.txt"  # list of PSNOW games
+$inPs3 = ".\tmp\ps3-games.txt"             # list ps3 games from playstationtrophies
+$inPs4 = ".\tmp\ps4-games.txt"             # list ps4 games from playstationtrophies
+$inPsn = ".\tmp\psn-games.txt"             # list psn games from playstationtrophies
 
 if(Test-Path $outputFile)
 {

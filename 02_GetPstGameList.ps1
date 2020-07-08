@@ -52,7 +52,6 @@ if($StatusCode -eq "200")
     Write-Host "Parsing content..." -ForegroundColor Yellow
 
     $html = ConvertFrom-Html -Content $response.RawContent
-    #$gameNames = $html.SelectNodes("//div[contains(@class, 'divtext')]/table//a[contains(@class, 'linkT')]/strong").InnerText.Trim()
     $gameLinks = $html.SelectNodes("//div[contains(@class, 'divtext')]/table//a[contains(@class, 'linkT') and starts-with(@href, '/game/')]/..").InnerHtml
     foreach ($gameLink in $gameLinks)
     {

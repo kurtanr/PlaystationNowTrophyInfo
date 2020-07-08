@@ -9,13 +9,6 @@ class GameInfo
 {
     [String]$Name
     [String]$Platform
-    [String]$HasGuide
-    [String]$HasPlatinum
-    [String]$Difficulty
-    [String]$TimeToComplete
-    [String]$HasOnlineTrophies
-    [String]$Genre
-    [String]$Release
     [String]$Guide
 }
 

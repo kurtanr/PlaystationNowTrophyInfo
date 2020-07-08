@@ -1,9 +1,8 @@
-﻿# retrieves list of all currently available PS NOW Games
+﻿# retrieves list of all currently available PS NOW Games (US)
 
 Push-Location $PSScriptRoot
 
 $url = "https://www.playstation.com/en-us/explore/playstation-now/games/#allgames"
-#$date = Get-Date -Format "yyyy-MM-dd"
 $outputFile = ".\tmp\ps-now-games_en-us.txt"
 
 if(Test-Path $outputFile)

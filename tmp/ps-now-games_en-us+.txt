@@ -312,6 +312,7 @@ Heavenly Sword,PS3(no_trophies)
 Heavy Fire: Afghanistan,PS3,https://www.playstationtrophies.org/game/heavy-fire-afghanistan/guide/
 Heavy Fire: Shattered Spear,PS3,https://www.playstationtrophies.org/game/heavy-fire-shattered-spear/guide/
 Heavy Rain,PS4,https://www.playstationtrophies.org/game/heavy-rain-ps4/guide/
+Hello Neighbor,PS4,https://www.playstationtrophies.org/game/hello-neighbour/guide/
 High Stakes on the Vegas Strip: Poker Edition,PS3(PSN),https://www.playstationtrophies.org/game/high-stakes-vegas-poker-edition/guide/
 Hoard,PS3(PSN),https://www.playstationtrophies.org/game/hoard/guide/
 Hohokum,PS4,https://www.playstationtrophies.org/game/hohokum/guide/
@@ -335,6 +336,7 @@ Industry Giant 2,PS4,https://www.playstationtrophies.org/game/industry-giant-2/g
 inFAMOUS,PS3,https://www.playstationtrophies.org/game/infamous/guide/
 inFAMOUS 2,PS3,https://www.playstationtrophies.org/game/infamous-2/guide/
 inFAMOUS: Festival Of Blood,PS3(PSN),https://www.playstationtrophies.org/game/infamous-festival-of-blood/guide/
+Infinite Minigolf,PS4,https://www.playstationtrophies.org/game/infinite-minigolf/guide/
 Injustice: Gods Among Us,PS3,https://www.playstationtrophies.org/game/injustice-gods-among-us/guide/
 Inside My Radio,PS4,https://www.playstationtrophies.org/game/inside-my-radio/guide/
 Interpol: The Trail of Dr. Chaos,PS3(PSN),https://www.playstationtrophies.org/game/interpol-the-trail-of-dr-chaos/guide/
@@ -405,7 +407,6 @@ Mamorukun Curse!,PS3(PSN),https://www.playstationtrophies.org/game/mamorukun-cur
 Mantis Burn Racing,PS4,https://www.playstationtrophies.org/game/mantis-burn-racing/guide/
 Mars: War Logs,PS3(PSN),https://www.playstationtrophies.org/game/mars-war-logs/guide/
 Marvel Puzzle Quest: Dark Reign,PS3(PSN),https://www.playstationtrophies.org/game/marvel-puzzle-quest-dark-reign-ps3/guide/
-Marvel's Spider-Man,PS4,https://www.playstationtrophies.org/game/spider-man-insomniac/guide/
 Mastercube,PS4,https://www.playstationtrophies.org/game/mastercube/guide/
 Matt Hazard: Blood Bath and Beyond,PS3(PSN),https://www.playstationtrophies.org/game/matt-hazard-blood-bath-and-beyond/guide/
 Mega Man 9,PS3(no_trophies)
@@ -680,6 +681,7 @@ Steep,PS4,https://www.playstationtrophies.org/game/steep/guide/
 Stick it to the Man,PS4,https://www.playstationtrophies.org/game/stick-it-to-the-man-ps4/guide/
 Stikbold! A Dodgeball Adventure,PS4,https://www.playstationtrophies.org/game/stikbold/guide/
 Street Fighter III: 3rd Strike Online Edition,PS3(PSN),https://www.playstationtrophies.org/game/street-fighter-iii-3rd-strike-online-edition/guide/
+Street Fighter V,PS4,https://www.playstationtrophies.org/game/street-fighter-5/guide/
 Strider,PS4,https://www.playstationtrophies.org/game/strider-ps4/guide/
 Strike Suit Zero: Director's Cut,PS4,https://www.playstationtrophies.org/game/strike-suit-zero/guide/
 Strong Bad's Cool Game for Attractive People - Episode 1: Homestar Ruiner,PS3(PSN),https://www.playstationtrophies.org/game/strong-bad-cool-game-ep-1/guide/
@@ -745,6 +747,7 @@ The Spectrum Retreat,PS4,https://www.playstationtrophies.org/game/the-spectrum-r
 The Surge,PS4,https://www.playstationtrophies.org/game/the-surge/guide/
 The Swapper,PS4(PSN),https://www.playstationtrophies.org/game/the-swapper/guide/
 The Swindle,PS4,https://www.playstationtrophies.org/game/the-swindle/guide/
+The Turing Test,PS4,https://www.playstationtrophies.org/game/the-turing-test/guide/
 The Treasures of Montezuma 4,PS4,https://www.playstationtrophies.org/game/the-treasures-of-montezuma-4/guide/
 The UnderGarden™,PS3(PSN),https://www.playstationtrophies.org/game/the-undergarden/guide/
 The Unfinished Swan,PS4,https://www.playstationtrophies.org/game/the-unfinished-swan-ps4/guide/
@@ -805,6 +808,7 @@ Warriors All-Stars,PS4,https://www.playstationtrophies.org/game/warriors-all-sta
 Warriors: Legends of Troy,PS3,https://www.playstationtrophies.org/game/warriors-legends-of-troy/guide/
 Warriors Orochi 3,PS3,https://www.playstationtrophies.org/game/warriors-orochi-3/guide/
 Wasteland 2: Director's Cut,PS4,https://www.playstationtrophies.org/game/wasteland-2-director-s-cut-na/guide/
+Watch Dogs 2,PS4,https://www.playstationtrophies.org/game/watch-dogs-2/guide/
 Way of the Samurai 3,PS3,https://www.playstationtrophies.org/game/way-of-the-samurai-3/guide/
 Way of the Samurai 4,PS3,https://www.playstationtrophies.org/game/way-of-the-samurai-4/guide/
 Wet,PS3,https://www.playstationtrophies.org/game/wet/guide/
