@@ -104,7 +104,7 @@ Bound By Flame (PS3)                               | https://www.playstationtrop
 Brink                                              | https://www.playstationtrophies.org/game/brink/guide/
 Brunswick Pro Bowling (EU)                         | https://www.playstationtrophies.org/game/brunswick-pro-bowling-eu/guide/
 Brunswick Pro Bowling (NA)                         | https://www.playstationtrophies.org/game/brunswick-pro-bowling/guide/
-Brütal Legend                                      | https://www.playstationtrophies.org/game/brutal-legend/guide/
+Brutal Legend                                      | https://www.playstationtrophies.org/game/brutal-legend/guide/
 Bulletstorm (PS3)                                  | https://www.playstationtrophies.org/game/bulletstorm/guide/
 Burnout Paradise (PS3)                             | https://www.playstationtrophies.org/game/burnout-paradise-ps3/guide/
 Buzz!: Brain of...                                 | https://www.playstationtrophies.org/game/buzz-brain-of/guide/
@@ -494,6 +494,7 @@ Lost Dimension (NA) (PS3)                          | https://www.playstationtrop
 Lost Dimension (PS3) (EU)                          | https://www.playstationtrophies.org/game/lost-dimension-ps3-eu/guide/
 Lost Planet 2                                      | https://www.playstationtrophies.org/game/lost-planet-2/guide/
 Lost Planet 3                                      | https://www.playstationtrophies.org/game/lost-planet-3/guide/
+Lost Wing (NA)                                     | https://www.playstationtrophies.org/game/lost-wing-na/guide/
 Lucha Libre AAA: Heroes del Ring                   | https://www.playstationtrophies.org/game/lucha-libre-aaa-heroes-of-the-ring/guide/
 Madagascar 3: The Video Game                       | https://www.playstationtrophies.org/game/madagascar-3-the-video-game/guide/
 Madagascar Kartz                                   | https://www.playstationtrophies.org/game/madagascar-kartz/guide/
@@ -557,7 +558,7 @@ MLB 12: The Show (PS3)                             | https://www.playstationtrop
 MLB 13: The Show (PS3)                             | https://www.playstationtrophies.org/game/mlb-13-the-show/guide/
 MLB 14: The Show (PS3)                             | https://www.playstationtrophies.org/game/mlb-14-the-show-ps3/guide/
 MLB 15: The Show (PS3)                             | https://www.playstationtrophies.org/game/mlb-15-the-show-ps3/guide/
-MLB 16: The Show (PS3)                             | https://www.playstationtrophies.org/game/mlb-16-ps3/guide/
+MLB: The Show 16 (PS3)                             | https://www.playstationtrophies.org/game/mlb-16-ps3/guide/
 ModNation Racers                                   | https://www.playstationtrophies.org/game/modnation-racers/guide/
 Monopoly Streets                                   | https://www.playstationtrophies.org/game/monopoly-streets/guide/
 Monster High: New Ghoul in School (EU)             | https://www.playstationtrophies.org/game/monster-high-eu/guide/
@@ -648,9 +649,9 @@ Obut Pétanque 2                                    | https://www.playstationtro
 Of Orcs and Men                                    | https://www.playstationtrophies.org/game/of-orcs-and-men/guide/
 Olympic Games: London 2012                         | https://www.playstationtrophies.org/game/london-2012-the-official-video-game-of-the-olympic-games/guide/
 Olympic Winter Games: Vancouver 2010               | https://www.playstationtrophies.org/game/vancouver-2010/guide/
-One Piece Unlimited World Red (PS3 & Vita)         | https://www.playstationtrophies.org/game/one-piece-unlimited-world-red/guide/
 One Piece: Pirate Warriors                         | https://www.playstationtrophies.org/game/one-piece-pirate-warriors/guide/
 One Piece: Pirate Warriors 2                       | https://www.playstationtrophies.org/game/one-piece-pirate-warriors-2/guide/
+One Piece: Unlimited World Red (PS3 & Vita)        | https://www.playstationtrophies.org/game/one-piece-unlimited-world-red/guide/
 Operation Flashpoint: Dragon Rising                | https://www.playstationtrophies.org/game/operation-flashpoint-dragon-rising/guide/
 Operation Flashpoint: Red River                    | https://www.playstationtrophies.org/game/operation-flashpoint-red-river/guide/
 Order Up!                                          | https://www.playstationtrophies.org/game/order-up/guide/

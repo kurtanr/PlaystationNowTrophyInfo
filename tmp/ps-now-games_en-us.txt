@@ -33,6 +33,7 @@ Anodyne
 Anomaly 2
 Anomaly Warzone Earth
 Another World: 20th Anniversary Edition
+AO Tennis 2
 APB Reloaded
 Ape Escape 2
 Aqua Panic!
@@ -167,6 +168,7 @@ Desert Child
 Day of the Tentacle Remastered
 de Blob
 de Blob 2
+Dead Cells
 Dead Island: Definitive Edition
 Dead Island Retro Revenge
 Dead Island Riptide
@@ -294,6 +296,7 @@ Grand Kingdom
 Gravity Crash
 Gravity Rush 2
 Gravity Rush Remastered
+GreedFall
 Greg Hastings Paintball 2
 Grid 2
 Grid Autosport
@@ -314,6 +317,7 @@ Heavy Fire: Shattered Spear
 Heavy Rain - with The Taxidermist DLC
 Hello Neighbor
 High Stakes on the Vegas Strip: Poker Edition
+HITMAN 2
 Hoard
 Hohokum
 Hollow Knight
@@ -377,7 +381,6 @@ LEGO Indiana Jones: The Adventure Continues
 LEGO Pirates of the Caribbean
 LEGO Star Wars: The Complete Saga
 LEGO Star Wars 3: The Clone Wars
-LEGO Worlds
 Lemmings
 Leo's Fortune
 Limbo
@@ -517,6 +520,7 @@ PlayerUnknown's Battlegrounds
 Poncho
 Pool Nation
 Port Royale 3: Gold
+Power Rangers Battle for the Grid
 Prey
 Primal
 Professional Farmer 2017
@@ -525,6 +529,7 @@ Project Cars 2
 Proteus
 Pumped BMX+
 Puppeteer
+Pure Farming 18
 Pure Hold'em World Poker Championship
 Pure Pool
 Puzzle Agent
@@ -803,6 +808,7 @@ Virtua Fighter 2
 Virtua Fighter 5: Final Showdown
 Voodoo Chronicles: The First Sign
 Wakeboarding HD
+Warhammer 40000 Inquisitor Martyr
 Warlords
 Warriors All-Stars
 Warriors: Legends of Troy
@@ -824,6 +830,7 @@ Wolfenstein II: The New Colossus
 World to the West
 WRC 4: FIA World Rally Championship
 WRC 5: FIA World Rally Championship
+WRC 8
 Wuppo
 WWE 2K16
 WWE 2K18

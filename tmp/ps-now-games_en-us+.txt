@@ -33,6 +33,7 @@ Anodyne,PS4,https://www.playstationtrophies.org/game/anodyne/guide/
 Anomaly 2,PS4,https://www.playstationtrophies.org/game/anomaly-2-ps4/guide/
 Anomaly Warzone Earth,PS3(PSN),https://www.playstationtrophies.org/game/anomaly-warzone-earth/guide/
 Another World: 20th Anniversary Edition,PS4,https://www.playstationtrophies.org/game/another-world-20th-anniversary-edition/guide/
+AO Tennis 2,PS4,https://www.playstationtrophies.org/game/ao-tennis-2/guide/
 APB Reloaded,PS4,https://www.playstationtrophies.org/game/apb-reloaded/guide/
 Ape Escape 2,PS4,https://www.playstationtrophies.org/game/ape-escape-2/guide/
 Aqua Panic!,PS3(PSN),https://www.playstationtrophies.org/game/aquapanic/guide/
@@ -167,6 +168,7 @@ Desert Child,PS4,https://www.playstationtrophies.org/game/desert-child/guide/
 Day of the Tentacle Remastered,PS4,https://www.playstationtrophies.org/game/day-of-the-tentacle-remastered/guide/
 de Blob,PS4,https://www.playstationtrophies.org/game/de-blob-ps4/guide/
 de Blob 2,PS3,https://www.playstationtrophies.org/game/de-blob-2-ps3/guide/
+Dead Cells,PS4,https://www.playstationtrophies.org/game/dead-cells-na/guide/
 Dead Island: Definitive Edition,PS4,https://www.playstationtrophies.org/game/dead-island-ps4/guide/
 Dead Island Retro Revenge,PS4,https://www.playstationtrophies.org/game/dead-island-retro-revenge/guide/
 Dead Island Riptide,PS3,https://www.playstationtrophies.org/game/dead-island-riptide/guide/
@@ -294,6 +296,7 @@ Grand Kingdom,PS4,https://www.playstationtrophies.org/game/grand-kingdom-na-eu/g
 Gravity Crash,PS3(PSN),https://www.playstationtrophies.org/game/gravity-crash/guide/
 Gravity Rush 2,PS4,https://www.playstationtrophies.org/game/gravity-rush-2/guide/
 Gravity Rush Remastered,PS4,https://www.playstationtrophies.org/game/gravity-rush-remastered/guide/
+GreedFall,PS4,https://www.playstationtrophies.org/game/greedfall/guide/
 Greg Hastings Paintball 2,PS3(PSN),https://www.playstationtrophies.org/game/greg-hastings-paintball-2/guide/
 Grid 2,PS3,https://www.playstationtrophies.org/game/grid-2/guide/
 Grid Autosport,PS3,https://www.playstationtrophies.org/game/grid-autosport/guide/
@@ -314,6 +317,7 @@ Heavy Fire: Shattered Spear,PS3,https://www.playstationtrophies.org/game/heavy-f
 Heavy Rain,PS4,https://www.playstationtrophies.org/game/heavy-rain-ps4/guide/
 Hello Neighbor,PS4,https://www.playstationtrophies.org/game/hello-neighbour/guide/
 High Stakes on the Vegas Strip: Poker Edition,PS3(PSN),https://www.playstationtrophies.org/game/high-stakes-vegas-poker-edition/guide/
+Hitman 2 (2018),PS4,https://www.playstationtrophies.org/game/hitman-2/guide/
 Hoard,PS3(PSN),https://www.playstationtrophies.org/game/hoard/guide/
 Hohokum,PS4,https://www.playstationtrophies.org/game/hohokum/guide/
 Hollow Knight,PS4,https://www.playstationtrophies.org/game/hollow-knight/guide/
@@ -377,7 +381,6 @@ LEGO Indiana Jones 2: The Adventure Continues,PS3,https://www.playstationtrophie
 LEGO Pirates of the Caribbean,PS3,https://www.playstationtrophies.org/game/lego-pirates-of-the-caribbean/guide/
 LEGO Star Wars: The Complete Saga,PS3(no_trophies)
 LEGO Star Wars 3: The Clone Wars,PS3,https://www.playstationtrophies.org/game/lego-star-wars-iii-the-clone-wars/guide/
-LEGO Worlds,PS4,https://www.playstationtrophies.org/game/lego-worlds/guide/
 Lemmings,PS3(PSN),https://www.playstationtrophies.org/game/lemmings/guide/
 Leo's Fortune,PS4,https://www.playstationtrophies.org/game/leos-fortune/guide/
 Limbo,PS4,https://www.playstationtrophies.org/game/limbo-ps4/guide/
@@ -517,6 +520,7 @@ PlayerUnknown's Battlegrounds,PS4,https://www.playstationtrophies.org/game/playe
 Poncho,PS4,https://www.playstationtrophies.org/game/poncho/guide/
 Pool Nation,PS3(PSN),https://www.playstationtrophies.org/game/pool-nation/guide/
 Port Royale 3: Pirates and Merchants,PS3,https://www.playstationtrophies.org/game/port-royale-3-pirates-and-merchants/guide/
+Power Rangers Battle for the Grid,PS4,https://www.playstationtrophies.org/game/power-rangers-battle-for-the-grid/guide/
 Prey (2017),PS4,https://www.playstationtrophies.org/game/prey-2017/guide/
 Primal,PS4,https://www.playstationtrophies.org/game/primal/guide/
 Professional Farmer 2017,PS4,https://www.playstationtrophies.org/game/farming-simulator-17/guide/
@@ -525,6 +529,7 @@ Project Cars 2,PS4,https://www.playstationtrophies.org/game/project-cars-2/guide
 Proteus,PS3(PSN),https://www.playstationtrophies.org/game/proteus/guide/
 Pumped BMX+,PS4,https://www.playstationtrophies.org/game/pumped-bmx-plus/guide/
 Puppeteer,PS3,https://www.playstationtrophies.org/game/puppeteer/guide/
+Pure Farming 2018,PS4,https://www.playstationtrophies.org/game/pure-farming-2018/guide/
 Pure Hold 'Em,PS4,https://www.playstationtrophies.org/game/pure-hold-em/guide/
 Pure Pool,PS4,https://www.playstationtrophies.org/game/pure-pool/guide/
 Nelson Tethers:  Puzzle Agent,PS3(PSN),https://www.playstationtrophies.org/game/nelson-tethers-puzzle-agent/guide/
@@ -803,6 +808,7 @@ Virtua Fighter 2,PS3(PSN),https://www.playstationtrophies.org/game/virtua-fighte
 Virtua Fighter 5: Final Showdown,PS3(PSN),https://www.playstationtrophies.org/game/virtua-fighter-5-final-showdown/guide/
 Voodoo Chronicles: The First Sign,PS3(PSN),https://www.playstationtrophies.org/game/voodoo-chronicles-the-first-sign-na/guide/
 Wakeboarding HD,PS3(PSN),https://www.playstationtrophies.org/game/wakeboarding-hd/guide/
+Warhammer 40,000: Inquisitor - Martyr,PS4,https://www.playstationtrophies.org/game/warhammer-40-000-inquisitor-martyr/guide/
 Warlords,PS3(PSN),https://www.playstationtrophies.org/game/warlords/guide/
 Warriors All-Stars,PS4,https://www.playstationtrophies.org/game/warriors-all-stars/guide/
 Warriors: Legends of Troy,PS3,https://www.playstationtrophies.org/game/warriors-legends-of-troy/guide/
@@ -824,6 +830,7 @@ Wolfenstein II: The New Colossus,PS4,https://www.playstationtrophies.org/game/wo
 World to the West,PS4,https://www.playstationtrophies.org/game/world-to-the-west/guide/
 WRC 4,PS3,https://www.playstationtrophies.org/game/wrc-4/guide/
 WRC 5,PS4,https://www.playstationtrophies.org/game/wrc-5/guide/
+WRC 8,PS4,https://www.playstationtrophies.org/game/wrc-8/guide/
 Wuppo,PS4,https://www.playstationtrophies.org/game/wuppo/guide/
 WWE 2K16,PS4,https://www.playstationtrophies.org/game/wwe-2k16/guide/
 WWE 2K18,PS4,https://www.playstationtrophies.org/game/wwe-2k18/guide/

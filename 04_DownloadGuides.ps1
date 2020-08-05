@@ -74,6 +74,7 @@ foreach($psNowGameEntry in $psNowGamesFileContent)
 {
     # comma in name
     $psNowGameEntry = $psNowGameEntry.Replace(", Beelzebub", " Beelzebub")
+    $psNowGameEntry = $psNowGameEntry.Replace("Warhammer 40,000", "Warhammer 40000")
 
     $segments = $psNowGameEntry.Split(",")
     $gameInfo = [GameInfo]::new()

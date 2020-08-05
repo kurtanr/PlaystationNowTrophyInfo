@@ -168,6 +168,10 @@ if($platform -eq "ps3")
 if($platform -eq "ps4")
 {
     # only first 99 pages of PS4 games are accessible
+    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/v/1"
+    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/v/2"
+    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/w/1"
+    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/w/2"
     Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/w/3"
     Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/w/4"
     Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/x/"
