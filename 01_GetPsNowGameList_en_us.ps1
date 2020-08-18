@@ -81,7 +81,7 @@ if($StatusCode -eq "200")
             Add-Content -Path $outputFile -Value "Strong Bad's Cool Game for Attractive People - Episode 4: Dangeresque 3: The Criminal Projective"
             Add-Content -Path $outputFile -Value "Strong Bad's Cool Game for Attractive People - Episode 5: 8-Bit is Enough"
         }
-        elseif($game.Equals("Borderlands: The Handsome Collection"))
+        elseif($game.Equals("Borderlands: Game of the Year Edition"))
         {
             Add-Content -Path $outputFile -Value "Borderlands: The Pre-Sequel: The Handsome Collection"
             Add-Content -Path $outputFile -Value "Borderlands 2: The Handsome Collection"
@@ -92,6 +92,11 @@ if($StatusCode -eq "200")
                $game.Equals("Guilty Gear Xrd Rev 2"))
         {
             # trophies are added to the main game
+        }
+        elseif($game.Equals("Bloodborne™") -or 
+               $game.Equals("CARS MATER-NATIONAL"))
+        {
+            # already on the list under different name
         }
         else 
         {

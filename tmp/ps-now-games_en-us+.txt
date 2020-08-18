@@ -12,17 +12,17 @@ ADR1FT,PS4,https://www.playstationtrophies.org/game/adrift/guide/
 Adventure Time: Pirates of the Enchiridion,PS4,https://www.playstationtrophies.org/game/adventure-time-pirates-of-the-enchiridion/guide/
 Aegis of Earth: Protonovus Assault,PS4,https://www.playstationtrophies.org/game/aegis-of-earth-protonovus-assault-na/guide/
 Agatha Christie - The ABC Murders,PS4,https://www.playstationtrophies.org/game/agatha-christie-the-abc-murders/guide/
-Air Conflicts - Secret Wars,PS3,https://www.playstationtrophies.org/game/air-conflicts-secret-wars/guide/
-Air Conflicts: Pacific Carriers,PS3,https://www.playstationtrophies.org/game/air-conflicts-pacific-carriers/guide/
+Air Conflicts VIETNAM ULTIMATE EDITION,PS4,https://www.playstationtrophies.org/game/air-conflicts-vietnam-ultimate-edition/guide/
+AIR CONFLICTS: PACIFIC CARRIERS,PS3,https://www.playstationtrophies.org/game/air-conflicts-pacific-carriers/guide/
+Air Conflicts: Secret Wars,PS3,https://www.playstationtrophies.org/game/air-conflicts-secret-wars/guide/
 Air Conflicts: Vietnam,PS3,https://www.playstationtrophies.org/game/air-conflicts-vietnam/guide/
-Air Conflicts: Vietnam Ultimate Edition,PS4,https://www.playstationtrophies.org/game/air-conflicts-vietnam-ultimate-edition/guide/
 AKIBA'S BEAT,PS4,https://www.playstationtrophies.org/game/akibas-beat-na-ps4-vita/guide/
 Akiba's Trip: Undead & Undressed,PS4,https://www.playstationtrophies.org/game/akibas-trip-2-ps4/guide/
 Alchemic Jousts,PS4,https://www.playstationtrophies.org/game/alchemic-jousts/guide/
 Alex Kidd in Miracle World,PS3(PSN),https://www.playstationtrophies.org/game/alex-kidd-in-miracle-world/guide/
-Alienation,PS4,https://www.playstationtrophies.org/game/alienation/guide/
-Alien Rage,PS3(PSN),https://www.playstationtrophies.org/game/alien-rage/guide/
-Alien Spidy,PS3(PSN),https://www.playstationtrophies.org/game/alien-spidy/guide/
+ALIEN RAGE,PS3(PSN),https://www.playstationtrophies.org/game/alien-rage/guide/
+ALIEN SPIDY,PS3(PSN),https://www.playstationtrophies.org/game/alien-spidy/guide/
+ALIENATION,PS4,https://www.playstationtrophies.org/game/alienation/guide/
 All Zombies Must Die!,PS3(PSN),https://www.playstationtrophies.org/game/all-zombies-must-die/guide/
 Alone in the Dark: Inferno,PS3,https://www.playstationtrophies.org/game/alone-in-the-dark-inferno/guide/
 Altered Beast,PS3(PSN),https://www.playstationtrophies.org/game/altered-beast/guide/
@@ -50,16 +50,16 @@ Assetto Corsa,PS4,https://www.playstationtrophies.org/game/assetto-corsa-na/guid
 Asura's Wrath,PS3,https://www.playstationtrophies.org/game/asuras-wrath/guide/
 Atari Flashback Classics vol.1,PS4,https://www.playstationtrophies.org/game/atari-flashback-classics-vol-1/guide/
 Atari Flashback Classics vol.2,PS4,https://www.playstationtrophies.org/game/atari-flashback-classics-vol-2/guide/
-Atelier Ayesha: The Alchemist of Dusk,PS3,https://www.playstationtrophies.org/game/atelier-ayesha-alchemist-of-dusk/guide/
+Atelier Ayesha: THE ALCHEMIST OF DUSK,PS3,https://www.playstationtrophies.org/game/atelier-ayesha-alchemist-of-dusk/guide/
 Atelier Escha & Logy: The Alchemists of Dusk Sky,PS3,https://www.playstationtrophies.org/game/atelier-escha-and-logy/guide/
-Atelier Rorona Plus ~The Alchemist of Arland~ (PS3 & VIta),PS3,https://www.playstationtrophies.org/game/atelier-rorona-plus/guide/
+Atelier Rorona Plus: The Alchemist of Arland,PS3,https://www.playstationtrophies.org/game/atelier-rorona-plus/guide/
 Atelier Shallie: Alchemists of the Dusk Sea,PS3,https://www.playstationtrophies.org/game/atelier-shallie/guide/
 Azkend 2: The World Beneath,PS4,https://www.playstationtrophies.org/game/azkend-2-ps4/guide/
 Back to Bed,PS4,https://www.playstationtrophies.org/game/back-to-bed-na/guide/
 Backgammon Blitz,PS4,https://www.playstationtrophies.org/game/backgammon-blitz/guide/
-Bard’s Gold,PS4,https://www.playstationtrophies.org/game/bards-gold-na-eu-ps4/guide/
-Baja: Edge of Control HD,PS4,https://www.playstationtrophies.org/game/baja-edge-of-control-hd/guide/
+BAJA: EDGE OF CONTROL HD,PS4,https://www.playstationtrophies.org/game/baja-edge-of-control-hd/guide/
 Bang Bang Racing,PS3(PSN),https://www.playstationtrophies.org/game/bang-bang-racing/guide/
+Bard’s Gold,PS4,https://www.playstationtrophies.org/game/bards-gold-na-eu-ps4/guide/
 Baseball Riot,PS4,https://www.playstationtrophies.org/game/baseball-riot/guide/
 Batman: Arkham Asylum,PS3,https://www.playstationtrophies.org/game/batman-arkham-asylum/guide/
 Batman: Arkham City,PS3,https://www.playstationtrophies.org/game/batman-arkham-city/guide/
@@ -70,28 +70,27 @@ Battle Fantasia,PS3(PSN),https://www.playstationtrophies.org/game/battlefantasia
 BATTLE OF TILES EX,PS3,https://www.playstationtrophies.org/game/battle-of-tiles-ex/guide/
 Battle Princess of Arcadias,PS3,https://www.playstationtrophies.org/game/battle-princess-of-arcadias/guide/
 Battle Worlds: Kronos,PS4,https://www.playstationtrophies.org/game/battle-worlds-kronos/guide/
-Battlefield 4,PS3,https://www.playstationtrophies.org/game/battlefield-4/guide/
-Battlefield Hardline,PS3,https://www.playstationtrophies.org/game/battlefield-hardline-ps3/guide/
+Battlefield 4™,PS3,https://www.playstationtrophies.org/game/battlefield-4/guide/
+Battlefield™ Hardline,PS3,https://www.playstationtrophies.org/game/battlefield-hardline-ps3/guide/
 Bellator MMA Onslaught,PS3(PSN),https://www.playstationtrophies.org/game/bellator-mma-onslaught/guide/
 Ben 10,PS4,https://www.playstationtrophies.org/game/ben-10/guide/
 Bentley's Hackpack,PS3(PSN),https://www.playstationtrophies.org/game/bentleys-hackpack/guide/
-Beyond: Two Souls,PS4,https://www.playstationtrophies.org/game/beyond-two-souls-ps4/guide/
-Big Sky: Infinity,PS3(PSN),https://www.playstationtrophies.org/game/big-sky-infinity/guide/
+BEYOND: Two Souls,PS4,https://www.playstationtrophies.org/game/beyond-two-souls-ps4/guide/
+Big Sky Infinity,PS3(PSN),https://www.playstationtrophies.org/game/big-sky-infinity/guide/
 Bionic Commando: Rearmed,PS3(PSN),https://www.playstationtrophies.org/game/bionic-commando-rearmed/guide/
 Bionic Commando: Rearmed 2,PS3(PSN),https://www.playstationtrophies.org/game/bionic-commando-rearmed-2/guide/
 Bioshock,PS3,https://www.playstationtrophies.org/game/bioshock/guide/
 BioShock 2,PS3,https://www.playstationtrophies.org/game/bioshock-2/guide/
 BioShock Infinite,PS3,https://www.playstationtrophies.org/game/bioshock-infinite/guide/
-BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,PS3(PSN),https://www.playstationtrophies.org/game/bit-trip-runner2/guide/
 Black Knight Sword,PS3(PSN),https://www.playstationtrophies.org/game/black-knight-sword/guide/
 Black Mirror,PS4,https://www.playstationtrophies.org/game/black-mirror/guide/
-Bladestorm: Nightmare,PS4,https://www.playstationtrophies.org/game/bladestorm-nightmare-na-eu/guide/
-Bladestorm: The Hundred Years War,PS3(no_trophies)
+BLADESTORM: Nightmare,PS4,https://www.playstationtrophies.org/game/bladestorm-nightmare-na-eu/guide/
+Bladestorm: The Hundred Years' War,PS3(no_trophies)
 BlazBlue: Calamity Trigger,PS3,https://www.playstationtrophies.org/game/blazblue/guide/
-BlazBlue: Central Fiction,PS4,https://www.playstationtrophies.org/game/blazblue-central-fiction/guide/
 BlazBlue: Chrono Phantasma,PS3,https://www.playstationtrophies.org/game/blazblue-chronophantasma/guide/
 BlazBlue: Chrono Phantasma EXTEND,PS4,https://www.playstationtrophies.org/game/blazblue-chrono-phantasma-extend/guide/
 BlazBlue: Continuum Shift Extend,PS3,https://www.playstationtrophies.org/game/blazblue-continuum-shift-extend/guide/
+BlazBlue: Central Fiction,PS4,https://www.playstationtrophies.org/game/blazblue-central-fiction/guide/
 BlazeRush,PS4,https://www.playstationtrophies.org/game/blazerush-ps4/guide/
 Bloodborne,PS4,https://www.playstationtrophies.org/game/bloodborne/guide/
 Blood Bowl 2,PS4,https://www.playstationtrophies.org/game/blood-bowl-2/guide/
@@ -102,9 +101,9 @@ Bokosuka Wars II,PS4,https://www.playstationtrophies.org/game/bokosuka-wars-ii-n
 Bolt,PS3(no_trophies)
 Bomberman Ultra,PS3(PSN),https://www.playstationtrophies.org/game/bomberman-ultra/guide/
 Bombing Busters,PS4,https://www.playstationtrophies.org/game/bombing-busters-ps4-vita/guide/
+Borderlands,PS3,https://www.playstationtrophies.org/game/borderlands/guide/
 Borderlands: The Pre-Sequel: The Handsome Collection,PS4,https://www.playstationtrophies.org/game/borderlands-the-handsome-collection/guide/
 Borderlands 2: The Handsome Collection,PS4,https://www.playstationtrophies.org/game/borderlands-2-the-handsome-collection/guide/
-Borderlands,PS3,https://www.playstationtrophies.org/game/borderlands/guide/
 Bound,PS4,https://www.playstationtrophies.org/game/bound/guide/
 Bound by Flame,PS4,https://www.playstationtrophies.org/game/bound-by-flame/guide/
 Braid,PS3(PSN),https://www.playstationtrophies.org/game/braid/guide/
@@ -118,7 +117,7 @@ Brothers: A Tale of Two Sons,PS4,https://www.playstationtrophies.org/game/brothe
 BRUT@L,PS4,https://www.playstationtrophies.org/game/brutal/guide/
 Bubsy: The Woolies Strike Back,PS4,https://www.playstationtrophies.org/game/bubsy-the-woolies-strike-back-na/guide/
 Burn Zombie Burn!,PS3(PSN),https://www.playstationtrophies.org/game/burn-zombie-burn/guide/
-Capcom Arcade Cabinet,PS3(PSN),https://www.playstationtrophies.org/game/capcom-arcade-cabinet/guide/
+CAPCOM ARCADE CABINET,PS3(PSN),https://www.playstationtrophies.org/game/capcom-arcade-cabinet/guide/
 Carmageddon: Max Damage,PS4,https://www.playstationtrophies.org/game/carmageddon-max-damage/guide/
 Cars 2: The Video Game,PS3,https://www.playstationtrophies.org/game/cars-2-the-video-game/guide/
 Cars Race-O-Rama,PS3,https://www.playstationtrophies.org/game/cars-race-o-rama/guide/
@@ -127,8 +126,8 @@ Cartoon Network Battle Crashers,PS4,https://www.playstationtrophies.org/game/car
 Castle Invasion: Throne Out,PS4,https://www.playstationtrophies.org/game/castle-invasion-throne-out-ps4-/guide/
 Castlevania Harmony of Despair,PS3(PSN),https://www.playstationtrophies.org/game/castlevania-harmony-of-despair/guide/
 Castlevania Lords of Shadow,PS3,https://www.playstationtrophies.org/game/castlevania-lords-of-shadow/guide/
-Castlevania Lords of Shadow - Mirror of Fate HD,PS3(PSN),https://www.playstationtrophies.org/game/mirror-of-fate/guide/
 Castlevania Lords of Shadow 2,PS3,https://www.playstationtrophies.org/game/castlevania-lords-of-shadow-2/guide/
+Castlevania Lords of Shadow - Mirror of Fate HD,PS3(PSN),https://www.playstationtrophies.org/game/mirror-of-fate/guide/
 Catherine,PS3,https://www.playstationtrophies.org/game/catherine/guide/
 Cel Damage HD,PS3(PSN),https://www.playstationtrophies.org/game/cel-damage-hd/guide/
 Champion Jockey: G1 Jockey & Gallop Racer,PS3,https://www.playstationtrophies.org/game/champion-jockey-gallop-racer-and-g1-jockey-us/guide/
@@ -597,6 +596,7 @@ Rotastic,PS3(PSN),https://www.playstationtrophies.org/game/rotastic/guide/
 Rugby 15,PS3,https://www.playstationtrophies.org/game/rugby-15-ps3/guide/
 Rugby World Cup 2015,PS3,https://www.playstationtrophies.org/game/rugby-world-cup-15-ps3/guide/
 Rune Factory: Tides of Destiny,PS3,https://www.playstationtrophies.org/game/rune-factory-tides-of-destiny/guide/
+BIT.TRIP Presents... Runner2: Future Legend of Rhythm Alien,PS3(PSN),https://www.playstationtrophies.org/game/bit-trip-runner2/guide/
 Sacred 3,PS3,https://www.playstationtrophies.org/game/sacred-3/guide/
 Sacred Citadel,PS3(PSN),https://www.playstationtrophies.org/game/sacred-citadel/guide/
 Saints Row 2,PS3(no_trophies)
