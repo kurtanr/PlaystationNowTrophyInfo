@@ -97,6 +97,7 @@ if($StatusCode -eq "200")
                $gameName.Equals("SkyScrappers") -or
                $gameName.Equals("Toren (NA)") -or
                $gameName.Equals("Unepic (PS4)") -or
+               $gameName.Equals("StarryNights -Helix-") -or
                $gameName.Equals("Wander (NA)")))
         {
             # Duplicate ps4 games

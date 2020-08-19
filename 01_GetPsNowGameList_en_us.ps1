@@ -57,7 +57,7 @@ if($StatusCode -eq "200")
             Add-Content -Path $outputFile -Value "Silent Hill 2 HD"
             Add-Content -Path $outputFile -Value "Silent Hill 3 HD"
         }
-        elseif($game.Equals("Sam &amp; Max: Beyond Time and Space"))
+        elseif($game.Equals("Sam and Max: BT&S – Chariots of the Dogs"))
         {
             Add-Content -Path $outputFile -Value "Sam & Max: Beyond Time and Space - Episode 1: Ice Station Santa"
             Add-Content -Path $outputFile -Value "Sam & Max: Beyond Time and Space - Episode 2: Moai Better Blues"
@@ -65,7 +65,7 @@ if($StatusCode -eq "200")
             Add-Content -Path $outputFile -Value "Sam & Max: Beyond Time and Space - Episode 4:  Chariots of the Dogs"
             Add-Content -Path $outputFile -Value "Sam & Max: Beyond Time and Space - Episode 5: What's New, Beelzebub?"
         }
-        elseif($game.Equals("Sam &amp; Max The Devil's Playhouse"))
+        elseif($game.Equals("Sam and Max Episode 1: The Penal Zone"))
         {
             Add-Content -Path $outputFile -Value "Sam & Max: The Devil's Playhouse - Episode 1: The Penal Zone"
             Add-Content -Path $outputFile -Value "Sam & Max: The Devil's Playhouse - Episode 2: The Tomb of Sammun-Mak"
@@ -73,7 +73,7 @@ if($StatusCode -eq "200")
             Add-Content -Path $outputFile -Value "Sam & Max: The Devil's Playhouse - Episode 4: Beyond the Alley of the Dolls"
             Add-Content -Path $outputFile -Value "Sam & Max: The Devil's Playhouse - Episode 5: The City That Dares Not Sleep"
         }
-        elseif($game.Equals("Strong Bad's Cool Game for Attractive People"))
+        elseif($game.Equals("Strong Bad's Cool Game for Attractive People Season Pass"))
         {
             Add-Content -Path $outputFile -Value "Strong Bad's Cool Game for Attractive People - Episode 1: Homestar Ruiner"
             Add-Content -Path $outputFile -Value "Strong Bad's Cool Game for Attractive People - Episode 2: Strong Badia the Free"
@@ -94,7 +94,10 @@ if($StatusCode -eq "200")
             # trophies are added to the main game
         }
         elseif($game.Equals("Bloodborne™") -or 
-               $game.Equals("CARS MATER-NATIONAL"))
+               $game.Equals("Last Tinker: City of Colors") -or 
+               $game.Equals("CARS MATER-NATIONAL") -or 
+               $game.StartsWith("Sam and Max") -or 
+               $game.Equals("The Sly Collection"))
         {
             # already on the list under different name
         }

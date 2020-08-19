@@ -150,20 +150,20 @@ Crimsonland,PS4,https://www.playstationtrophies.org/game/crimsonland-ps4/guide/
 Critter Crunch,PS3(PSN),https://www.playstationtrophies.org/game/critter-crunch/guide/
 Croixleur Sigma,PS4,https://www.playstationtrophies.org/game/croixleur-sigma/guide/
 Cuboid,PS3(PSN),https://www.playstationtrophies.org/game/cuboid/guide/
+.DETUNED,PS3(PSN),https://www.playstationtrophies.org/game/detuned/guide/
 Damnation,PS3,https://www.playstationtrophies.org/game/damnation/guide/
 Dandara,PS4,https://www.playstationtrophies.org/game/dandara-na/guide/
 Danger Zone,PS4,https://www.playstationtrophies.org/game/danger-zone/guide/
-Dangerous Golf,PS4,https://www.playstationtrophies.org/game/dangerous-golf/guide/
+Dangerous Golf™,PS4,https://www.playstationtrophies.org/game/dangerous-golf/guide/
 DARK ARCANA: THE CARNIVAL,PS4,https://www.playstationtrophies.org/game/dark-arcana-the-carnival/guide/
 Dark Cloud,PS4,https://www.playstationtrophies.org/game/dark-cloud/guide/
 Dark Cloud 2,PS4,https://www.playstationtrophies.org/game/dark-cloud-2/guide/
 Dark Rose Valkyrie,PS4,https://www.playstationtrophies.org/game/dark-rose-valkyrie-na-and-eu/guide/
 Dark Sector,PS3(no_trophies)
 Dark Void,PS3,https://www.playstationtrophies.org/game/dark-void/guide/
-Darksiders: Warmastered Edition,PS4,https://www.playstationtrophies.org/game/darksiders-warmastered-edition/guide/
-Darksiders II: Deathinitive Edition,PS4,https://www.playstationtrophies.org/game/darksiders-2-deathinitive-edition/guide/
-Darkstalkers Resurrection,PS3(PSN),https://www.playstationtrophies.org/game/darkstalkers-resurrection/guide/
-Desert Child,PS4,https://www.playstationtrophies.org/game/desert-child/guide/
+Darksiders Warmastered Edition,PS4,https://www.playstationtrophies.org/game/darksiders-warmastered-edition/guide/
+Darksiders II Deathinitive Edition,PS4,https://www.playstationtrophies.org/game/darksiders-2-deathinitive-edition/guide/
+Darkstalkers® Resurrection,PS3(PSN),https://www.playstationtrophies.org/game/darkstalkers-resurrection/guide/
 Day of the Tentacle Remastered,PS4,https://www.playstationtrophies.org/game/day-of-the-tentacle-remastered/guide/
 de Blob,PS4,https://www.playstationtrophies.org/game/de-blob-ps4/guide/
 de Blob 2,PS3,https://www.playstationtrophies.org/game/de-blob-2-ps3/guide/
@@ -175,17 +175,18 @@ Dead Nation: Apocalypse Edition,PS4,https://www.playstationtrophies.org/game/dea
 Dead or Alive 5: Last Round,PS4,https://www.playstationtrophies.org/game/dead-or-alive-5-last-round/guide/
 Dead Space 3,PS3,https://www.playstationtrophies.org/game/dead-space-3/guide/
 Dead to Rights: Retribution,PS3,https://www.playstationtrophies.org/game/dead-to-rights-retribution/guide/
-Deadlight Director's Cut,PS4,https://www.playstationtrophies.org/game/deadlight-directors-cut/guide/
-Death Track: Resurrection,PS3(PSN),https://www.playstationtrophies.org/game/death-track-resurrection/guide/
 Deadliest Warrior: Legends,PS3(PSN),https://www.playstationtrophies.org/game/deadliest-warrior-legends/guide/
 Deadliest Warrior: The Game,PS3(PSN),https://www.playstationtrophies.org/game/deadliest-warrior-the-game/guide/
-Deception IV: The Nightmare Princess,PS4,https://www.playstationtrophies.org/game/deception-4-the-nightmare-princess-old/guide/
+Deadlight Director's Cut,PS4,https://www.playstationtrophies.org/game/deadlight-directors-cut/guide/
+DeathSpank: The Baconing™,PS3(PSN),https://www.playstationtrophies.org/game/deathspank-the-baconing/guide/
+Death Track: Resurrection,PS3(PSN),https://www.playstationtrophies.org/game/death-track-resurrection/guide/
 Deception IV: Blood Ties,PS3,https://www.playstationtrophies.org/game/deception-iv-blood-ties-na/guide/
+Deception IV: The Nightmare Princess,PS4,https://www.playstationtrophies.org/game/deception-4-the-nightmare-princess-old/guide/
 Defense Grid 2,PS4,https://www.playstationtrophies.org/game/defense-grid-2/guide/
 Derrick the Deathfin,PS3(PSN),https://www.playstationtrophies.org/game/derrick-the-deathfin/guide/
+Desert Child,PS4,https://www.playstationtrophies.org/game/desert-child/guide/
 Destroy All Humans!,PS4,https://www.playstationtrophies.org/game/destroy-all-humans/guide/
 Destroy All Humans! 2,PS4,https://www.playstationtrophies.org/game/destroy-all-humans-2/guide/
-.detuned,PS3(PSN),https://www.playstationtrophies.org/game/detuned/guide/
 Devil May Cry 4,PS3(no_trophies)
 Devil May Cry,PS3,https://www.playstationtrophies.org/game/devil-may-cry-ps3/guide/
 Devil May Cry 2,PS3,https://www.playstationtrophies.org/game/devil-may-cry-2-ps3/guide/
@@ -198,8 +199,8 @@ Disgaea 5: Alliance of Vengeance,PS4,https://www.playstationtrophies.org/game/di
 Disgaea D2: A Brighter Darkness,PS3,https://www.playstationtrophies.org/game/disgaea-d2-na/guide/
 Dishonored,PS3,https://www.playstationtrophies.org/game/dishonored/guide/
 Dishonored 2,PS4,https://www.playstationtrophies.org/game/dishonored-2/guide/
-Disney Universe,PS3,https://www.playstationtrophies.org/game/disney-universe/guide/
 Epic Mickey 2: The Power of Two,PS3,https://www.playstationtrophies.org/game/epic-mickey-2/guide/
+Disney Universe,PS3,https://www.playstationtrophies.org/game/disney-universe/guide/
 Divekick,PS3(PSN),https://www.playstationtrophies.org/game/divekick/guide/
 Doc Clock: The Toasted Sandwich of Time,PS3(PSN),https://www.playstationtrophies.org/game/doc-clock/guide/
 Dogfight 1942,PS3(PSN),https://www.playstationtrophies.org/game/dogfight-1942/guide/
@@ -220,10 +221,10 @@ Dynasty Warriors 7,PS3,https://www.playstationtrophies.org/game/dynasty-warriors
 Dynasty Warriors 7: Empires,PS3,https://www.playstationtrophies.org/game/dynasty-warriors-7-empires-english/guide/
 Dynasty Warriors 7: Xtreme Legends,PS3,https://www.playstationtrophies.org/game/dynasty-warriors-7-xtreme-legends/guide/
 Dynasty Warriors 8,PS3,https://www.playstationtrophies.org/game/dynasty-warriors-8/guide/
-Dynasty Warriors 8 Xtreme Legends,PS3,https://www.playstationtrophies.org/game/dynasty-warriors-8-xtreme-legends-na-eu/guide/
+Dynasty Warriors 8: Xtreme Legends,PS3,https://www.playstationtrophies.org/game/dynasty-warriors-8-xtreme-legends-na-eu/guide/
 Dynasty Warriors: Strikeforce,PS3,https://www.playstationtrophies.org/game/dynasty-warriors-strikeforce/guide/
-Earth Defense Force 4.1: The Shadow of New Despair,PS4,https://www.playstationtrophies.org/game/earth-defense-force-4-1-the-shadow-of-new-despair/guide/
 Earth Defense Force 2025,PS3,https://www.playstationtrophies.org/game/earth-defense-force-2025/guide/
+Earth Defense Force 4.1: The Shadow of New Despair,PS4,https://www.playstationtrophies.org/game/earth-defense-force-4-1-the-shadow-of-new-despair/guide/
 Earth Defense Force: Insect Armageddon,PS3,https://www.playstationtrophies.org/game/earth-defense-force-insect-armageddon/guide/
 Eat Lead: The Return of Matt Hazard,PS3,https://www.playstationtrophies.org/game/eat-lead-the-return-of-matt-hazard/guide/
 Eat Them!,PS3(PSN),https://www.playstationtrophies.org/game/eat-them/guide/
@@ -244,9 +245,6 @@ Everyday Shooter,PS3(no_trophies)
 Exile’s End,PS4,https://www.playstationtrophies.org/game/exiles-end-ps4-vita/guide/
 Exist Archive: The Other Side of the Sky,PS4,https://www.playstationtrophies.org/game/exist-archive-the-other-side-of-the-sky-ps4-vita/guide/
 Extreme Exorcism,PS4,https://www.playstationtrophies.org/game/extreme-exorcism/guide/
-Fairy Fencer F: Advent Dark Force,PS4,https://www.playstationtrophies.org/game/fairy-fencer-f-advent-dark-force-na-eu/guide/
-Fallout 4,PS4,https://www.playstationtrophies.org/game/fallout-4/guide/
-Fantavision,PS4,https://www.playstationtrophies.org/game/fantavision/guide/
 F.E.A.R.,PS3(no_trophies)
 F1 2014,PS3,https://www.playstationtrophies.org/game/f1-2014/guide/
 F1 2015,PS4,https://www.playstationtrophies.org/game/f1-2015/guide/
@@ -255,8 +253,11 @@ F1 2017,PS4,https://www.playstationtrophies.org/game/f1-2017/guide/
 F1 2019,PS4,https://www.playstationtrophies.org/game/f1-2019/guide/
 F1 RACE STARS,PS3,https://www.playstationtrophies.org/game/f1-race-stars/guide/
 Faery: Legends of Avalon,PS3(PSN),https://www.playstationtrophies.org/game/faery-legends-of-avalon/guide/
+Fairy Fencer F: Advent Dark Force,PS4,https://www.playstationtrophies.org/game/fairy-fencer-f-advent-dark-force-na-eu/guide/
 Fallout 3,PS3,https://www.playstationtrophies.org/game/fallout-3/guide/
-Fallout New Vegas,PS3,https://www.playstationtrophies.org/game/fallout-new-vegas/guide/
+Fallout 4,PS4,https://www.playstationtrophies.org/game/fallout-4/guide/
+Fallout: New Vegas,PS3,https://www.playstationtrophies.org/game/fallout-new-vegas/guide/
+Fantavision,PS4,https://www.playstationtrophies.org/game/fantavision/guide/
 Farming Simulator,PS3,https://www.playstationtrophies.org/game/farming-simulator/guide/
 Farming Simulator 19,PS4,https://www.playstationtrophies.org/game/farming-simulator-19/guide/
 Fighting Vipers,PS3(PSN),https://www.playstationtrophies.org/game/fighting-vipers/guide/
@@ -279,17 +280,17 @@ Get Even,PS4,https://www.playstationtrophies.org/game/get-even/guide/
 Ghostbusters: Sanctum of Slime,PS3(PSN),https://www.playstationtrophies.org/game/ghostbusters-sanctum-of-slime/guide/
 Giana Sisters: Twisted Dreams - Director's Cut,PS4,https://www.playstationtrophies.org/game/giana-sisters-twisted-dreams-directors-cut-ps4/guide/
 Go! Puzzle,PS3(no_trophies)
-God Eater Resurrection,PS4,https://www.playstationtrophies.org/game/god-eater-resurrection/guide/
+GO! Sports Ski,PS3(no_trophies)
 God Eater 2: Rage Burst,PS4,https://www.playstationtrophies.org/game/god-eater-2-rage-burst/guide/
+God Eater: Resurrection,PS4,https://www.playstationtrophies.org/game/god-eater-resurrection/guide/
 God of War,PS3,https://www.playstationtrophies.org/game/god-of-war/guide/
 God of War II,PS3,https://www.playstationtrophies.org/game/god-of-war-ii/guide/
-God Of War 3 Remastered,PS4,https://www.playstationtrophies.org/game/god-of-war-3-remastered/guide/
+God of War® III Remastered,PS4,https://www.playstationtrophies.org/game/god-of-war-3-remastered/guide/
 God of War: Ascension,PS3,https://www.playstationtrophies.org/game/god-of-war-ascension/guide/
 God of War: Chains of Olympus,PS3,https://www.playstationtrophies.org/game/god-of-war-chains-of-olympus/guide/
 God of War: Ghost of Sparta,PS3,https://www.playstationtrophies.org/game/god-of-war-ghost-of-sparta/guide/
 Golden Axe,PS3(PSN),https://www.playstationtrophies.org/game/golden-axe/guide/
 Goosebumps: The Game,PS4,https://www.playstationtrophies.org/game/goosebumps-the-game/guide/
-GO! Sports Ski,PS3(no_trophies)
 Grand Ages: Medieval,PS4,https://www.playstationtrophies.org/game/grand-ages-medieval/guide/
 Grand Kingdom,PS4,https://www.playstationtrophies.org/game/grand-kingdom-na-eu/guide/
 Gravity Crash,PS3(PSN),https://www.playstationtrophies.org/game/gravity-crash/guide/
@@ -301,15 +302,15 @@ Grid 2,PS3,https://www.playstationtrophies.org/game/grid-2/guide/
 Grid Autosport,PS3,https://www.playstationtrophies.org/game/grid-autosport/guide/
 Grim Fandango,PS4,https://www.playstationtrophies.org/game/grim-fandango/guide/
 Guacamelee!,PS3(PSN),https://www.playstationtrophies.org/game/guacamelee/guide/
-Guilty Gear Xrd: Revelator,PS4,https://www.playstationtrophies.org/game/guilty-gear-xrd-revelator/guide/
-Guilty Gear Xrd Sign,PS4,https://www.playstationtrophies.org/game/guilty-gear-xrd-sign-ps4/guide/
+Guilty Gear Xrd -Revelator-,PS4,https://www.playstationtrophies.org/game/guilty-gear-xrd-revelator/guide/
+Guilty Gear Xrd -SIGN-,PS4,https://www.playstationtrophies.org/game/guilty-gear-xrd-sign-ps4/guide/
 Hakuoki: Stories of the Shinsengumi,PS3,https://www.playstationtrophies.org/game/hakuoki-stories-of-shinsengumi/guide/
 Hamilton's Great Adventure,PS3(PSN),https://www.playstationtrophies.org/game/hamiltons-great-adventure/guide/
 Hamsterball,PS3(PSN),https://www.playstationtrophies.org/game/hamster-ball/guide/
 Handball 16,PS3,https://www.playstationtrophies.org/game/handball-16-ps3/guide/
 Hardware Rivals,PS4,https://www.playstationtrophies.org/game/hardware-rivals/guide/
-Harvest Moon: A Wonderful Life Special Edition,PS4,https://www.playstationtrophies.org/game/harvest-moon/guide/
-Harvest Moon: Save the Homeland,PS4,https://www.playstationtrophies.org/game/harvest-moon-save-the-homeland/guide/
+Harvest Moon®: A Wonderful Life Special Edition,PS4,https://www.playstationtrophies.org/game/harvest-moon/guide/
+Harvest Moon®: Save the Homeland,PS4,https://www.playstationtrophies.org/game/harvest-moon-save-the-homeland/guide/
 Heavenly Sword,PS3(no_trophies)
 Heavy Fire: Afghanistan,PS3,https://www.playstationtrophies.org/game/heavy-fire-afghanistan/guide/
 Heavy Fire: Shattered Spear,PS3,https://www.playstationtrophies.org/game/heavy-fire-shattered-spear/guide/
@@ -327,12 +328,12 @@ Hot Shots Golf: World Invitational,PS3(PSN),https://www.playstationtrophies.org/
 Hot Shots Tennis,PS4,https://www.playstationtrophies.org/game/hot-shots-tennis/guide/
 Hotel Transylvania 3 Monsters Overboard,PS4,https://www.playstationtrophies.org/game/hotel-transylvania-3-monsters-overboard/guide/
 How to Survive: Storm Warning Edition,PS4,https://www.playstationtrophies.org/game/how-to-survive-storm-warning-edition/guide/
-Hunted: The Demon's Forge,PS3,https://www.playstationtrophies.org/game/hunted-the-demons-forge/guide/
+Hunted: The Demon's Forge™,PS3,https://www.playstationtrophies.org/game/hunted-the-demons-forge/guide/
 Hunter’s Trophy 2: America,PS3(PSN),https://www.playstationtrophies.org/game/hunters-trophy-2-america/guide/
 Hunter’s Trophy 2 : Australia,PS3(PSN),https://www.playstationtrophies.org/game/hunters-trophy-2-australia/guide/
 Hustle Kings,PS3(PSN),https://www.playstationtrophies.org/game/hustle-kings/guide/
 I Am Bread,PS4,https://www.playstationtrophies.org/game/i-am-bread/guide/
-ibb &amp; obb,PS3(PSN),https://www.playstationtrophies.org/game/ibb-and-obb/guide/
+ibb and obb,PS3(PSN),https://www.playstationtrophies.org/game/ibb-and-obb/guide/
 Team Ico Collection: ICO,PS3,https://www.playstationtrophies.org/game/team-ico-collection-ico/guide/
 In Space We Brawl,PS4,https://www.playstationtrophies.org/game/in-space-we-brawl-na-ps4/guide/
 Industry Giant 2,PS4,https://www.playstationtrophies.org/game/industry-giant-2/guide/
@@ -356,9 +357,9 @@ Jumpjet Rex,PS4,https://www.playstationtrophies.org/game/jumpjet-rex/guide/
 Just Cause 4,PS4,https://www.playstationtrophies.org/game/just-cause-4/guide/
 Karateka,PS3(PSN),https://www.playstationtrophies.org/game/karateka/guide/
 Katamari Forever,PS3,https://www.playstationtrophies.org/game/katamari-forever/guide/
-Killzone 2,PS3,https://www.playstationtrophies.org/game/killzone-2/guide/
-Killzone 3,PS3,https://www.playstationtrophies.org/game/killzone-3/guide/
-Killzone HD,PS3,https://www.playstationtrophies.org/game/killzone-hd/guide/
+KILLZONE 2,PS3,https://www.playstationtrophies.org/game/killzone-2/guide/
+KILLZONE 3,PS3,https://www.playstationtrophies.org/game/killzone-3/guide/
+KILLZONE™ HD,PS3,https://www.playstationtrophies.org/game/killzone-hd/guide/
 Killzone Shadow Fall,PS4,https://www.playstationtrophies.org/game/killzone-shadow-fall/guide/
 Kinetica,PS4,https://www.playstationtrophies.org/game/kinetica/guide/
 King Oddball,PS4,https://www.playstationtrophies.org/game/king-oddball-ps4/guide/
@@ -366,20 +367,19 @@ Kingdom: New Lands,PS4,https://www.playstationtrophies.org/game/kingdom-new-land
 Knack,PS4,https://www.playstationtrophies.org/game/knack/guide/
 Knytt Underground,PS3(PSN),https://www.playstationtrophies.org/game/knytt-underground/guide/
 Kung Fu Rabbit,PS3(PSN),https://www.playstationtrophies.org/game/kung-fu-rabbit-ps3/guide/
-The Last Tinker: City of Colors,PS4,https://www.playstationtrophies.org/game/last-tinker-ps4/guide/
 Lead and Gold: Gangs of the Wild West,PS3(PSN),https://www.playstationtrophies.org/game/lead-and-gold-gangs-of-the-wild-west/guide/
 Legasista,PS3(PSN),https://www.playstationtrophies.org/game/legasista-na-eu/guide/
 Legend of Kay Anniversary,PS4,https://www.playstationtrophies.org/game/legend-of-kay-anniversary/guide/
-LEGO Batman: The Videogame,PS3(no_trophies)
 LEGO Batman 2: DC Super Heroes,PS3,https://www.playstationtrophies.org/game/lego-batman-2-dc-super-heroes/guide/
 LEGO Batman 3: Beyond Gotham,PS4,https://www.playstationtrophies.org/game/lego-batman-3-beyond-gotham/guide/
+LEGO Batman: The Videogame,PS3(no_trophies)
 LEGO Harry Potter: Years 1-4,PS3,https://www.playstationtrophies.org/game/lego-harry-potter-years-1-4/guide/
 LEGO Harry Potter: Years 5-7,PS3,https://www.playstationtrophies.org/game/lego-harry-potter-years-5-7/guide/
 LEGO Indiana Jones: The Original Adventures,PS3(no_trophies)
 LEGO Indiana Jones 2: The Adventure Continues,PS3,https://www.playstationtrophies.org/game/lego-indiana-jones-2/guide/
 LEGO Pirates of the Caribbean,PS3,https://www.playstationtrophies.org/game/lego-pirates-of-the-caribbean/guide/
+LEGO Star Wars III: The Clone Wars™,PS3,https://www.playstationtrophies.org/game/lego-star-wars-iii-the-clone-wars/guide/
 LEGO Star Wars: The Complete Saga,PS3(no_trophies)
-LEGO Star Wars 3: The Clone Wars,PS3,https://www.playstationtrophies.org/game/lego-star-wars-iii-the-clone-wars/guide/
 Lemmings,PS3(PSN),https://www.playstationtrophies.org/game/lemmings/guide/
 Leo's Fortune,PS4,https://www.playstationtrophies.org/game/leos-fortune/guide/
 Limbo,PS4,https://www.playstationtrophies.org/game/limbo-ps4/guide/
@@ -423,15 +423,14 @@ Metal Gear Solid V: The Phantom Pain,PS4,https://www.playstationtrophies.org/gam
 Metal Slug 3,PS4(PSN),https://www.playstationtrophies.org/game/metal-slug-3/guide/
 Metro Exodus,PS4,https://www.playstationtrophies.org/game/metro-exodus/guide/
 Metro: Last Light,PS3,https://www.playstationtrophies.org/game/metro-last-light/guide/
-Metro Last Light Redux,PS4,https://www.playstationtrophies.org/game/metro-last-light-redux/guide/
+Metro: Last Light Redux,PS4,https://www.playstationtrophies.org/game/metro-last-light-redux/guide/
 Mighty No. 9,PS4,https://www.playstationtrophies.org/game/mighty-no-9/guide/
 Miko Gakkou Monogatari: Kaede Episode,PS4,https://www.playstationtrophies.org/game/miko-gakkou-monogatari-kaede-episode/guide/
 Minutes,PS4,https://www.playstationtrophies.org/game/minutes/guide/
 Mirror’s Edge,PS3,https://www.playstationtrophies.org/game/mirrors-edge/guide/
 Mitsurugi Kamui Hikae,PS4,https://www.playstationtrophies.org/game/mitsurugi-kamui-hikae/guide/
 Momonga Pinball Adventures,PS4,https://www.playstationtrophies.org/game/momonga-pinball-adventures/guide/
-The Secret of Monkey Island: Special Edition,PS3(PSN),https://www.playstationtrophies.org/game/the-secret-of-monkey-island-special-edition/guide/
-Monkey Island 2 Special Edition: LeChuck's Revenge,PS3(PSN),https://www.playstationtrophies.org/game/monkey-island-2-le-chucks-revenge/guide/
+Monkey Island™ 2 Special Edition: LeChuck's Revenge™,PS3(PSN),https://www.playstationtrophies.org/game/monkey-island-2-le-chucks-revenge/guide/
 Monster Energy Supercross - The Official Videogame,PS4,https://www.playstationtrophies.org/game/monster-energy-supercross-the-official-videogame/guide/
 Mordheim - City of the Damned,PS4,https://www.playstationtrophies.org/game/mordheim-city-of-the-damned/guide/
 Mortal Kombat,PS3,https://www.playstationtrophies.org/game/mortal-kombat/guide/
@@ -439,17 +438,17 @@ Moto GP 13,PS3,https://www.playstationtrophies.org/game/moto-gp-13/guide/
 MotoGP 17,PS4,https://www.playstationtrophies.org/game/motogp-17/guide/
 Moto Racer 4,PS4,https://www.playstationtrophies.org/game/moto-racer-4/guide/
 Motorcycle Club,PS4,https://www.playstationtrophies.org/game/motorcycle-club-ps4/guide/
-Motorstorm RC,PS3(PSN),https://www.playstationtrophies.org/game/motorstorm-rc/guide/
 MotorStorm: Apocalypse,PS3,https://www.playstationtrophies.org/game/motorstorm-apocalypse/guide/
+Motorstorm RC,PS3(PSN),https://www.playstationtrophies.org/game/motorstorm-rc/guide/
 Mount & Blade: Warband,PS4,https://www.playstationtrophies.org/game/mount-and-blade-warband/guide/
 MouseCraft,PS4(PSN),https://www.playstationtrophies.org/game/mousecraft/guide/
 Mudrunner,PS4,https://www.playstationtrophies.org/game/spintires-mudrunner/guide/
-MX vs. ATV Alive,PS3,https://www.playstationtrophies.org/game/mx-vs-atv-alive/guide/
+MX vs. ATV: Alive,PS3,https://www.playstationtrophies.org/game/mx-vs-atv-alive/guide/
 MX vs. ATV Reflex,PS3,https://www.playstationtrophies.org/game/mx-vs-atv-reflex/guide/
 MX vs ATV Supercross Encore,PS4,https://www.playstationtrophies.org/game/mx-vs-atv-supercross-encore/guide/
-MX vs. ATV: Untamed,PS3(no_trophies)
-MXGP 2 - The Official Motocross Videogame,PS4,https://www.playstationtrophies.org/game/mxgp2/guide/
-MXGP3 – The Official Motocross Videogame,PS4,https://www.playstationtrophies.org/game/mxgp3/guide/
+MX vs. ATV Untamed,PS3(no_trophies)
+MXGP2 - The Official Motocross Videogame,PS4,https://www.playstationtrophies.org/game/mxgp2/guide/
+MXGP3 - The Official Motocross Videogame,PS4,https://www.playstationtrophies.org/game/mxgp3/guide/
 Mystery Chronicle: One Way Heroics,PS4,https://www.playstationtrophies.org/game/mystery-chronicle-one-way-heroics-na/guide/
 Narco Terror,PS3(PSN),https://www.playstationtrophies.org/game/narco-terror/guide/
 Nascar Heat 3,PS4,https://www.playstationtrophies.org/game/nascar-heat-3/guide/
@@ -481,7 +480,7 @@ Oddworld: Stranger's Wrath HD,PS3(PSN),https://www.playstationtrophies.org/game/
 Okabu,PS3(PSN),https://www.playstationtrophies.org/game/okabu/guide/
 Okage: Shadow King,PS4,https://www.playstationtrophies.org/game/okage-shadow-king/guide/
 OlliOlli: Epic Combo Edition (Retail),PS4,https://www.playstationtrophies.org/game/olli-olli-ps4/guide/
-OlliOlli 2: Welcome to Olliwood (Digital),PS4,https://www.playstationtrophies.org/game/olli-olli-2-welcome-to-olliwood/guide/
+OlliOlli2: Welcome to Olliwood,PS4,https://www.playstationtrophies.org/game/olli-olli-2-welcome-to-olliwood/guide/
 Omega Quintet,PS4,https://www.playstationtrophies.org/game/omega-quintet-na/guide/
 One Upon Light,PS4,https://www.playstationtrophies.org/game/one-upon-light/guide/
 Onechanbara Z2: Chaos,PS4,https://www.playstationtrophies.org/game/onechanbara-z2-chaos-na/guide/
@@ -494,12 +493,12 @@ Overlord: Raising Hell,PS3(no_trophies)
 Pac-Man Championship Edition 2,PS4,https://www.playstationtrophies.org/game/pac-man-championship-2/guide/
 PAC-MAN Championship Edition DX,PS3(PSN),https://www.playstationtrophies.org/game/pac-man-ce-dx/guide/
 Payday 2,PS3,https://www.playstationtrophies.org/game/payday-2/guide/
-Painkiller: Hell &amp; Damnation,PS3,https://www.playstationtrophies.org/game/painkiller/guide/
-Papo &amp; Yo,PS3(PSN),https://www.playstationtrophies.org/game/papo-and-yo/guide/
+Painkiller - Hell and Damnation,PS3,https://www.playstationtrophies.org/game/painkiller/guide/
+Papo and Yo,PS3(PSN),https://www.playstationtrophies.org/game/papo-and-yo/guide/
 Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness: Episode One,PS3(PSN),https://www.playstationtrophies.org/game/penny-arcade-episode-one/guide/
 Penny Arcade Adventures: On the Rain-Slick Precipice of Darkness: Episode Two,PS3(PSN),https://www.playstationtrophies.org/game/penny-arcade-adventures-episode-two/guide/
 Phineas and Ferb: Across the 2nd Dimension,PS3,https://www.playstationtrophies.org/game/phineas-and-ferb-across-2nd-dimension/guide/
-Pid,PS3(PSN),https://www.playstationtrophies.org/game/pid/guide/
+PID,PS3(PSN),https://www.playstationtrophies.org/game/pid/guide/
 Pillars of Eternity: Complete Edition,PS4,https://www.playstationtrophies.org/game/pillars-of-eternity-complete-edition/guide/
 Pirates of the Caribbean: At World's End,PS3(no_trophies)
 Pixel Heroes: Byte & Magic,PS4,https://www.playstationtrophies.org/game/pixel-heroes-byte-and-magic/guide/
@@ -545,10 +544,10 @@ Rain,PS3(PSN),https://www.playstationtrophies.org/game/rain/guide/
 Rainbow Moon  (Retail),PS4,https://www.playstationtrophies.org/game/rainbow-moon-ps4/guide/
 Rapala Fishing: Pro Series,PS4,https://www.playstationtrophies.org/game/rapala-fishing-pro-series/guide/
 Ratatouille,PS3(no_trophies)
-Ratchet &amp; Clank: A Crack in Time,PS3,https://www.playstationtrophies.org/game/ratchet-and-clank-a-crack-in-time/guide/
-Ratchet &amp; Clank: All 4 One,PS3,https://www.playstationtrophies.org/game/ratchet-and-clank-all-4-one/guide/
-Ratchet &amp; Clank: Full Frontal Assault,PS3(PSN),https://www.playstationtrophies.org/game/ratchet-and-clank-full-frontal-assault/guide/
-Ratchet &amp; Clank: Into the Nexus,PS3,https://www.playstationtrophies.org/game/ratchet-and-clank-into-the-nexus/guide/
+Ratchet and Clank: A Crack in Time,PS3,https://www.playstationtrophies.org/game/ratchet-and-clank-a-crack-in-time/guide/
+Ratchet and Clank: All 4 One,PS3,https://www.playstationtrophies.org/game/ratchet-and-clank-all-4-one/guide/
+Ratchet and Clank: Full Frontal Assault,PS3(PSN),https://www.playstationtrophies.org/game/ratchet-and-clank-full-frontal-assault/guide/
+Ratchet and Clank: Into the Nexus,PS3,https://www.playstationtrophies.org/game/ratchet-and-clank-into-the-nexus/guide/
 Ratchet & Clank Future: Quest for Booty,PS3(no_trophies)
 Real Farm,PS4,https://www.playstationtrophies.org/game/real-farm/guide/
 RAW: Realms of Ancient War (NA & EU),PS3(PSN),https://www.playstationtrophies.org/game/raw-realms-of-ancient-war/guide/
@@ -583,7 +582,7 @@ Revenge of Shinobi,PS3(PSN),https://www.playstationtrophies.org/game/revenge-of-
 Ricochet HD,PS3(PSN),https://www.playstationtrophies.org/game/ricochet-hd/guide/
 RIDE 3,PS4,https://www.playstationtrophies.org/game/ride-3/guide/
 Rise of the Argonauts,PS3(no_trophies)
-Risen 3: Titan Lords - Enhanced Edition,PS4,https://www.playstationtrophies.org/game/risen-3-titan-lords-enhanced-edition/guide/
+Risen 3: Titan Lords – Enhanced Edition,PS4,https://www.playstationtrophies.org/game/risen-3-titan-lords-enhanced-edition/guide/
 RIVE,PS4,https://www.playstationtrophies.org/game/rive/guide/
 Rocket Knight,PS3(PSN),https://www.playstationtrophies.org/game/rocket-knight/guide/
 Rocket League,PS4,https://www.playstationtrophies.org/game/rocket-league/guide/
@@ -631,12 +630,12 @@ Siegecraft Commander,PS4,https://www.playstationtrophies.org/game/siegecraft-com
 Silent Hill 2 HD,PS3,https://www.playstationtrophies.org/game/silent-hill-2-hd/guide/
 Silent Hill 3 HD,PS3,https://www.playstationtrophies.org/game/silent-hill-3-hd/guide/
 Sine Mora EX,PS4,https://www.playstationtrophies.org/game/sine-mora-ex/guide/
-Siren,PS4,https://www.playstationtrophies.org/game/siren/guide/
-SIREN: Blood Curse,PS3(no_trophies)
+SIREN,PS4,https://www.playstationtrophies.org/game/siren/guide/
+Siren: Blood Curse,PS3(no_trophies)
 Skullgirls Encore,PS3(PSN),https://www.playstationtrophies.org/game/skullgirls-encore/guide/
 Skydive: Proximity Flight,PS3(PSN),https://www.playstationtrophies.org/game/skydive-proximity-flight/guide/
-Sky Fighter,PS3(PSN),https://www.playstationtrophies.org/game/sky-fighter/guide/
 Skydrift,PS3(PSN),https://www.playstationtrophies.org/game/skydrift/guide/
+Sky Fighter,PS3(PSN),https://www.playstationtrophies.org/game/sky-fighter/guide/
 Skyscrappers,PS4,https://www.playstationtrophies.org/game/skyscrappers-na/guide/
 Slender: The Arrival,PS3(PSN),https://www.playstationtrophies.org/game/slender-the-arrival/guide/
 Slime-san Superslime Edition,PS4,https://www.playstationtrophies.org/game/slime-san-superslime-edition-na/guide/
@@ -646,7 +645,7 @@ Sly 3: Honor Among Thieves HD,PS3,https://www.playstationtrophies.org/game/the-s
 Sly Cooper: Thieves in Time,PS3,https://www.playstationtrophies.org/game/sly-cooper-4-thieves-in-time/guide/
 Smash Cars,PS3(PSN),https://www.playstationtrophies.org/game/smash-cars/guide/
 Snakeball,PS3(no_trophies)
-Sniper Elite III,PS4,https://www.playstationtrophies.org/game/sniper-elite-iii-ps4/guide/
+Sniper Elite 3,PS4,https://www.playstationtrophies.org/game/sniper-elite-iii-ps4/guide/
 Sniper Elite 4,PS4,https://www.playstationtrophies.org/game/sniper-elite-4/guide/
 Sniper Elite V2,PS3,https://www.playstationtrophies.org/game/sniper-elite-v2/guide/
 Sniper: Ghost Warrior,PS3,https://www.playstationtrophies.org/game/sniper-ghost-warrior/guide/
@@ -679,7 +678,7 @@ Star Wars: Bounty Hunter,PS4,https://www.playstationtrophies.org/game/star-wars-
 Star Wars: Jedi Starfighter,PS4,https://www.playstationtrophies.org/game/star-wars-jedi-starfighter/guide/
 Star Wars: Racer Revenge,PS4,https://www.playstationtrophies.org/game/star-wars-racer-revenge/guide/
 Star Wars The Force Unleashed,PS3,https://www.playstationtrophies.org/game/star-wars-the-force-unleashed/guide/
-Star Wars The Force Unleashed 2,PS3,https://www.playstationtrophies.org/game/star-wars-the-force-unleashed-ii/guide/
+Star Wars The Force Unleashed II,PS3,https://www.playstationtrophies.org/game/star-wars-the-force-unleashed-ii/guide/
 Starwhal,PS3(PSN),https://www.playstationtrophies.org/game/starwhal-ps3/guide/
 Stealth Inc.,PS4,https://www.playstationtrophies.org/game/stealth-inc-ultimate-edition/guide/
 Steep,PS4,https://www.playstationtrophies.org/game/steep/guide/
@@ -701,7 +700,7 @@ Super Mega Baseball,PS4,https://www.playstationtrophies.org/game/super-mega-base
 Super Puzzle Fighter II Turbo HD Remix,PS3(no_trophies)
 Super Stacker,PS3(PSN),https://www.playstationtrophies.org/game/super-stacker/guide/
 Super Star Wars,PS4,https://www.playstationtrophies.org/game/super-star-wars/guide/
-Super Stardust HD,PS3(PSN),https://www.playstationtrophies.org/game/super-stardust-hd/guide/
+Super Stardust Ultra,PS4,https://www.playstationtrophies.org/game/super-stardust-ultra/guide/
 Super Street Fighter II Turbo HD Remix,PS3(no_trophies)
 Super Toy Cars,PS4,https://www.playstationtrophies.org/game/super-toy-cars/guide/
 Surgeon Simulator: Anniversary Edition,PS4,https://www.playstationtrophies.org/game/surgeon-simulator/guide/
@@ -720,11 +719,10 @@ Tennis in the Face,PS4,https://www.playstationtrophies.org/game/tennis-in-the-fa
 Terraria,PS4(PSN),https://www.playstationtrophies.org/game/terraria/guide/
 Tetraminos,PS4,https://www.playstationtrophies.org/game/tetraminos/guide/
 The Awakened Fate Ultimatum,PS3,https://www.playstationtrophies.org/game/the-awakened-fate-ultimatum-na/guide/
-DeathSpank: The Baconing,PS3(PSN),https://www.playstationtrophies.org/game/deathspank-the-baconing/guide/
 The Book of Unwritten Tales 2,PS4,https://www.playstationtrophies.org/game/the-book-of-unwritten-tales-2/guide/
 The Bug Butcher,PS4,https://www.playstationtrophies.org/game/the-bug-butcher/guide/
 The Darkness,PS3(no_trophies)
-The Darkness 2,PS3,https://www.playstationtrophies.org/game/the-darkness-ii/guide/
+The Darkness II,PS3,https://www.playstationtrophies.org/game/the-darkness-ii/guide/
 The Deer God,PS4,https://www.playstationtrophies.org/game/the-deer-god-ps4/guide/
 The Dwarves,PS4,https://www.playstationtrophies.org/game/the-dwarves/guide/
 The Elder Scrolls IV: Oblivion,PS3(no_trophies)
@@ -742,12 +740,14 @@ The Keeper of 4 Elements,PS4,https://www.playstationtrophies.org/game/the-keeper
 The Last Blade 2,PS4,https://www.playstationtrophies.org/game/the-last-blade-2/guide/
 The Last Guy,PS3(PSN),https://www.playstationtrophies.org/game/the-last-guy/guide/
 The Last of Us,PS3,https://www.playstationtrophies.org/game/the-last-of-us/guide/
+The Last Tinker™: City of Colors,PS4,https://www.playstationtrophies.org/game/last-tinker-ps4/guide/
 The Legend of Heroes: Trails of Cold Steel,PS4,https://www.playstationtrophies.org/game/the-legend-of-heroes-trails-of-cold-steel/guide/
 The Legend of Heroes: Trails of Cold Steel II,PS4,https://www.playstationtrophies.org/game/the-legend-of-heroes-trails-of-cold-steel-ii-ps3-vita/guide/
 The LEGO Movie Videogame,PS3,https://www.playstationtrophies.org/game/the-lego-movie-videogame/guide/
 The Metronomicon: Slay the Dance Floor,PS4,https://www.playstationtrophies.org/game/the-metronomicon-slay-the-dance-floor-na/guide/
 The Raven Remastered,PS4,https://www.playstationtrophies.org/game/the-raven-remastered/guide/
 The Raven,PS3(PSN),https://www.playstationtrophies.org/game/the-raven/guide/
+The Secret of Monkey Island®: Special Edition,PS3(PSN),https://www.playstationtrophies.org/game/the-secret-of-monkey-island-special-edition/guide/
 The Spectrum Retreat,PS4,https://www.playstationtrophies.org/game/the-spectrum-retreat-na/guide/
 The Surge,PS4,https://www.playstationtrophies.org/game/the-surge/guide/
 The Swapper,PS4(PSN),https://www.playstationtrophies.org/game/the-swapper/guide/
@@ -770,8 +770,8 @@ Tokyo Jungle,PS3(PSN),https://www.playstationtrophies.org/game/tokyo-jungle/guid
 Tokyo Twilight Ghost Hunters Daybreak: Special Gigs,PS4,https://www.playstationtrophies.org/game/tokyo-twilight-ghost-hunters-daybreak-special-gigs-na/guide/
 Tom Clancy's Rainbow Six Siege,PS4,https://www.playstationtrophies.org/game/rainbow-six-siege/guide/
 Torment: Tides of Numenera,PS4,https://www.playstationtrophies.org/game/torment-tides-of-numenera/guide/
-Touhou: Scarlet Curiosity,PS4,https://www.playstationtrophies.org/game/touhou-scarlet-curiosity/guide/
 Touhou Genso Rondo,PS4,https://www.playstationtrophies.org/game/touhou-genso-rondo-ps4/guide/
+Touhou: Scarlet Curiosity,PS4,https://www.playstationtrophies.org/game/touhou-scarlet-curiosity/guide/
 Toukiden 2,PS4,https://www.playstationtrophies.org/game/toukiden-2/guide/
 Toukiden: Kiwami,PS4,https://www.playstationtrophies.org/game/toukiden-kiwami-ps4/guide/
 Tour de France 2015,PS3,https://www.playstationtrophies.org/game/tour-de-france-2015-ps3/guide/
