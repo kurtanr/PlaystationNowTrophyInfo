@@ -124,6 +124,7 @@ Cars Race-O-Rama
 Cars: Mater-National Championship
 Cartoon Network Battle Crashers
 Castle Invasion: Throne Out
+CastleStorm Definitive Edition
 Castlevania Harmony of Despair
 Castlevania Lords of Shadow
 Castlevania Lords of Shadow 2
@@ -172,6 +173,7 @@ Dead Island: Definitive Edition
 Dead Island Retro Revenge
 Dead Island Riptide
 Dead Nation: Apocalypse Edition
+Dead or Alive 5
 Dead or Alive 5: Last Round
 Dead Space 3
 Dead to Rights: Retribution
@@ -260,6 +262,7 @@ Fallout: New Vegas
 Fantavision
 Farming Simulator
 Farming Simulator 19
+Fat Princess Adventures
 Fighting Vipers
 Final Exam
 Final Fight: Double Impact
@@ -321,7 +324,6 @@ HITMAN 2
 Hoard
 Hohokum
 Hollow Knight
-Homefront
 Homefront: The Revolution
 Hot Shots Golf: Out of Bounds
 Hot Shots Golf: World Invitational
@@ -415,12 +417,14 @@ Mega Man 9
 Mega Man 10
 Megadimension Neptunia VII
 Metal Gear Rising Revengeance Ultimate Edition
+Metal Gear Solid 4: Guns of the Patriots
 Metal Gear Solid: Peace Walker HD
 Metal Gear Solid 2: Sons of Liberty HD
 Metal Gear Solid 3: Snake Eater HD
 Metal Gear Solid V: Ground Zeroes
 Metal Gear Solid V: The Phantom Pain
 Metal Slug 3
+Metro 2033 Redux
 Metro Exodus
 Metro: Last Light – Complete Edition
 Metro: Last Light Redux
@@ -505,6 +509,7 @@ Pixel Heroes: Byte & Magic
 Pixel Piracy
 PixelJunk Eden Encore
 PixelJunk Monsters
+PixelJunk Nom Nom Galaxy
 PixelJunk Racers 2nd Lap
 PixelJunk Shooter
 PixelJunk Shooter 2
@@ -578,7 +583,6 @@ Resogun
 Retro City Rampage DX
 Retro/Grade
 Reus
-Revenge of Shinobi
 Ricochet HD
 RIDE 3
 Rise of the Argonauts
@@ -614,10 +618,12 @@ Sam & Max: Beyond Time and Space - Episode 3: Night of the Raving Dead
 Sam & Max: Beyond Time and Space - Episode 4:  Chariots of the Dogs
 Sam & Max: Beyond Time and Space - Episode 5: What's New, Beelzebub?
 Samurai Warriors 4
+Sanctum 2
 Savage Moon
 Seasons After Fall
 Sebastien Loeb Rally Evo
 SEGA Bass Fishing
+Shadow Complex Remastered
 Shadow of the Beast
 Shadow of the Colossus
 Shadow of the Tomb Raider
@@ -747,6 +753,7 @@ The LEGO Movie Videogame
 The Metronomicon: Slay the Dance Floor
 The Raven Remastered
 The Raven: Legacy of a Master Thief
+The Revenge of Shinobi
 The Secret of Monkey Island®: Special Edition
 The Spectrum Retreat
 The Surge
@@ -808,7 +815,6 @@ Virtua Fighter 2
 Virtua Fighter 5: Final Showdown
 Voodoo Chronicles: The First Sign
 Wakeboarding HD
-Warhammer 40000 Inquisitor Martyr
 Warlords
 Warriors All-Stars
 Warriors: Legends of Troy
@@ -830,8 +836,8 @@ Wolfenstein II: The New Colossus
 World to the West
 WRC 4: FIA World Rally Championship
 WRC 5: FIA World Rally Championship
-WRC 8
 Wuppo
+WWE 2K15
 WWE 2K16
 WWE 2K18
 XBLAZE Code: Embryo

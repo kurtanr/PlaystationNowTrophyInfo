@@ -96,6 +96,7 @@ if($StatusCode -eq "200")
         elseif($game.Equals("Bloodborne™") -or 
                $game.Equals("Last Tinker: City of Colors") -or 
                $game.Equals("CARS MATER-NATIONAL") -or 
+               $game.Equals("Revenge of Shinobi") -or 
                $game.StartsWith("Sam and Max") -or 
                $game.Equals("The Sly Collection"))
         {

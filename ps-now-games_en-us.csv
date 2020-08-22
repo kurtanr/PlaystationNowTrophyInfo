@@ -125,6 +125,7 @@ Cars Race-O-Rama,PS3,True,True,2,10,False,Racing,2009-10-13,https://www.playstat
 Cars: Mater-National Championship,PS3(no_trophies),n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 Cartoon Network Battle Crashers,PS4,False,False,n/a,n/a,n/a,Action,n/a,https://www.playstationtrophies.org/game/cartoon-network-battle-crashers/guide/
 Castle Invasion: Throne Out,PS4,True,False,3,10,False,Strategy,n/a,https://www.playstationtrophies.org/game/castle-invasion-throne-out-ps4-/guide/
+CastleStorm Definitive Edition,PS4,False,False,n/a,n/a,n/a,Action Strategy,2014-09-23,https://www.playstationtrophies.org/game/castlestorm-definitive-edition/guide/
 Castlevania Harmony of Despair,PS3(PSN),True,False,7,40,True,Adventure,2011-09-27,https://www.playstationtrophies.org/game/castlevania-harmony-of-despair/guide/
 Castlevania Lords of Shadow,PS3,True,True,5,3,False,Action,2010-10-05,https://www.playstationtrophies.org/game/castlevania-lords-of-shadow/guide/
 Castlevania Lords of Shadow 2,PS3,True,True,7,20,False,Action,2014-02-25,https://www.playstationtrophies.org/game/castlevania-lords-of-shadow-2/guide/
@@ -173,6 +174,7 @@ Dead Island: Definitive Edition,PS4,True,True,5,40,True,RPG Action,2016-05-31,ht
 Dead Island Retro Revenge,PS4,True,False,7,8,False,Action,n/a,https://www.playstationtrophies.org/game/dead-island-retro-revenge/guide/
 Dead Island Riptide,PS3,True,True,3,25,True,Action,2013-04-23,https://www.playstationtrophies.org/game/dead-island-riptide/guide/
 Dead Nation: Apocalypse Edition,PS4,True,True,6,20,True,Shooter,2014-03-04,https://www.playstationtrophies.org/game/dead-nation-apocalypse-edition/guide/
+Dead or Alive 5,PS3,True,True,10,1,True,Fighting,2012-09-25,https://www.playstationtrophies.org/game/dead-or-alive-5/guide/
 Dead or Alive 5: Last Round,PS4,True,True,4,20,True,Fighting,2015-02-17,https://www.playstationtrophies.org/game/dead-or-alive-5-last-round/guide/
 Dead Space 3,PS3,True,True,3,50,True,Action Shooter,2013-02-05,https://www.playstationtrophies.org/game/dead-space-3/guide/
 Dead to Rights: Retribution,PS3,True,True,5,15,False,Shooter,2010-04-27,https://www.playstationtrophies.org/game/dead-to-rights-retribution/guide/
@@ -261,6 +263,7 @@ Fallout: New Vegas,PS3,True,True,5,80,False,RPG,2010-10-19,https://www.playstati
 Fantavision,PS4,False,False,n/a,n/a,n/a,Puzzle and Word,2015-12-22,https://www.playstationtrophies.org/game/fantavision/guide/
 Farming Simulator,PS3,True,False,1,50,False,Simulation,2013-11-19,https://www.playstationtrophies.org/game/farming-simulator/guide/
 Farming Simulator 19,PS4,True,True,3,40,False,Simulation,2018-11-20,https://www.playstationtrophies.org/game/farming-simulator-19/guide/
+Fat Princess Adventures,PS4,True,True,5,25,True,Action,2015-12-05,https://www.playstationtrophies.org/game/fat-princess-adventures/guide/
 Fighting Vipers,PS3(PSN),True,False,1,2,False,Fighting,2012-11-27,https://www.playstationtrophies.org/game/fighting-vipers/guide/
 Final Exam,PS3(PSN),False,False,n/a,n/a,n/a,Action Shooter,2013-11-05,https://www.playstationtrophies.org/game/final-exam/guide/
 Final Fight: Double Impact,PS3(PSN),True,False,4,15,False,Action,2010-04-15,https://www.playstationtrophies.org/game/final-fight-double-impact/guide/
@@ -322,7 +325,6 @@ Hitman 2 (2018),PS4,True,False,4,100,True,Shooter,2018-11-09,https://www.playsta
 Hoard,PS3(PSN),True,False,6,30,True,Action,2010-11-02,https://www.playstationtrophies.org/game/hoard/guide/
 Hohokum,PS4,False,False,n/a,n/a,n/a,Adventure,2014-08-13,https://www.playstationtrophies.org/game/hohokum/guide/
 Hollow Knight,PS4,False,True,n/a,n/a,n/a,Adventure,2018-09-25,https://www.playstationtrophies.org/game/hollow-knight/guide/
-Homefront,PS3,True,True,8,100,True,Shooter,2011-03-15,https://www.playstationtrophies.org/game/homefront/guide/
 Homefront: The Revolution,PS4,True,True,5,35,False,Shooter,2016-05-17,https://www.playstationtrophies.org/game/homefront-the-revolution/guide/
 Hot Shots Golf: Out of Bounds,PS3(no_trophies),n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 Hot Shots Golf: World Invitational,PS3(PSN),True,True,8,60,True,Sports and Fitness,2013-07-23,https://www.playstationtrophies.org/game/hot-shots-golf-world-invitational-ps3-na/guide/
@@ -416,12 +418,14 @@ Mega Man 9,PS3(no_trophies),n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
 Mega Man 10,PS3(PSN),True,False,8,6,False,Action Platformer,2010-03-11,https://www.playstationtrophies.org/game/mega-man-10/guide/
 Megadimension Neptunia VII,PS4,True,True,3,50,False,RPG,2016-02-02,https://www.playstationtrophies.org/game/megadimension-neptunia-victory-ii/guide/
 Metal Gear Rising: Revengeance,PS3,True,True,9,40,False,Action,2013-02-19,https://www.playstationtrophies.org/game/metal-gear-rising-revengeance/guide/
+Metal Gear Solid 4: Guns of the Patriots,PS3,True,True,7,80,False,Action,2008-06-12,https://www.playstationtrophies.org/game/metal-gear-solid-4-guns-of-the-patriots/guide/
 Metal Gear Solid: Peace Walker HD,PS3,True,True,5,80,True,Action,2011-11-08,https://www.playstationtrophies.org/game/metal-gear-solid-peace-walker-hd/guide/
 Metal Gear Solid 2: Sons of Liberty HD,PS3,True,True,7,60,False,Action,2011-11-08,https://www.playstationtrophies.org/game/metal-gear-solid-2-hd/guide/
 Metal Gear Solid 3: Snake Eater HD,PS3,True,True,4,10,False,Action,2011-11-08,https://www.playstationtrophies.org/game/metal-gear-solid-3-snake-eater-hd/guide/
 Metal Gear Solid V: Ground Zeroes,PS4,True,False,4,15,False,Action Adventure,2014-03-18,https://www.playstationtrophies.org/game/metal-gear-solid-v-ground-zeroes-ps4/guide/
 Metal Gear Solid V: The Phantom Pain,PS4,True,True,5,150,True,Action,2015-09-01,https://www.playstationtrophies.org/game/metal-gear-solid-5-the-phantom-pain-ps4/guide/
 Metal Slug 3,PS4(PSN),True,False,1,3,False,Shooter,2015-03-24,https://www.playstationtrophies.org/game/metal-slug-3/guide/
+Metro 2033 Redux,PS4,True,True,2,20,False,Shooter,2014-08-26,https://www.playstationtrophies.org/game/metro-2033-redux/guide/
 Metro Exodus,PS4,True,True,4,40,False,Shooter Adventure,2019-02-15,https://www.playstationtrophies.org/game/metro-exodus/guide/
 Metro: Last Light,PS3,True,True,3,20,False,Shooter,2013-05-14,https://www.playstationtrophies.org/game/metro-last-light/guide/
 Metro: Last Light Redux,PS4,True,True,3,20,False,Shooter,2014-08-26,https://www.playstationtrophies.org/game/metro-last-light-redux/guide/
@@ -506,6 +510,7 @@ Pixel Heroes: Byte & Magic,PS4,False,True,n/a,n/a,n/a,RPG,2017-06-15,https://www
 Pixel Piracy,PS4,False,False,n/a,n/a,n/a,RPG Simulation,n/a,https://www.playstationtrophies.org/game/pixel-piracy/guide/
 PixelJunk Eden,PS3(PSN),True,False,8,20,False,Puzzle and Word,2008-07-28,https://www.playstationtrophies.org/game/pixeljunk-eden/guide/
 PixelJunk Monsters,PS3(PSN),True,False,7,15,False,Strategy,2008-01-24,https://www.playstationtrophies.org/game/pixeljunk-monsters-and-encore/guide/
+Nom Nom Galaxy,PS4,True,True,3,23,True,Action,2015-05-12,https://www.playstationtrophies.org/game/nom-nom-galaxy/guide/
 PixelJunk Racers 2nd Lap,PS3(PSN),True,False,5,6,True,Racing,2007-09-13,https://www.playstationtrophies.org/game/pixeljunk-racers/guide/
 PixelJunk Shooter,PS3(PSN),True,False,3,8,False,Shooter,2009-12-10,https://www.playstationtrophies.org/game/pixeljunk-shooter/guide/
 PixelJunk Shooter 2,PS3(PSN),True,False,3,5,True,Shooter,2011-03-01,https://www.playstationtrophies.org/game/pixeljunk-shooter-2/guide/
@@ -579,7 +584,6 @@ Resogun,PS4,True,True,5,10,False,Shmup,2013-11-15,https://www.playstationtrophie
 Retro City Rampage DX,PS3(PSN),True,False,2,5,False,Action,2014-11-11,https://www.playstationtrophies.org/game/retro-city-rampage-dx/guide/
 Retro/Grade,PS3(PSN),True,False,9,50,False,Shooter,2012-08-21,https://www.playstationtrophies.org/game/retro-grade/guide/
 Reus,PS4,False,True,n/a,n/a,n/a,Simulation,n/a,https://www.playstationtrophies.org/game/reus/guide/
-Revenge of Shinobi,PS3(PSN),True,False,4,4,False,Action,2012-05-22,https://www.playstationtrophies.org/game/revenge-of-shinobi/guide/
 Ricochet HD,PS3(PSN),True,False,8,20,False,Puzzle and Word,2011-01-04,https://www.playstationtrophies.org/game/ricochet-hd/guide/
 RIDE 3,PS4,True,True,7,60,True,Racing,2018-11-30,https://www.playstationtrophies.org/game/ride-3/guide/
 Rise of the Argonauts,PS3(no_trophies),n/a,n/a,n/a,n/a,n/a,n/a,n/a,n/a
@@ -615,10 +619,12 @@ Sam & Max: Beyond Time and Space - Episode 3: Night of the Raving Dead,PS3(PSN),
 Sam & Max: Beyond Time and Space - Episode 4:  Chariots of the Dogs,PS3(PSN),True,False,1,10,False,Adventure,2011-10-18,https://www.playstationtrophies.org/game/sam-and-max-beyond-time-and-space-ep4/guide/
 Sam & Max: Beyond Time and Space - Episode 5: What's New Beelzebub?,PS3(PSN),True,False,2,10,False,Adventure,2011-10-18,https://www.playstationtrophies.org/game/sam-and-max-beyond-time-and-space-ep5/guide/
 Samurai Warriors 4,PS3,False,True,n/a,n/a,n/a,Action,2014-10-21,https://www.playstationtrophies.org/game/samurai-warriors-4/guide/
+Sanctum 2,PS3(PSN),False,False,n/a,n/a,n/a,Strategy,2013-09-10,https://www.playstationtrophies.org/game/sanctum-2/guide/
 Savage Moon,PS3(PSN),True,False,7,10,False,Strategy,2009-01-08,https://www.playstationtrophies.org/game/savage-moon-veterans-awards/guide/
 Seasons After Fall,PS4,False,True,n/a,n/a,n/a,Adventure,n/a,https://www.playstationtrophies.org/game/seasons-after-fall/guide/
 Sebastien Loeb Rally Evo,PS4,True,True,3,30,True,Racing,2016-03-15,https://www.playstationtrophies.org/game/sebastien-loeb-rally-evo/guide/
 SEGA Bass Fishing,PS3(PSN),True,False,2,10,False,Sports and Fitness Sports and Fitness,2011-10-04,https://www.playstationtrophies.org/game/sega-bass-fishing/guide/
+Shadow Complex Remastered,PS4,True,True,6,20,False,Shooter,2016-05-03,https://www.playstationtrophies.org/game/shadow-complex-remastered/guide/
 Shadow of the Beast,PS4,True,True,4,15,False,Adventure,2016-05-17,https://www.playstationtrophies.org/game/shadow-of-the-beast/guide/
 Shadow of the Colossus,PS4,True,True,4,25,False,Action,2018-02-06,https://www.playstationtrophies.org/game/shadow-of-the-colossus-ps4/guide/
 Shadow of the Tomb Raider,PS4,True,True,4,35,False,Action Adventure,2018-09-14,https://www.playstationtrophies.org/game/shadow-of-the-tomb-raider/guide/
@@ -748,6 +754,7 @@ The LEGO Movie Videogame,PS3,True,True,3,25,False,Action Adventure,2014-02-07,ht
 The Metronomicon: Slay the Dance Floor,PS4,False,True,n/a,n/a,n/a,Music and Rhythm,2017-08-29,https://www.playstationtrophies.org/game/the-metronomicon-slay-the-dance-floor-na/guide/
 The Raven Remastered,PS4,True,True,1,15,False,Adventure,2018-03-13,https://www.playstationtrophies.org/game/the-raven-remastered/guide/
 The Raven,PS3(PSN),True,True,1,15,False,Adventure,2014-01-14,https://www.playstationtrophies.org/game/the-raven/guide/
+Revenge of Shinobi,PS3(PSN),True,False,4,4,False,Action,2012-05-22,https://www.playstationtrophies.org/game/revenge-of-shinobi/guide/
 The Secret of Monkey Island®: Special Edition,PS3(PSN),True,False,2,3,False,Adventure,2010-04-22,https://www.playstationtrophies.org/game/the-secret-of-monkey-island-special-edition/guide/
 The Spectrum Retreat,PS4,False,False,n/a,n/a,n/a,Adventure Puzzle and Word,2018-07-10,https://www.playstationtrophies.org/game/the-spectrum-retreat-na/guide/
 The Surge,PS4,True,True,5,50,False,RPG,2017-05-16,https://www.playstationtrophies.org/game/the-surge/guide/
@@ -809,7 +816,6 @@ Virtua Fighter 2,PS3(PSN),True,False,1,2,False,Fighting,2012-11-27,https://www.p
 Virtua Fighter 5: Final Showdown,PS3(PSN),True,False,1,2,True,Fighting,2012-06-05,https://www.playstationtrophies.org/game/virtua-fighter-5-final-showdown/guide/
 Voodoo Chronicles: The First Sign,PS3(PSN),True,False,3,5,True,Puzzle and Word Adventure,2013-07-16,https://www.playstationtrophies.org/game/voodoo-chronicles-the-first-sign-na/guide/
 Wakeboarding HD,PS3(PSN),True,False,7,20,False,Sports and Fitness,2010-03-25,https://www.playstationtrophies.org/game/wakeboarding-hd/guide/
-Warhammer 40000: Inquisitor - Martyr,PS4,False,True,n/a,n/a,n/a,RPG Adventure,2018-08-23,https://www.playstationtrophies.org/game/warhammer-40-000-inquisitor-martyr/guide/
 Warlords,PS3(PSN),False,False,n/a,n/a,n/a,Action,2012-10-09,https://www.playstationtrophies.org/game/warlords/guide/
 Warriors All-Stars,PS4,True,True,4,120,False,Action,2017-08-29,https://www.playstationtrophies.org/game/warriors-all-stars/guide/
 Warriors: Legends of Troy,PS3,True,True,5,50,True,Action,2011-03-15,https://www.playstationtrophies.org/game/warriors-legends-of-troy/guide/
@@ -831,8 +837,8 @@ Wolfenstein II: The New Colossus,PS4,True,True,10,100,False,Shooter,2017-10-27,h
 World to the West,PS4,False,True,n/a,n/a,n/a,Action,2017-05-05,https://www.playstationtrophies.org/game/world-to-the-west/guide/
 WRC 4,PS3,True,True,1,26,True,Racing Simulation,n/a,https://www.playstationtrophies.org/game/wrc-4/guide/
 WRC 5,PS4,True,True,1,20,True,Racing,n/a,https://www.playstationtrophies.org/game/wrc-5/guide/
-WRC 8,PS4,False,True,n/a,n/a,n/a,Racing,2019-09-10,https://www.playstationtrophies.org/game/wrc-8/guide/
 Wuppo,PS4,False,True,n/a,n/a,n/a,Action,n/a,https://www.playstationtrophies.org/game/wuppo/guide/
+WWE 2K15,PS3,True,True,3,40,True,Sports and Fitness,2014-10-28,https://www.playstationtrophies.org/game/wwe-2k-15-ps3/guide/
 WWE 2K16,PS4,True,True,3,125,True,Sports and Fitness,2015-10-27,https://www.playstationtrophies.org/game/wwe-2k16/guide/
 WWE 2K18,PS4,False,True,n/a,n/a,n/a,Sports and Fitness,2017-10-17,https://www.playstationtrophies.org/game/wwe-2k18/guide/
 XBLAZE Code: Embryo,PS3,True,True,2,30,False,Adventure,2014-06-24,https://www.playstationtrophies.org/game/xblaze-code-embryo-na-ps3/guide/
