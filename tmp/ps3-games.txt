@@ -521,7 +521,7 @@ Marvel Super Hero Squad: Comic Combat              | https://www.playstationtrop
 Marvel Super Hero Squad: The Infinity Gauntlet     | https://www.playstationtrophies.org/game/marvel-super-hero-squad-the-infinity-gauntlet/guide/
 Marvel vs Capcom 3: Fate of Two Worlds             | https://www.playstationtrophies.org/game/marvel-vs-capcom-3-fate-of-two-worlds/guide/
 Marvel: Ultimate Alliance 2                        | https://www.playstationtrophies.org/game/marvel-ultimate-alliance-2/guide/
-Masquerade: The Baubles of Doom                    | https://www.playstationtrophies.org/game/masquerade-baubles-of-doom/guide/
+Masquerade: The Baubles of Doom (PS3)              | https://www.playstationtrophies.org/game/masquerade-baubles-of-doom/guide/
 Mass Effect                                        | https://www.playstationtrophies.org/game/mass-effect/guide/
 Mass Effect 2                                      | https://www.playstationtrophies.org/game/mass-effect-2/guide/
 Mass Effect 3                                      | https://www.playstationtrophies.org/game/mass-effect-3/guide/
@@ -677,7 +677,7 @@ Portal 2                                           | https://www.playstationtrop
 Power Gig: Rise of the Six String                  | https://www.playstationtrophies.org/game/power-gig-rise-of-the-sixstring/guide/
 Prince of Persia                                   | https://www.playstationtrophies.org/game/prince-of-persia/guide/
 Prince Of Persia: The Forgotten Sands              | https://www.playstationtrophies.org/game/prince-of-persia-the-forgotten-sands/guide/
-Prince of Persia: The Sands of Time                | https://www.playstationtrophies.org/game/prince-of-persia-sands-of-time/guide/
+Prince of Persia: The Sands of Time (PS3)          | https://www.playstationtrophies.org/game/prince-of-persia-sands-of-time/guide/
 Prince of Persia: The Two Thrones                  | https://www.playstationtrophies.org/game/prince-of-persia-the-two-thrones/guide/
 Prince of Persia: Warrior Within                   | https://www.playstationtrophies.org/game/prince-of-persia-warrior-within/guide/
 Prison Break                                       | https://www.playstationtrophies.org/game/prison-break/guide/
@@ -913,8 +913,8 @@ The Cursed Crusade (EU)                            | https://www.playstationtrop
 The Cursed Crusade (NA)                            | https://www.playstationtrophies.org/game/the-cursed-crusade-us/guide/
 The Darkness II                                    | https://www.playstationtrophies.org/game/the-darkness-ii/guide/
 The Elder Scrolls V: Skyrim                        | https://www.playstationtrophies.org/game/the-elder-scrolls-v-skyrim/guide/
+The Evil Within (Korea) (PS3)                      | https://www.playstationtrophies.org/game/the-evil-within-ps3-korean/guide/
 The Evil Within (PS3) (Chinese)                    | https://www.playstationtrophies.org/game/the-evil-within/guide/
-The Evil Within (PS3) (Korean)                     | https://www.playstationtrophies.org/game/the-evil-within-ps3-korean/guide/
 The Evil Within (PS3) (NA & EU)                    | https://www.playstationtrophies.org/game/the-evil-within-na/guide/
 The Eye of Judgment                                | https://www.playstationtrophies.org/game/the-eye-of-judgment/guide/
 The Fight: Lights Out                              | https://www.playstationtrophies.org/game/the-fight-lights-out/guide/
@@ -1047,7 +1047,7 @@ Wonderbook: Book of Spells                         | https://www.playstationtrop
 Wonderbook: Diggs Nightcrawler                     | https://www.playstationtrophies.org/game/wonderbook-diggs-nightcrawler/guide/
 Wonderbook: Walking With Dinosaurs                 | https://www.playstationtrophies.org/game/wonderbook-walking-with-dinosaurs/guide/
 World Snooker Championship Real 2011               | https://www.playstationtrophies.org/game/world-championship-snooker-real-2011/guide/
-World Soccer Winning Eleven 2015                   | https://www.playstationtrophies.org/game/world-soccer-winning-eleven-2015/guide/
+World Soccer Winning Eleven 2015 (PS3)             | https://www.playstationtrophies.org/game/world-soccer-winning-eleven-2015/guide/
 WRC 2                                              | https://www.playstationtrophies.org/game/wrc-2/guide/
 WRC 3 (PS3)                                        | https://www.playstationtrophies.org/game/wrc-3/guide/
 WRC 4 (PS3)                                        | https://www.playstationtrophies.org/game/wrc-4/guide/

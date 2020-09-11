@@ -142,7 +142,6 @@ Clockwork Tales: Of Glass and Ink,PS4,https://www.playstationtrophies.org/game/c
 Clouds & Sheep 2,PS4,https://www.playstationtrophies.org/game/clouds-and-sheep-2/guide/
 Comet Crash,PS3(PSN),https://www.playstationtrophies.org/game/comet-crash/guide/
 Comix Zone,PS3(PSN),https://www.playstationtrophies.org/game/comix-zone/guide/
-Control,PS4,https://www.playstationtrophies.org/game/control/guide/
 Costume Quest 2,PS4,https://www.playstationtrophies.org/game/costume-quest-2-ps4/guide/
 Counter Spy,PS4,https://www.playstationtrophies.org/game/counterspy-ps4/guide/
 Crash Commando,PS3(PSN),https://www.playstationtrophies.org/game/crash-commando/guide/
@@ -266,6 +265,7 @@ Fat Princess Adventures,PS4,https://www.playstationtrophies.org/game/fat-princes
 Fighting Vipers,PS3(PSN),https://www.playstationtrophies.org/game/fighting-vipers/guide/
 Final Exam,PS3(PSN),https://www.playstationtrophies.org/game/final-exam/guide/
 Final Fight: Double Impact,PS3(PSN),https://www.playstationtrophies.org/game/final-fight-double-impact/guide/
+FINAL FANTASY XV,PS4,https://www.playstationtrophies.org/game/final-fantasy-xv-na/guide/
 Firefighters: The Simulation,PS4,https://www.playstationtrophies.org/game/firefighters/guide/
 fLOW,PS3(PSN),https://www.playstationtrophies.org/game/flow/guide/
 Flower,PS3(PSN),https://www.playstationtrophies.org/game/flower/guide/
@@ -480,6 +480,7 @@ Nom Nom Galaxy,PS4,https://www.playstationtrophies.org/game/nom-nom-galaxy/guide
 NOVA-111,PS4,https://www.playstationtrophies.org/game/nova-111/guide/
 Numblast,PS3(PSN),https://www.playstationtrophies.org/game/numblast/guide/
 Obliteracers,PS4,https://www.playstationtrophies.org/game/obliteracers/guide/
+Observation,PS4,https://www.playstationtrophies.org/game/observation/guide/
 Oddworld: Stranger's Wrath HD,PS3(PSN),https://www.playstationtrophies.org/game/oddworld-strangers-wrath/guide/
 Okabu,PS3(PSN),https://www.playstationtrophies.org/game/okabu/guide/
 Okage: Shadow King,PS4,https://www.playstationtrophies.org/game/okage-shadow-king/guide/
@@ -572,6 +573,7 @@ Renegade Ops,PS3(PSN),https://www.playstationtrophies.org/game/renegade-ops/guid
 Resident Evil 4,PS4,https://www.playstationtrophies.org/game/resident-evil-4-ps4/guide/
 Resident Evil 5,PS3,https://www.playstationtrophies.org/game/resident-evil-5/guide/
 Resident Evil 6,PS3,https://www.playstationtrophies.org/game/resident-evil-6-ps3/guide/
+RESIDENT EVIL 7 biohazard,PS4,https://www.playstationtrophies.org/game/resident-evil-7-biohazard/guide/
 Resident Evil Code: Veronica X,PS3(PSN),https://www.playstationtrophies.org/game/resident-evil-code-veronica-x/guide/
 Resident Evil Operation Raccoon City,PS3,https://www.playstationtrophies.org/game/resident-evil-operation-raccoon-city/guide/
 Resident Evil Revelations,PS3,https://www.playstationtrophies.org/game/resident-evil-revelations/guide/
@@ -626,7 +628,6 @@ SEGA Bass Fishing,PS3(PSN),https://www.playstationtrophies.org/game/sega-bass-fi
 Shadow Complex Remastered,PS4,https://www.playstationtrophies.org/game/shadow-complex-remastered/guide/
 Shadow of the Beast,PS4,https://www.playstationtrophies.org/game/shadow-of-the-beast/guide/
 Shadow of the Colossus,PS4,https://www.playstationtrophies.org/game/shadow-of-the-colossus-ps4/guide/
-Shadow of the Tomb Raider,PS4,https://www.playstationtrophies.org/game/shadow-of-the-tomb-raider/guide/
 Shadwen,PS4,https://www.playstationtrophies.org/game/shadwen/guide/
 Shatter,PS3(PSN),https://www.playstationtrophies.org/game/shatter/guide/
 Sherlock Holmes: The Devil's Daughter,PS4,https://www.playstationtrophies.org/game/sherlock-holmes-the-devils-daughter/guide/
@@ -840,6 +841,7 @@ Wuppo,PS4,https://www.playstationtrophies.org/game/wuppo/guide/
 WWE 2K15,PS3,https://www.playstationtrophies.org/game/wwe-2k-15-ps3/guide/
 WWE 2K16,PS4,https://www.playstationtrophies.org/game/wwe-2k16/guide/
 WWE 2K18,PS4,https://www.playstationtrophies.org/game/wwe-2k18/guide/
+WWE 2K19,PS4,https://www.playstationtrophies.org/game/wwe-2k19/guide/
 XBLAZE Code: Embryo,PS3,https://www.playstationtrophies.org/game/xblaze-code-embryo-na-ps3/guide/
 XCOM: Enemy Within,PS3,https://www.playstationtrophies.org/game/xcom-enemy-within/guide/
 XCOM 2,PS4,https://www.playstationtrophies.org/game/xcom-2/guide/

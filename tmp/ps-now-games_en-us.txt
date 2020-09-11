@@ -142,7 +142,6 @@ Clockwork Tales: Of Glass and Ink
 Clouds & Sheep 2
 Comet Crash Bionic Bundle
 Comix Zone
-Control
 Costume Quest 2
 Counter Spy
 Crash Commando
@@ -266,6 +265,7 @@ Fat Princess Adventures
 Fighting Vipers
 Final Exam
 Final Fight: Double Impact
+FINAL FANTASY XV
 Firefighters: The Simulation
 fLOW
 Flower
@@ -480,6 +480,7 @@ Nom Nom Galaxy
 NOVA-111
 Numblast
 Obliteracers
+Observation
 Oddworld: Stranger's Wrath HD
 Okabu
 Okage: Shadow King
@@ -572,6 +573,7 @@ Renegade Ops
 Resident Evil 4
 Resident Evil 5: Gold Edition
 Resident Evil 6
+RESIDENT EVIL 7 biohazard
 Resident Evil Code: Veronica X HD
 Resident Evil Operation Raccoon City
 Resident Evil Revelations
@@ -626,7 +628,6 @@ SEGA Bass Fishing
 Shadow Complex Remastered
 Shadow of the Beast
 Shadow of the Colossus
-Shadow of the Tomb Raider
 Shadwen
 Shatter
 Sherlock Holmes: The Devil's Daughter
@@ -840,6 +841,7 @@ Wuppo
 WWE 2K15
 WWE 2K16
 WWE 2K18
+WWE 2K19
 XBLAZE Code: Embryo
 XCOM: Enemy Within
 XCOM 2
