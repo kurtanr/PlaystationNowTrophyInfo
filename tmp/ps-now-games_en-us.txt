@@ -1,6 +1,3 @@
-100ft Robot Golf
-11-11 Memories Retold
-8-Bit Armies
 A Bastard’s Tale
 A Boy and His Blob
 ABZU
@@ -821,7 +818,6 @@ Warriors All-Stars
 Warriors: Legends of Troy
 Warriors Orochi 3
 Wasteland 2: Director's Cut
-Watch Dogs 2
 Way of the Samurai 3
 Way of the Samurai 4
 Wet
@@ -855,3 +851,6 @@ Ziggurat
 Zombie Vikings
 Zombie Tycoon II: Brainhov's Revenge
 Zotrix
+100ft Robot Golf
+11-11 Memories Retold
+8-Bit Armies

@@ -2,7 +2,7 @@
 
 Push-Location $PSScriptRoot
 
-$url = "https://www.playstation.com/en-us/explore/playstation-now/games/#allgames"
+$url = "https://www.playstation.com/en-us/ps-now/ps-now-games/"
 $outputFile = ".\tmp\ps-now-games_en-us.txt"
 
 if(Test-Path $outputFile)
@@ -30,10 +30,13 @@ if($StatusCode -eq "200")
     Write-Host "Parsing content..." -ForegroundColor Yellow
 
     $html = ConvertFrom-Html -Content $response.RawContent
-    $allGames = $html.SelectNodes("//div[contains(@id, 'games-block-inner')]//li").InnerText.Trim()
+    $allGamesUnfiltered = $html.SelectNodes("//div[contains(@class, 'tabbed-component')]//div[contains(@class, 'textblock parbase')]//p").InnerText.Trim()
+    $allGames = $allGamesUnfiltered.Where({ ($_.Length -gt 1) -and ($_ -ne "0-9") })
 
     foreach($game in $allGames)
     {
+        $game = $game.Replace("&amp;", "&")
+
         if($game.Equals("Metal Gear Solid HD Collection"))
         {
             Add-Content -Path $outputFile -Value "Metal Gear Solid: Peace Walker HD"

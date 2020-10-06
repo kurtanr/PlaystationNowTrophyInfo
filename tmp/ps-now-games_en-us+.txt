@@ -1,6 +1,3 @@
-100ft Robot Golf,PS4,https://www.playstationtrophies.org/game/robot-golf/guide/
-11-11 Memories Retold,PS4,https://www.playstationtrophies.org/game/11-11-memories-retold/guide/
-8-Bit Armies,PS4,https://www.playstationtrophies.org/game/8-bit-armies/guide/
 A Bastard’s Tale,PS4,https://www.playstationtrophies.org/game/a-bastards-tale-na/guide/
 A Boy and His Blob,PS4,https://www.playstationtrophies.org/game/a-boy-and-his-blob/guide/
 ABZU,PS4,https://www.playstationtrophies.org/game/abzu/guide/
@@ -821,7 +818,6 @@ Warriors All-Stars,PS4,https://www.playstationtrophies.org/game/warriors-all-sta
 Warriors: Legends of Troy,PS3,https://www.playstationtrophies.org/game/warriors-legends-of-troy/guide/
 Warriors Orochi 3,PS3,https://www.playstationtrophies.org/game/warriors-orochi-3/guide/
 Wasteland 2: Director's Cut,PS4,https://www.playstationtrophies.org/game/wasteland-2-director-s-cut-na/guide/
-Watch Dogs 2,PS4,https://www.playstationtrophies.org/game/watch-dogs-2/guide/
 Way of the Samurai 3,PS3,https://www.playstationtrophies.org/game/way-of-the-samurai-3/guide/
 Way of the Samurai 4,PS3,https://www.playstationtrophies.org/game/way-of-the-samurai-4/guide/
 Wet,PS3,https://www.playstationtrophies.org/game/wet/guide/
@@ -855,3 +851,6 @@ Ziggurat,PS4,https://www.playstationtrophies.org/game/ziggurat/guide/
 Zombie Vikings,PS4,https://www.playstationtrophies.org/game/zombie-vikings/guide/
 Zombie Tycoon II: Brainhov's Revenge,PS3(PSN),https://www.playstationtrophies.org/game/zombie-tycoon-2-brainhovs-revenge/guide/
 Zotrix,PS4,https://www.playstationtrophies.org/game/zotrix/guide/
+100ft Robot Golf,PS4,https://www.playstationtrophies.org/game/robot-golf/guide/
+11-11 Memories Retold,PS4,https://www.playstationtrophies.org/game/11-11-memories-retold/guide/
+8-Bit Armies,PS4,https://www.playstationtrophies.org/game/8-bit-armies/guide/
