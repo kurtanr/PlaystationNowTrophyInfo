@@ -162,6 +162,7 @@ Darksiders Warmastered Edition,PS4,https://www.playstationtrophies.org/game/dark
 Darksiders II Deathinitive Edition,PS4,https://www.playstationtrophies.org/game/darksiders-2-deathinitive-edition/guide/
 Darkstalkers® Resurrection,PS3(PSN),https://www.playstationtrophies.org/game/darkstalkers-resurrection/guide/
 Day of the Tentacle Remastered,PS4,https://www.playstationtrophies.org/game/day-of-the-tentacle-remastered/guide/
+Days Gone,PS4,https://www.playstationtrophies.org/game/days-gone/guide/
 de Blob,PS4,https://www.playstationtrophies.org/game/de-blob-ps4/guide/
 de Blob 2,PS3,https://www.playstationtrophies.org/game/de-blob-2-ps3/guide/
 Dead Cells,PS4,https://www.playstationtrophies.org/game/dead-cells-na/guide/
@@ -269,6 +270,7 @@ Flower,PS3(PSN),https://www.playstationtrophies.org/game/flower/guide/
 Fluster Cluck,PS4,https://www.playstationtrophies.org/game/fluster-cluck/guide/
 For Honor,PS4,https://www.playstationtrophies.org/game/for-honor/guide/
 Forestry 2017 - The Simulation,PS4,https://www.playstationtrophies.org/game/forestry-2017-the-simulation-na/guide/
+Friday the 13th: The Game,PS4,https://www.playstationtrophies.org/game/friday-the-13th-the-game-na/guide/
 Frogger Returns,PS3(PSN),https://www.playstationtrophies.org/game/frogger-returns/guide/
 Fuel Overdose,PS3(PSN),https://www.playstationtrophies.org/game/fuel-overdose/guide/
 G-Force,PS3,https://www.playstationtrophies.org/game/g-force/guide/
@@ -410,6 +412,7 @@ Mars: War Logs,PS3(PSN),https://www.playstationtrophies.org/game/mars-war-logs/g
 Marvel Puzzle Quest: Dark Reign,PS3(PSN),https://www.playstationtrophies.org/game/marvel-puzzle-quest-dark-reign-ps3/guide/
 Mastercube,PS4,https://www.playstationtrophies.org/game/mastercube/guide/
 Matt Hazard: Blood Bath and Beyond,PS3(PSN),https://www.playstationtrophies.org/game/matt-hazard-blood-bath-and-beyond/guide/
+MediEvil,PS4,https://www.playstationtrophies.org/game/medievil/guide/
 Mega Man 9,PS3(no_trophies)
 Mega Man 10,PS3(PSN),https://www.playstationtrophies.org/game/mega-man-10/guide/
 Megadimension Neptunia VII,PS4,https://www.playstationtrophies.org/game/megadimension-neptunia-victory-ii/guide/
@@ -787,6 +790,7 @@ Toybox Turbos,PS3(PSN),https://www.playstationtrophies.org/game/toybox-turbos/gu
 Trash Panic,PS3(PSN),https://www.playstationtrophies.org/game/trash-panic/guide/
 Tricky Towers,PS4,https://www.playstationtrophies.org/game/tricky-towers/guide/
 Trine,PS3(PSN),https://www.playstationtrophies.org/game/trine/guide/
+Trine 4: The Nightmare Prince,PS4,https://www.playstationtrophies.org/game/trine-4-the-nightmare-prince/guide/
 Trinity: Souls of Zill O'll,PS3,https://www.playstationtrophies.org/game/trinity-souls-of-zill-oll/guide/
 TRON: Evolution,PS3,https://www.playstationtrophies.org/game/tron-evolution/guide/
 TRON RUN/r,PS4,https://www.playstationtrophies.org/game/tron-runr/guide/
