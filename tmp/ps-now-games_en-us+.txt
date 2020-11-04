@@ -249,7 +249,7 @@ F1 2014,PS3,https://www.playstationtrophies.org/game/f1-2014/guide/
 F1 2015,PS4,https://www.playstationtrophies.org/game/f1-2015/guide/
 F1 2016,PS4,https://www.playstationtrophies.org/game/f1-2016/guide/
 F1 2017,PS4,https://www.playstationtrophies.org/game/f1-2017/guide/
-F1 2019,PS4,https://www.playstationtrophies.org/game/f1-2019/guide/
+F1 2020,PS4,https://www.playstationtrophies.org/game/f1-2020/guide/
 F1 RACE STARS,PS3,https://www.playstationtrophies.org/game/f1-race-stars/guide/
 Faery: Legends of Avalon,PS3(PSN),https://www.playstationtrophies.org/game/faery-legends-of-avalon/guide/
 Fairy Fencer F: Advent Dark Force,PS4,https://www.playstationtrophies.org/game/fairy-fencer-f-advent-dark-force-na-eu/guide/
@@ -343,6 +343,7 @@ inFAMOUS 2,PS3,https://www.playstationtrophies.org/game/infamous-2/guide/
 inFAMOUS: Festival Of Blood,PS3(PSN),https://www.playstationtrophies.org/game/infamous-festival-of-blood/guide/
 Infinite Minigolf,PS4,https://www.playstationtrophies.org/game/infinite-minigolf/guide/
 Injustice: Gods Among Us,PS3,https://www.playstationtrophies.org/game/injustice-gods-among-us/guide/
+Injustice 2,PS4,https://www.playstationtrophies.org/game/injustice-2/guide/
 Inside My Radio,PS4,https://www.playstationtrophies.org/game/inside-my-radio/guide/
 Interpol: The Trail of Dr. Chaos,PS3(PSN),https://www.playstationtrophies.org/game/interpol-the-trail-of-dr-chaos/guide/
 Invizimals: The Lost Kingdom,PS3,https://www.playstationtrophies.org/game/invizimals-lost-kingdom/guide/
@@ -365,6 +366,7 @@ Killzone Shadow Fall,PS4,https://www.playstationtrophies.org/game/killzone-shado
 Kinetica,PS4,https://www.playstationtrophies.org/game/kinetica/guide/
 King Oddball,PS4,https://www.playstationtrophies.org/game/king-oddball-ps4/guide/
 Kingdom: New Lands,PS4,https://www.playstationtrophies.org/game/kingdom-new-lands/guide/
+Kingdom Come: Deliverance,PS4,https://www.playstationtrophies.org/game/kingdom-come-deliverance/guide/
 Knack,PS4,https://www.playstationtrophies.org/game/knack/guide/
 Knytt Underground,PS3(PSN),https://www.playstationtrophies.org/game/knytt-underground/guide/
 Kung Fu Rabbit,PS3(PSN),https://www.playstationtrophies.org/game/kung-fu-rabbit-ps3/guide/
@@ -436,6 +438,7 @@ Mitsurugi Kamui Hikae,PS4,https://www.playstationtrophies.org/game/mitsurugi-kam
 Momonga Pinball Adventures,PS4,https://www.playstationtrophies.org/game/momonga-pinball-adventures/guide/
 Monkey Island™ 2 Special Edition: LeChuck's Revenge™,PS3(PSN),https://www.playstationtrophies.org/game/monkey-island-2-le-chucks-revenge/guide/
 Monster Energy Supercross - The Official Videogame,PS4,https://www.playstationtrophies.org/game/monster-energy-supercross-the-official-videogame/guide/
+Monster Jam Steel Titans,PS4,https://www.playstationtrophies.org/game/monster-jam-steel-titans/guide/
 Mordheim - City of the Damned,PS4,https://www.playstationtrophies.org/game/mordheim-city-of-the-damned/guide/
 Mortal Kombat,PS3,https://www.playstationtrophies.org/game/mortal-kombat/guide/
 Moto GP 13,PS3,https://www.playstationtrophies.org/game/moto-gp-13/guide/
@@ -453,6 +456,7 @@ MX vs ATV Supercross Encore,PS4,https://www.playstationtrophies.org/game/mx-vs-a
 MX vs. ATV Untamed,PS3(no_trophies)
 MXGP2 - The Official Motocross Videogame,PS4,https://www.playstationtrophies.org/game/mxgp2/guide/
 MXGP3 - The Official Motocross Videogame,PS4,https://www.playstationtrophies.org/game/mxgp3/guide/
+My Time at Portia,PS4,https://www.playstationtrophies.org/game/my-time-at-portia/guide/
 Mystery Chronicle: One Way Heroics,PS4,https://www.playstationtrophies.org/game/mystery-chronicle-one-way-heroics-na/guide/
 Narco Terror,PS3(PSN),https://www.playstationtrophies.org/game/narco-terror/guide/
 Nascar Heat 3,PS4,https://www.playstationtrophies.org/game/nascar-heat-3/guide/
@@ -543,6 +547,7 @@ R-Type Dimensions,PS3(PSN),https://www.playstationtrophies.org/game/r-type-dimen
 Rad Rodgers,PS4,https://www.playstationtrophies.org/game/rad-rodgers/guide/
 Rag Doll Kung Fu: Fists of Plastic,PS3(PSN),https://www.playstationtrophies.org/game/rag-doll-kung-fu-fists-of-plastic/guide/
 Rage,PS3,https://www.playstationtrophies.org/game/rage/guide/
+Rage 2,PS4,https://www.playstationtrophies.org/game/rage-2/guide/
 Ragnarok Odyssey Ace,PS3,https://www.playstationtrophies.org/game/ragnarok-odyssey-ace/guide/
 Raiden IV Overkill,PS3(PSN),https://www.playstationtrophies.org/game/raiden-iv-overkill/guide/
 Raiden V: Director’s Cut,PS4,https://www.playstationtrophies.org/game/raiden-v-directors-cut-na-eu/guide/
@@ -625,10 +630,8 @@ Savage Moon,PS3(PSN),https://www.playstationtrophies.org/game/savage-moon-vetera
 Seasons After Fall,PS4,https://www.playstationtrophies.org/game/seasons-after-fall/guide/
 Sebastien Loeb Rally Evo,PS4,https://www.playstationtrophies.org/game/sebastien-loeb-rally-evo/guide/
 SEGA Bass Fishing,PS3(PSN),https://www.playstationtrophies.org/game/sega-bass-fishing/guide/
-Shadow Complex Remastered,PS4,https://www.playstationtrophies.org/game/shadow-complex-remastered/guide/
 Shadow of the Beast,PS4,https://www.playstationtrophies.org/game/shadow-of-the-beast/guide/
 Shadow of the Colossus,PS4,https://www.playstationtrophies.org/game/shadow-of-the-colossus-ps4/guide/
-Shadwen,PS4,https://www.playstationtrophies.org/game/shadwen/guide/
 Shatter,PS3(PSN),https://www.playstationtrophies.org/game/shatter/guide/
 Sherlock Holmes: The Devil's Daughter,PS4,https://www.playstationtrophies.org/game/sherlock-holmes-the-devils-daughter/guide/
 Shiness: The Lightning Kingdom,PS4,https://www.playstationtrophies.org/game/shiness-the-lightning-kingdom/guide/
@@ -776,7 +779,6 @@ Titan Attacks!,PS4(PSN),https://www.playstationtrophies.org/game/titan-attacks/g
 Titan Quest,PS4,https://www.playstationtrophies.org/game/titan-quest/guide/
 Tokyo Jungle,PS3(PSN),https://www.playstationtrophies.org/game/tokyo-jungle/guide/
 Tokyo Twilight Ghost Hunters Daybreak: Special Gigs,PS4,https://www.playstationtrophies.org/game/tokyo-twilight-ghost-hunters-daybreak-special-gigs-na/guide/
-Tom Clancy's Rainbow Six Siege,PS4,https://www.playstationtrophies.org/game/rainbow-six-siege/guide/
 Torment: Tides of Numenera,PS4,https://www.playstationtrophies.org/game/torment-tides-of-numenera/guide/
 Touhou Genso Rondo,PS4,https://www.playstationtrophies.org/game/touhou-genso-rondo-ps4/guide/
 Touhou: Scarlet Curiosity,PS4,https://www.playstationtrophies.org/game/touhou-scarlet-curiosity/guide/

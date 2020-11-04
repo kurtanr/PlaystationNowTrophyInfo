@@ -249,7 +249,7 @@ F1 2014
 F1 2015
 F1 2016
 F1 2017
-F1 2019
+F1 2020
 F1 RACE STARS
 Faery: Legends of Avalon
 Fairy Fencer F: Advent Dark Force
@@ -343,6 +343,7 @@ inFAMOUS 2
 inFAMOUS: Festival Of Blood
 Infinite Minigolf
 Injustice: Gods Among Us Ultimate Edition
+Injustice 2
 Inside My Radio
 Interpol: The Trail of Dr. Chaos
 Invizimals: The Lost Kingdom
@@ -365,6 +366,7 @@ Killzone Shadow Fall
 Kinetica
 King Oddball
 Kingdom: New Lands
+Kingdom Come: Deliverance
 Knack
 Knytt Underground
 Kung Fu Rabbit
@@ -436,6 +438,7 @@ Mitsurugi Kamui Hikae
 Momonga Pinball Adventures
 Monkey Island™ 2 Special Edition: LeChuck's Revenge™
 Monster Energy Supercross - The Official Videogame
+Monster Jam Steel Titans
 Mordheim - City of the Damned
 Mortal Kombat
 Moto GP 13
@@ -453,6 +456,7 @@ MX vs ATV Supercross Encore
 MX vs. ATV Untamed
 MXGP2 - The Official Motocross Videogame
 MXGP3 - The Official Motocross Videogame
+My Time at Portia
 Mystery Chronicle: One Way Heroics
 Narco Terror
 Nascar Heat 3
@@ -543,6 +547,7 @@ R-Type Dimensions
 Rad Rodgers
 Rag Doll Kung Fu: Fists of Plastic
 Rage
+Rage 2
 Ragnarok Odyssey Ace
 Raiden IV Overkill
 Raiden V: Director’s Cut
@@ -625,10 +630,8 @@ Savage Moon
 Seasons After Fall
 Sebastien Loeb Rally Evo
 SEGA Bass Fishing
-Shadow Complex Remastered
 Shadow of the Beast
 Shadow of the Colossus
-Shadwen
 Shatter
 Sherlock Holmes: The Devil's Daughter
 Shiness: The Lightning Kingdom
@@ -776,7 +779,6 @@ Titan Attacks!
 Titan Quest
 Tokyo Jungle
 Tokyo Twilight Ghost Hunters Daybreak: Special Gigs
-Tom Clancy's Rainbow Six Siege
 Torment: Tides of Numenera
 Touhou Genso Rondo: Bullet Ballet
 Touhou: Scarlet Curiosity

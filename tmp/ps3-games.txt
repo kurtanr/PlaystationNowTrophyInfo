@@ -154,6 +154,7 @@ Class of Heroes 2G (NA)                            | https://www.playstationtrop
 Cloudy With a Chance of Meatballs                  | https://www.playstationtrophies.org/game/cloudy-with-a-chance-of-meatballs/guide/
 Combat Wings: The Great Battles of WWII            | https://www.playstationtrophies.org/game/combat-wings-the-great-battles-of-wwii/guide/
 Command & Conquer: Red Alert 3                     | https://www.playstationtrophies.org/game/comman-and-conquer-red-alert-3/guide/
+Cook, Serve, Delicious! 3?! (NA)                   | https://www.playstationtrophies.org/game/cook-serve-delicious-3-na/guide/
 Crash Time 4: The Syndicate                        | https://www.playstationtrophies.org/game/crash-time-4-the-syndicate/guide/
 Crash Time 5: Undercover                           | https://www.playstationtrophies.org/game/crash-time-5-undercover/guide/
 Create                                             | https://www.playstationtrophies.org/game/create/guide/
@@ -173,7 +174,7 @@ DanceStar Party                                    | https://www.playstationtrop
 DanceStar Party Hits                               | https://www.playstationtrophies.org/game/dance-star-party-hits/guide/
 Dante's Inferno                                    | https://www.playstationtrophies.org/game/dantes-inferno/guide/
 Dark Souls (PS3)                                   | https://www.playstationtrophies.org/game/dark-souls-ps3/guide/
-Dark Souls II                                      | https://www.playstationtrophies.org/game/dark-souls-2/guide/
+Dark Souls II (PS3)                                | https://www.playstationtrophies.org/game/dark-souls-2/guide/
 Dark Void                                          | https://www.playstationtrophies.org/game/dark-void/guide/
 Darksiders                                         | https://www.playstationtrophies.org/game/darksiders/guide/
 Darksiders II                                      | https://www.playstationtrophies.org/game/darksiders-ii/guide/
@@ -623,7 +624,7 @@ NCAA Football 12                                   | https://www.playstationtrop
 NCAA Football 13                                   | https://www.playstationtrophies.org/game/ncaa-football-13/guide/
 NCAA Football 14                                   | https://www.playstationtrophies.org/game/ncaa-football-14/guide/
 NCIS                                               | https://www.playstationtrophies.org/game/ncis/guide/
-Need For Speed: Hot Pursuit                        | https://www.playstationtrophies.org/game/need-for-speed-hot-pursuit/guide/
+Need For Speed: Hot Pursuit (PS3)                  | https://www.playstationtrophies.org/game/need-for-speed-hot-pursuit/guide/
 Need for Speed: Most Wanted (PS3)                  | https://www.playstationtrophies.org/game/need-for-speed-most-wanted-criterion/guide/
 Need for Speed: Rivals (PS3)                       | https://www.playstationtrophies.org/game/need-for-speed-rivals/guide/
 Need for Speed: Shift                              | https://www.playstationtrophies.org/game/need-for-speed-shift/guide/
@@ -771,8 +772,8 @@ Rune Factory: Oceans (EU)                          | https://www.playstationtrop
 Rune Factory: Tides of Destiny (NA)                | https://www.playstationtrophies.org/game/rune-factory-tides-of-destiny/guide/
 Sacred 2 Fallen Angel                              | https://www.playstationtrophies.org/game/sacred-2-fallen-angel/guide/
 Sacred 3                                           | https://www.playstationtrophies.org/game/sacred-3/guide/
-Saint Seiya Sanctuary Battle                       | https://www.playstationtrophies.org/game/saint-seiya-sanctuary-battle/guide/
 Saint Seiya: Brave Soldiers                        | https://www.playstationtrophies.org/game/saint-seiya-brave-soldiers/guide/
+Saint Seiya: Sanctuary Battle                      | https://www.playstationtrophies.org/game/saint-seiya-sanctuary-battle/guide/
 Saint Seiya: Sanctuary Battle (Portuguese)         | https://www.playstationtrophies.org/game/saint-seiya-sanctuary-battle-sa/guide/
 Saints Row IV (Australia) (PS3)                    | https://www.playstationtrophies.org/game/saints-row-iv-aus/guide/
 Saints Row IV (PS3)                                | https://www.playstationtrophies.org/game/saints-row-4/guide/
@@ -869,9 +870,9 @@ Summer Challenge                                   | https://www.playstationtrop
 Summer Stars 2012                                  | https://www.playstationtrophies.org/game/summer-stars-2012/guide/
 Super Street Fighter IV                            | https://www.playstationtrophies.org/game/super-street-fighter-iv/guide/
 Supercar Challenge                                 | https://www.playstationtrophies.org/game/supercar-challenge/guide/
-Superstars V8 Next Challenge (EU)                  | https://www.playstationtrophies.org/game/superstars-v8-next-challenge/guide/
-Superstars V8 Next Challenge (NA)                  | https://www.playstationtrophies.org/game/superstars-v8-next-challenge-us/guide/
 Superstars V8 Racing (EU)                          | https://www.playstationtrophies.org/game/superstars-v8-racing/guide/
+Superstars V8: Next Challenge (EU)                 | https://www.playstationtrophies.org/game/superstars-v8-next-challenge/guide/
+Superstars V8: Next Challenge (NA - Unreleased)    | https://www.playstationtrophies.org/game/superstars-v8-next-challenge-us/guide/
 Supremacy MMA (PS3)                                | https://www.playstationtrophies.org/game/supremacy-mma/guide/
 Syndicate                                          | https://www.playstationtrophies.org/game/syndicate/guide/
 Tacticool Champs (NA)                              | https://www.playstationtrophies.org/game/tacticool-champs-na/guide/
