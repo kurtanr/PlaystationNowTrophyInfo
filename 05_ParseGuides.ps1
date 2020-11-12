@@ -118,23 +118,23 @@ foreach($psNowGame in $psNowGames)
     $xml = ConvertFrom-Html -Path $filePath
 
     # HasGuide
-    $guideLink = $xml.SelectNodes("//img[contains(@src, '/images/site/questionmark.gif')]")
-    $psNowGame.HasGuide = [bool]($guideLink -ne $null)
+    $guideText = $xml.SelectNodes("//div[contains(@class, 'text-article__copy')]").InnerText
+    $psNowGame.HasGuide = [bool]($guideText -ne '')
 
     # HasPlatinum
-    $platinumLink = $xml.SelectNodes("//img[contains(@src, '/images/site/icons/trophy_platinum.png')]")
+    $platinumLink = $xml.SelectNodes("//img[contains(@src, '/images/icons/trophy_platinum.png')]")
     $psNowGame.HasPlatinum = [bool]($platinumLink -ne $null)
 
     # Genre
     $genre = $xml.SelectNodes("//a[starts-with(@href, '/browsegames/genre/')]").InnerText
-    if($genre -eq $null)
+    if(($genre -eq $null) -or ($genre.Trim() -eq ''))
     {
         $genre = "n/a"
     }
     $psNowGame.Genre = $genre.Trim()
 
     # Release
-    $release = $xml.SelectSingleNode("//img[contains(@src, '/images/site/icons/flags/United States.gif')]").NextSibling.InnerText
+    $release = $xml.SelectSingleNode("//img[contains(@src, '/images/flags/usa.jpg')]").NextSibling.InnerText
     if($release -eq $null)
     {
         $psNowGame.Release = "n/a"

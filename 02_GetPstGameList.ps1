@@ -21,7 +21,7 @@ elseif($platform.Equals("psn"))
 elseif($platform.Equals("ps4"))
 {
     $platformPst = "ps4"
-    $pageCount = 99
+    $pageCount = 114
 }
 else
 {
@@ -52,17 +52,17 @@ if($StatusCode -eq "200")
     Write-Host "Parsing content..." -ForegroundColor Yellow
 
     $html = ConvertFrom-Html -Content $response.RawContent
-    $gameLinks = $html.SelectNodes("//div[contains(@class, 'divtext')]/table//a[contains(@class, 'linkT') and starts-with(@href, '/game/')]/..").InnerHtml
+    $gameLinks = $html.SelectNodes("//a[contains(@class, 'list__item-link') and starts-with(@href, '/game/')]/..")
     foreach ($gameLink in $gameLinks)
     {
         $gameName = ""
         $gameUrl = ""
 
-        $gameLink -match 'game/(?<gameUrl>.+)/trophies/' | Out-Null
+        $gameLink.InnerHtml -match 'game/(?<gameUrl>.+)/trophies/' | Out-Null
         $gameUrl = $Matches.gameUrl
         
         $gameLink -match '<strong>(?<gameName>.+)</strong>' | Out-Null
-        $gameName = $Matches.gameName
+        $gameName = $gameLink.InnerText
 
         if($gameName.StartsWith("Toukiden 2"))
         {
@@ -86,6 +86,7 @@ if($StatusCode -eq "200")
         }
         elseif($platform.Equals("ps4") -and
                ($gameName.Equals("Blue Rider (NA)") -or
+               $gameName.Equals("Death Come True (NA)") -or
                $gameName.Equals("Doodle Devil (PS4) (NA)") -or
                $gameName.Equals("Doodle God (PS4) (NA)") -or
                $gameName.Equals("Elliot Quest") -or
@@ -168,25 +169,6 @@ if($platform -eq "ps3")
 }
 if($platform -eq "ps4")
 {
-    # only first 99 pages of PS4 games are accessible
-    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/t/7"
-    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/t/8"
-    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/t/9"
-    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/t/10"
-    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/t/11"
-    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/t/12"
-    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/u/1"
-    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/u/2"
-    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/v/1"
-    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/v/2"
-    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/w/1"
-    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/w/2"
-    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/w/3"
-    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/w/4"
-    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/x/"
-    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/y/"
-    Get-GameInfo -url "https://www.playstationtrophies.org/browsegames/ps4/z/"
-
     $gameName = "Mitsurugi Kamui Hikae"
     $gameUrl = "mitsurugi-kamui-hikae"
     Add-AdditionalGame $gameName $gameUrl
