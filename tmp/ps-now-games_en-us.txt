@@ -109,6 +109,7 @@ Brawlout
 Brick Breaker
 Bridge Constructor
 Brink
+Broforce
 Broken Age
 Brothers: A Tale of Two Sons
 BRUT@L
@@ -160,6 +161,7 @@ Dark Sector
 Dark Void
 Darksiders Warmastered Edition
 Darksiders II Deathinitive Edition
+Darksiders III
 Darkstalkers® Resurrection
 Day of the Tentacle Remastered
 Days Gone
@@ -324,6 +326,7 @@ Hoard
 Hohokum
 Hollow Knight
 Homefront: The Revolution
+Horizon Zero Dawn
 Hot Shots Golf: Out of Bounds
 Hot Shots Golf: World Invitational
 Hot Shots Tennis
@@ -427,7 +430,6 @@ Metal Gear Solid V: Ground Zeroes
 Metal Gear Solid V: The Phantom Pain
 Metal Slug 3
 Metro 2033 Redux
-Metro Exodus
 Metro: Last Light – Complete Edition
 Metro: Last Light Redux
 Mighty No. 9
@@ -578,7 +580,6 @@ Renegade Ops
 Resident Evil 4
 Resident Evil 5: Gold Edition
 Resident Evil 6
-RESIDENT EVIL 7 biohazard
 Resident Evil Code: Veronica X HD
 Resident Evil Operation Raccoon City
 Resident Evil Revelations
@@ -596,7 +597,6 @@ Rise of the Argonauts
 Risen 3: Titan Lords – Enhanced Edition
 RIVE
 Rocket Knight
-Rocket League
 Rocketbirds: Hardboiled Chicken
 Rogue Galaxy
 Rogue Stormers
@@ -695,6 +695,7 @@ Steep
 Stick it to the Man
 Stikbold! A Dodgeball Adventure
 Street Fighter 3 Third-Strike Online Edition
+Stranded Deep
 Street Fighter V
 Strider
 Strike Suit Zero: Director's Cut
@@ -761,6 +762,7 @@ The Revenge of Shinobi
 The Secret of Monkey Island®: Special Edition
 The Spectrum Retreat
 The Surge
+The Surge 2
 The Swapper
 The Swindle
 The Turing Test
@@ -834,7 +836,6 @@ Wild ARMs 3
 Wild Guns Reloaded
 Wizardry: Labyrinth of Lost Souls
 Wolfenstein The New Order
-Wolfenstein The Old Blood
 Wolfenstein II: The New Colossus
 World to the West
 WRC 4: FIA World Rally Championship
