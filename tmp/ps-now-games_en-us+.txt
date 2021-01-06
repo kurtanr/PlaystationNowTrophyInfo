@@ -164,7 +164,6 @@ Darksiders II Deathinitive Edition,PS4,https://www.playstationtrophies.org/game/
 Darksiders III,PS4,https://www.playstationtrophies.org/game/darksiders-3/guide/
 Darkstalkers® Resurrection,PS3(PSN),https://www.playstationtrophies.org/game/darkstalkers-resurrection/guide/
 Day of the Tentacle Remastered,PS4,https://www.playstationtrophies.org/game/day-of-the-tentacle-remastered/guide/
-Days Gone,PS4,https://www.playstationtrophies.org/game/days-gone/guide/
 de Blob,PS4,https://www.playstationtrophies.org/game/de-blob-ps4/guide/
 de Blob 2,PS3,https://www.playstationtrophies.org/game/de-blob-2-ps3/guide/
 Dead Cells,PS4,https://www.playstationtrophies.org/game/dead-cells-na/guide/
@@ -274,6 +273,7 @@ For Honor,PS4,https://www.playstationtrophies.org/game/for-honor/guide/
 Forestry 2017 - The Simulation,PS4,https://www.playstationtrophies.org/game/forestry-2017-the-simulation-na/guide/
 Friday the 13th: The Game,PS4,https://www.playstationtrophies.org/game/friday-the-13th-the-game-na/guide/
 Frogger Returns,PS3(PSN),https://www.playstationtrophies.org/game/frogger-returns/guide/
+Frostpunk,PS4,https://www.playstationtrophies.org/game/frostpunk-console-edition/guide/
 Fuel Overdose,PS3(PSN),https://www.playstationtrophies.org/game/fuel-overdose/guide/
 G-Force,PS3,https://www.playstationtrophies.org/game/g-force/guide/
 Galaga Legions DX,PS3(PSN),https://www.playstationtrophies.org/game/galaga-legions-dx/guide/
@@ -715,6 +715,7 @@ Super Stardust Ultra,PS4,https://www.playstationtrophies.org/game/super-stardust
 Super Street Fighter II Turbo HD Remix,PS3(no_trophies)
 Super Toy Cars,PS4,https://www.playstationtrophies.org/game/super-toy-cars/guide/
 Surgeon Simulator: Anniversary Edition,PS4,https://www.playstationtrophies.org/game/surgeon-simulator/guide/
+Surviving Mars,PS4,https://www.playstationtrophies.org/game/surviving-mars/guide/
 Syberia,PS3(PSN),https://www.playstationtrophies.org/game/syberia/guide/
 Syberia II,PS3(PSN),https://www.playstationtrophies.org/game/syberia-2/guide/
 Table Top Racing: World Tour,PS4,https://www.playstationtrophies.org/game/table-top-racing-world-tour/guide/
@@ -732,6 +733,7 @@ Tetraminos,PS4,https://www.playstationtrophies.org/game/tetraminos/guide/
 The Awakened Fate Ultimatum,PS3,https://www.playstationtrophies.org/game/the-awakened-fate-ultimatum-na/guide/
 The Book of Unwritten Tales 2,PS4,https://www.playstationtrophies.org/game/the-book-of-unwritten-tales-2/guide/
 The Bug Butcher,PS4,https://www.playstationtrophies.org/game/the-bug-butcher/guide/
+The Crew 2,PS4,https://www.playstationtrophies.org/game/the-crew-2/guide/
 The Darkness,PS3(no_trophies)
 The Darkness II,PS3,https://www.playstationtrophies.org/game/the-darkness-ii/guide/
 The Deer God,PS4,https://www.playstationtrophies.org/game/the-deer-god-ps4/guide/

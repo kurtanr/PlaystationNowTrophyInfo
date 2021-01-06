@@ -164,7 +164,6 @@ Darksiders II Deathinitive Edition
 Darksiders III
 Darkstalkers® Resurrection
 Day of the Tentacle Remastered
-Days Gone
 de Blob
 de Blob 2
 Dead Cells
@@ -274,6 +273,7 @@ For Honor
 Forestry 2017 - The Simulation
 Friday the 13th
 Frogger Returns
+Frostpunk
 Fuel Overdose
 G-Force
 Galaga Legions DX
@@ -715,6 +715,7 @@ Super Stardust Ultra
 Super Street Fighter II Turbo HD Remix
 Super Toy Cars
 Surgeon Simulator: Anniversary Edition
+Surviving Mars
 Syberia
 Syberia II
 Table Top Racing: World Tour
@@ -732,6 +733,7 @@ Tetraminos
 The Awakened Fate Ultimatum
 The Book of Unwritten Tales 2
 The Bug Butcher
+The Crew 2
 The Darkness
 The Darkness II
 The Deer God

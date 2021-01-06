@@ -12,6 +12,7 @@
 112th Seed (NA)                                    | https://www.playstationtrophies.org/game/112th-seed-na/guide/
 13 Sentinels: Aegis Rim                            | https://www.playstationtrophies.org/game/13-sentinels-aegis-rim/guide/
 140                                                | https://www.playstationtrophies.org/game/140/guide/
+16-Bit Soccer                                      | https://www.playstationtrophies.org/game/16-bit-soccer/guide/
 18 Floors (EU)                                     | https://www.playstationtrophies.org/game/18-floors-eu/guide/
 18 Floors (NA)                                     | https://www.playstationtrophies.org/game/18-floors-na/guide/
 1971 Project Helios (EU)                           | https://www.playstationtrophies.org/game/1971-project-helios/guide/
@@ -35,6 +36,10 @@
 428: Shibuya Scramble (EU) (PS4)                   | https://www.playstationtrophies.org/game/428-shibuya-scramble-eu/guide/
 428: Shibuya Scramble (NA) (PS4)                   | https://www.playstationtrophies.org/game/428-shibuya-scramble-ps4/guide/
 5 Star Wrestling: ReGenesis                        | https://www.playstationtrophies.org/game/5-star-wrestling-regenesis/guide/
+60 Parsecs (EU)                                    | https://www.playstationtrophies.org/game/60-parsecs/guide/
+60 Parsecs (NA)                                    | https://www.playstationtrophies.org/game/60-parsecs-na/guide/
+60 Seconds Reatomized (EU)                         | https://www.playstationtrophies.org/game/60-seconds-reatomized/guide/
+60 Seconds Reatomized (NA)                         | https://www.playstationtrophies.org/game/60-seconds-reatomized-na/guide/
 60 Seconds!                                        | https://www.playstationtrophies.org/game/60-seconds/guide/
 7 Days to Die                                      | https://www.playstationtrophies.org/game/7-days-to-die/guide/
 7th Sector (EU)                                    | https://www.playstationtrophies.org/game/7th-sector/guide/
@@ -265,10 +270,13 @@ Arcade Archives - 64th Street A Detective Story    | https://www.playstationtrop
 Arcade Archives Atomic Robo-Kid                    | https://www.playstationtrophies.org/game/arcade-archives-atomic-robo-kid/guide/
 Arcade Archives City Connection                    | https://www.playstationtrophies.org/game/arcade-archives-city-connection/guide/
 Arcade Archives Exerion                            | https://www.playstationtrophies.org/game/arcade-archives-exerion/guide/
+Arcade Archives Gradius III                        | https://www.playstationtrophies.org/game/arcade-archives-gradius-3/guide/
 Arcade Archives Karate Champ                       | https://www.playstationtrophies.org/game/arcade-archives-karate-champ/guide/
 Arcade Archives Kid's Horehore Daisakusen          | https://www.playstationtrophies.org/game/arcade-archives-kids-horehore-daisakusen/guide/
+Arcade Archives Markham                            | https://www.playstationtrophies.org/game/arcade-archives-markham/guide/
 Arcade Archives Rush'n Attack                      | https://www.playstationtrophies.org/game/arcade-archives-rush-n-attack/guide/
 Arcade Archives Solomon's Key                      | https://www.playstationtrophies.org/game/arcade-archives-solomons-key/guide/
+Arcade Archives The Fairyland Story                | https://www.playstationtrophies.org/game/arcade-archives-the-fairyland-story/guide/
 Arcade Archives Zero Team                          | https://www.playstationtrophies.org/game/arcade-archives-zero-team/guide/
 Arcade Archives: 10-Yard Fight                     | https://www.playstationtrophies.org/game/arcade-archives-10-yard-fight/guide/
 Arcade Archives: 3 Count Bout                      | https://www.playstationtrophies.org/game/arcade-archives-3-count-bout/guide/
@@ -510,10 +518,6 @@ Ashen (EU)                                         | https://www.playstationtrop
 Ashen (NA)                                         | https://www.playstationtrophies.org/game/ashen-na/guide/
 Ashes Cricket                                      | https://www.playstationtrophies.org/game/ashes-cricket/guide/
 Assassin's Creed Brotherhood (PS4)                 | https://www.playstationtrophies.org/game/assassins-creed-brotherhood-ps4/guide/
-Assassin's Creed Chronicles                        | https://www.playstationtrophies.org/game/assassins-creed-chronicles/guide/
-Assassin's Creed Chronicles: China                 | https://www.playstationtrophies.org/game/assassins-creed-chronicles-china/guide/
-Assassin's Creed Chronicles: India (PS4)           | https://www.playstationtrophies.org/game/assassins-creed-chronicles-india/guide/
-Assassin's Creed Chronicles: Russia                | https://www.playstationtrophies.org/game/assassins-creed-chronicles-russia/guide/
 Assassin's Creed II (PS4)                          | https://www.playstationtrophies.org/game/assassins-creed-2-ps4/guide/
 Assassin's Creed III Remastered (PS4)              | https://www.playstationtrophies.org/game/assassins-creed-3-remastered/guide/
 Assassin's Creed IV: Black Flag (PS4)              | https://www.playstationtrophies.org/game/assassins-creed-4-black-flag-ps4/guide/
@@ -526,6 +530,10 @@ Assassin's Creed: Freedom Cry (PS4)                | https://www.playstationtrop
 Assassin's Creed: Liberation Remastered (PS4)      | https://www.playstationtrophies.org/game/assassins-creed-liberation-remastered/guide/
 Assassin's Creed: Unity                            | https://www.playstationtrophies.org/game/assassins-creed-unity/guide/
 Assassin's Creed: Valhalla (PS4)                   | https://www.playstationtrophies.org/game/assassins-creed-valhalla/guide/
+Assassin's Creed Chronicles (PS4)                  | https://www.playstationtrophies.org/game/assassins-creed-chronicles/guide/
+Assassin's Creed Chronicles China (PS4)            | https://www.playstationtrophies.org/game/assassins-creed-chronicles-china/guide/
+Assassin's Creed Chronicles India (PS4)            | https://www.playstationtrophies.org/game/assassins-creed-chronicles-india/guide/
+Assassin's Creed Chronicles Russia (PS4)           | https://www.playstationtrophies.org/game/assassins-creed-chronicles-russia/guide/
 Assault Android Cactus                             | https://www.playstationtrophies.org/game/assault-android-cactus/guide/
 Assault Gunners: HD Edition (NA & EU) (PS4)        | https://www.playstationtrophies.org/game/assault-gunners-hd-edition-na-eu-ps4/guide/
 Assault Suit Leynos (NA & EU)                      | https://www.playstationtrophies.org/game/assault-suit-leynos-stack/guide/
@@ -533,6 +541,7 @@ Assetto Corsa (EU)                                 | https://www.playstationtrop
 Assetto Corsa (NA)                                 | https://www.playstationtrophies.org/game/assetto-corsa-na/guide/
 Assetto Corsa Competizione                         | https://www.playstationtrophies.org/game/assetto-corsa-competizione/guide/
 Assetto Corsa Ultimate Edition                     | https://www.playstationtrophies.org/game/assetto-corsa-ultimate-edition/guide/
+Astebreed                                          | https://www.playstationtrophies.org/game/astebreed/guide/
 Asterix & Obelix XXL 2                             | https://www.playstationtrophies.org/game/asterix-and-obelix-xxl-2/guide/
 Asterix & Obelix XXL 3: The Crystal Menhir         | https://www.playstationtrophies.org/game/asterix-and-obelix-xxl-3/guide/
 Asterix & Obelix XXL: Romastered                   | https://www.playstationtrophies.org/game/asterix-and-obelix-xxl-romastered/guide/
@@ -551,6 +560,7 @@ Atelier Lulua: The Scion of Arland                 | https://www.playstationtrop
 Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings (NA & EU) (PS4) | https://www.playstationtrophies.org/game/atelier-lydie-and-suelle-the-alchemists-and-the-mysterious-paintings-na-eu--ps4/guide/
 Atelier Meruru: The Apprentice of Arland DX (PS4)  | https://www.playstationtrophies.org/game/atelier-meruru-dx/guide/
 Atelier Rorona: The Alchemist of Arland DX (PS4)   | https://www.playstationtrophies.org/game/atelier-rorona-dx/guide/
+Atelier Ryza 2 Lost Legends &amp; The Secret Fairy (PS4) | https://www.playstationtrophies.org/game/atelier-ryza-2-lost-legends-and-the-secret-fairy/guide/
 Atelier Ryza: Ever Darkness & the Secret Hideout   | https://www.playstationtrophies.org/game/atelier-ryza-ever-darkness-and-the-secret-hideout/guide/
 Atelier Shallie: Alchemists of the Dusk Sea DX (PS4) | https://www.playstationtrophies.org/game/atelier-shallie-alchemists-of-the-dusk-sea-dx/guide/
 Atelier Sophie: The Alchemist of the Wonder Book (PS3, PS4 & Vita) | https://www.playstationtrophies.org/game/atelier-sophie-the-alchemist-of-the-wonder-book/guide/
@@ -570,9 +580,14 @@ Attractio                                          | https://www.playstationtrop
 ATV Drift & Tricks                                 | https://www.playstationtrophies.org/game/atv-drift-and-tricks/guide/
 ATV Renegades                                      | https://www.playstationtrophies.org/game/atv-renegades/guide/
 Audica                                             | https://www.playstationtrophies.org/game/audica/guide/
+Auto Chess (NA)                                    | https://www.playstationtrophies.org/game/auto-chess-na/guide/
 Autobahn Police 2                                  | https://www.playstationtrophies.org/game/autobahn-police-2/guide/
+Autumn's Journey (Asia)                            | https://www.playstationtrophies.org/game/autumn-s-journey-asia/guide/
+Autumn's Journey (EU)                              | https://www.playstationtrophies.org/game/autumn-s-journey/guide/
+Autumn's Journey (NA)                              | https://www.playstationtrophies.org/game/autumn-s-journey-na/guide/
 Aven Colony                                        | https://www.playstationtrophies.org/game/aven-colony/guide/
 AVICII Invector (Re-Release)                       | https://www.playstationtrophies.org/game/avicii-invector/guide/
+Awakening of Cthulhu (EU)                          | https://www.playstationtrophies.org/game/awakening-of-cthulhu/guide/
 Away: Journey to the Unexpected                    | https://www.playstationtrophies.org/game/away-journey-to-the-unexpected/guide/
 Awesome Pea (EU) (PS4)                             | https://www.playstationtrophies.org/game/awesome-pea/guide/
 Awesome Pea (NA) (PS4)                             | https://www.playstationtrophies.org/game/awesome-pea-na-ps4/guide/
@@ -585,6 +600,7 @@ Axes (EU)                                          | https://www.playstationtrop
 Axes (NA)                                          | https://www.playstationtrophies.org/game/axes-na/guide/
 Axiom Verge (EU) (PS4 & Vita)                      | https://www.playstationtrophies.org/game/axiom-verge-eu-ps4-vita/guide/
 Axiom Verge (NA) (PS4 & Vita)                      | https://www.playstationtrophies.org/game/axiom-verge-na-ps4-vita/guide/
+Axis Football 2020                                 | https://www.playstationtrophies.org/game/axis-football-2020/guide/
 Azkend 2: The World Beneath (PS4)                  | https://www.playstationtrophies.org/game/azkend-2-ps4/guide/
 Azur Lane: Crosswave (EU)                          | https://www.playstationtrophies.org/game/azur-lane-crosswave-eu/guide/
 Azur Lane: Crosswave (NA)                          | https://www.playstationtrophies.org/game/azur-lane-crosswave-na/guide/
@@ -848,6 +864,7 @@ Bridge Constructor Stunts (NA)                     | https://www.playstationtrop
 Bridge Constructor The Walking Dead (EU)           | https://www.playstationtrophies.org/game/bridge-constructor-the-walking-dead/guide/
 Bridge Constructor The Walking Dead (NA)           | https://www.playstationtrophies.org/game/bridge-constructor-the-walking-dead-na/guide/
 Brief Battles                                      | https://www.playstationtrophies.org/game/brief-battles/guide/
+Brigandine The Legend of Runersia                  | https://www.playstationtrophies.org/game/brigandine-the-legend-of-runersia/guide/
 Briks (EU)                                         | https://www.playstationtrophies.org/game/briks-eu/guide/
 Briks (NA)                                         | https://www.playstationtrophies.org/game/briks-na/guide/
 Briks 2 (EU)                                       | https://www.playstationtrophies.org/game/briks-2-eu/guide/
@@ -881,7 +898,7 @@ Buff Knight Advanced                               | https://www.playstationtrop
 Bug Fables: The Everlasting Sapling                | https://www.playstationtrophies.org/game/bug-fables-the-everlasting-sapling/guide/
 BugsBox                                            | https://www.playstationtrophies.org/game/bugs-box/guide/
 BugsBox VR                                         | https://www.playstationtrophies.org/game/bugsbox-vr/guide/
-Bugsnax                                            | https://www.playstationtrophies.org/game/bugsnax/guide/
+Bugsnax (PS4)                                      | https://www.playstationtrophies.org/game/bugsnax/guide/
 Bulb Boy (EU)                                      | https://www.playstationtrophies.org/game/bulb-boy-eu/guide/
 Bulb Boy (NA)                                      | https://www.playstationtrophies.org/game/bulb-boy-na/guide/
 Bulletstorm: Full Clip Edition (PS4)               | https://www.playstationtrophies.org/game/bulletstorm-full-clip-edition/guide/
@@ -969,6 +986,8 @@ Catch & Release (NA)                               | https://www.playstationtrop
 Catherine: Full Body (JP) (PS4 & Vita)             | https://www.playstationtrophies.org/game/catherine-full-body/guide/
 Catherine: Full Body (PS4)                         | https://www.playstationtrophies.org/game/catherine-full-body-international/guide/
 Catlateral Damage                                  | https://www.playstationtrophies.org/game/catlateral-damage/guide/
+Cattch (EU)                                        | https://www.playstationtrophies.org/game/cattch/guide/
+Cattch (NA)                                        | https://www.playstationtrophies.org/game/cattch-na/guide/
 Cave Digger (EU)                                   | https://www.playstationtrophies.org/game/cave-digger/guide/
 Cave Digger (NA)                                   | https://www.playstationtrophies.org/game/cave-digger-na/guide/
 Cave Digger: Riches                                | https://www.playstationtrophies.org/game/cave-digger-riches/guide/
@@ -1008,6 +1027,8 @@ Chimparty                                          | https://www.playstationtrop
 Chivalry: Medieval Warfare (PS4)                   | https://www.playstationtrophies.org/game/chivalry-medieval-warfare-ps4/guide/
 Chocobo's Mystery Dungeon: Every Buddy!            | https://www.playstationtrophies.org/game/chocobos-mystery-dungeon-every-buddy/guide/
 Chop is Dish                                       | https://www.playstationtrophies.org/game/chop-is-dish/guide/
+Christmas Break (EU)                               | https://www.playstationtrophies.org/game/christmas-break/guide/
+Christmas Break (NA)                               | https://www.playstationtrophies.org/game/christmas-break-na/guide/
 Christmas Break Head to Head (EU)                  | https://www.playstationtrophies.org/game/christmas-break-head-to-head/guide/
 Christmas Break Head to Head (NA)                  | https://www.playstationtrophies.org/game/christmas-break-head-to-head-na/guide/
 Chroma Squad                                       | https://www.playstationtrophies.org/game/chroma-squad/guide/
@@ -1037,6 +1058,7 @@ ClaDun Returns: This is Sengoku! (NA & EU) (PS4)   | https://www.playstationtrop
 Claire: Extended Cut (PS4)                         | https://www.playstationtrophies.org/game/claire-extended-cut-ps4/guide/
 Clan N                                             | https://www.playstationtrophies.org/game/clan-n/guide/
 Clannad (PS4)                                      | https://www.playstationtrophies.org/game/clannad-na-eu/guide/
+Clash Cup Turbo                                    | https://www.playstationtrophies.org/game/clash-cup-turbo/guide/
 Clash Force (EU)                                   | https://www.playstationtrophies.org/game/clash-force/guide/
 Clash Force (NA)                                   | https://www.playstationtrophies.org/game/clash-force-na/guide/
 Classic Snake Adventures (EU)                      | https://www.playstationtrophies.org/game/classic-snake-adventures/guide/
@@ -1068,6 +1090,8 @@ Cold Iron                                          | https://www.playstationtrop
 Color Guardians (PS4 & Vita)                       | https://www.playstationtrophies.org/game/color-guardians/guide/
 Color Slayer (PS4)                                 | https://www.playstationtrophies.org/game/color-slayer-ps4/guide/
 Color Zen                                          | https://www.playstationtrophies.org/game/color-zen/guide/
+Colt Canyon (EU)                                   | https://www.playstationtrophies.org/game/colt-canyon/guide/
+Colt Canyon (NA)                                   | https://www.playstationtrophies.org/game/colt-canyon-na/guide/
 Comet Crash 2                                      | https://www.playstationtrophies.org/game/comet-crash-2/guide/
 Commander Cherry's Puzzled Journey                 | https://www.playstationtrophies.org/game/commander-cherrys-puzzled-journey/guide/
 Commandos 2 HD Remaster (EU)                       | https://www.playstationtrophies.org/game/commandos-2-hd-remaster/guide/
@@ -1154,6 +1178,7 @@ CrossKrush (NA)                                    | https://www.playstationtrop
 Crossout                                           | https://www.playstationtrophies.org/game/crossout/guide/
 Crossovers by POWGI (EU) (PS4)                     | https://www.playstationtrophies.org/game/crossovers-by-powgi-eu-ps4/guide/
 Crossovers by POWGI (NA) (PS4)                     | https://www.playstationtrophies.org/game/crossovers-by-powgi-na-ps4/guide/
+CRSED (PS4)                                        | https://www.playstationtrophies.org/game/cuisine-royale/guide/
 Cruz Brothers                                      | https://www.playstationtrophies.org/game/cruz-brothers/guide/
 Crypt of the NecroDancer (PS4 & Vita)              | https://www.playstationtrophies.org/game/crypt-of-the-necrodancer/guide/
 Crypt of the Serpent King (EU)                     | https://www.playstationtrophies.org/game/crypt-of-the-serpent-king-eu/guide/
@@ -1173,13 +1198,13 @@ Cubers: Arena                                      | https://www.playstationtrop
 CubeWorks                                          | https://www.playstationtrophies.org/game/cubeworks/guide/
 Cubians VR                                         | https://www.playstationtrophies.org/game/cubians-vr/guide/
 Cubikolor                                          | https://www.playstationtrophies.org/game/cubikolor/guide/
-Cuisine Royale                                     | https://www.playstationtrophies.org/game/cuisine-royale/guide/
 Cuphead                                            | https://www.playstationtrophies.org/game/cuphead/guide/
 Curious Expedition                                 | https://www.playstationtrophies.org/game/curious-expedition/guide/
 Cybarian: The Time Travelling Warrior (EU) (PS4)   | https://www.playstationtrophies.org/game/cybarian-the-time-travelling-warrior-eu-ps4/guide/
 Cybarian: The Time Travelling Warrior (NA) (PS4)   | https://www.playstationtrophies.org/game/cybarian-the-time-travelling-warrior-na-ps4/guide/
 Cyberdimension Neptunia: 4 Goddesses Online (EU)   | https://www.playstationtrophies.org/game/cyberdimension-neptunia-4-goddesses-online-eu/guide/
 Cyberdimension Neptunia: 4 Goddesses Online (NA)   | https://www.playstationtrophies.org/game/cyberdimension-neptunia-4-goddesses-online-na/guide/
+Cyberpunk 2077                                     | https://www.playstationtrophies.org/game/cyberpunk-2077/guide/
 D/Generation                                       | https://www.playstationtrophies.org/game/d-generation/guide/
 Daedalus: The Awakening of Golden Jazz             | https://www.playstationtrophies.org/game/daedalus/guide/
 Daggerhood (EU) (PS4)                              | https://www.playstationtrophies.org/game/daggerhood-eu-ps4/guide/
@@ -1236,6 +1261,9 @@ Darksiders III                                     | https://www.playstationtrop
 Darksiders: Warmastered Edition                    | https://www.playstationtrophies.org/game/darksiders-warmastered-edition/guide/
 Darkwood (EU)                                      | https://www.playstationtrophies.org/game/darkwood-eu/guide/
 Darkwood (NA)                                      | https://www.playstationtrophies.org/game/darkwood-na/guide/
+DARQ Complete Edition (PS4)                        | https://www.playstationtrophies.org/game/darq-complete-edition/guide/
+Darts (EU)                                         | https://www.playstationtrophies.org/game/darts-eu/guide/
+Darts (NA)                                         | https://www.playstationtrophies.org/game/darts-na/guide/
 Darwin Project                                     | https://www.playstationtrophies.org/game/darwin-project/guide/
 DashBall (EU)                                      | https://www.playstationtrophies.org/game/dashball/guide/
 DashBall (NA)                                      | https://www.playstationtrophies.org/game/dashball-na/guide/
@@ -1369,7 +1397,7 @@ Desert Child                                       | https://www.playstationtrop
 Desert Racing GST                                  | https://www.playstationtrophies.org/game/desert-racing-gst/guide/
 Desperados III                                     | https://www.playstationtrophies.org/game/desperados-3/guide/
 Destiny (PS3 & PS4)                                | https://www.playstationtrophies.org/game/destiny/guide/
-Destiny 2                                          | https://www.playstationtrophies.org/game/destiny-2/guide/
+Destiny 2 (PS4)                                    | https://www.playstationtrophies.org/game/destiny-2/guide/
 Destiny Connect: Tick-Tock Travelers               | https://www.playstationtrophies.org/game/destiny-connect-tick-tock-travelers/guide/
 Destroy All Humans!                                | https://www.playstationtrophies.org/game/destroy-all-humans/guide/
 Destroy All Humans! (2020)                         | https://www.playstationtrophies.org/game/destroy-all-humans-remake/guide/
@@ -1452,6 +1480,8 @@ Dog Gone Golfing (EU)                              | https://www.playstationtrop
 Dog Gone Golfing (NA)                              | https://www.playstationtrophies.org/game/dog-gone-golfing-na/guide/
 Dogchild (EU)                                      | https://www.playstationtrophies.org/game/dogchild-eu/guide/
 Dogchild (NA)                                      | https://www.playstationtrophies.org/game/dogchild-na/guide/
+Dogfight (EU)                                      | https://www.playstationtrophies.org/game/dogfight/guide/
+Dogfight (NA)                                      | https://www.playstationtrophies.org/game/dogfight-na/guide/
 DOGOS                                              | https://www.playstationtrophies.org/game/dogos/guide/
 Dogurai                                            | https://www.playstationtrophies.org/game/dogurai/guide/
 Doki-Doki Universe (PS4)                           | https://www.playstationtrophies.org/game/doki-doki-universe-ps4/guide/
@@ -1471,7 +1501,7 @@ Donut Break Head to Head (NA)                      | https://www.playstationtrop
 Donut County (EU)                                  | https://www.playstationtrophies.org/game/donut-county-eu/guide/
 Donut County (NA)                                  | https://www.playstationtrophies.org/game/donut-county-na/guide/
 Doodle Devil (PS4)                                 | https://www.playstationtrophies.org/game/doodle-devil-ps4/guide/
-Doodle God (PS4)                                   | https://www.playstationtrophies.org/game/doodle-god-ps4/guide/
+Doodle God (EU) (PS4)                              | https://www.playstationtrophies.org/game/doodle-god-ps4/guide/
 Doodle God Evolution                               | https://www.playstationtrophies.org/game/doodle-god-evolution/guide/
 Doodle Kingdom (EU) (PS4)                          | https://www.playstationtrophies.org/game/doodle-kingdom-eu-ps4/guide/
 Doodle Kingdom (NA) (PS4)                          | https://www.playstationtrophies.org/game/doodle-kingdom-ps4/guide/
@@ -1573,6 +1603,8 @@ Drone Striker (NA & EU)                            | https://www.playstationtrop
 Drowning (Asia) (PS4)                              | https://www.playstationtrophies.org/game/drowning-asia-ps4/guide/
 Drowning (EU) (PS4)                                | https://www.playstationtrophies.org/game/drowning/guide/
 Drowning (NA) (PS4)                                | https://www.playstationtrophies.org/game/drowning-na-ps4/guide/
+Drunken Fist (EU)                                  | https://www.playstationtrophies.org/game/drunken-fist/guide/
+Drunken Fist (NA)                                  | https://www.playstationtrophies.org/game/drunken-fist-na/guide/
 Drunkn Bar Fight                                   | https://www.playstationtrophies.org/game/drunkn-bar-fight/guide/
 DUCATI: 90th Anniversary                           | https://www.playstationtrophies.org/game/ducati-90th-anniversary/guide/
 Duck Dynasty (PS4)                                 | https://www.playstationtrophies.org/game/duck-dynasty-ps4/guide/
@@ -1586,6 +1618,8 @@ Dungeon of the Endless (NA)                        | https://www.playstationtrop
 Dungeon Punks (PS3, PS4 & Vita)                    | https://www.playstationtrophies.org/game/dungeon-punks/guide/
 Dungeon Rushers (EU)                               | https://www.playstationtrophies.org/game/dungeon-rushers-eu/guide/
 Dungeon Rushers (NA)                               | https://www.playstationtrophies.org/game/dungeon-rushers-na/guide/
+Dungeon Top (EU)                                   | https://www.playstationtrophies.org/game/dungeon-top/guide/
+Dungeon Top (NA)                                   | https://www.playstationtrophies.org/game/dungeon-top-na/guide/
 Dungeons 2                                         | https://www.playstationtrophies.org/game/dungeons-2/guide/
 Dungeons 3 (NA & EU)                               | https://www.playstationtrophies.org/game/dungeons-3-na-eu/guide/
 Dungreed                                           | https://www.playstationtrophies.org/game/dungreed-other/guide/
@@ -1672,6 +1706,9 @@ Elite Dangerous                                    | https://www.playstationtrop
 Elk Simulator                                      | https://www.playstationtrophies.org/game/elk-simulator/guide/
 Ellen (EU)                                         | https://www.playstationtrophies.org/game/ellen/guide/
 Ellen (NA)                                         | https://www.playstationtrophies.org/game/ellen-na/guide/
+Elliot (EU)                                        | https://www.playstationtrophies.org/game/elliot/guide/
+Elliot (NA)                                        | https://www.playstationtrophies.org/game/elliot-na/guide/
+Elliot Quest (EU)                                  | https://www.playstationtrophies.org/game/elliot-quest/guide/
 Elliot Quest (NA)                                  | https://www.playstationtrophies.org/game/elliot-quest-na/guide/
 Embers of Mirrim (EU)                              | https://www.playstationtrophies.org/game/embers-of-mirrim/guide/
 Embers of Mirrim (NA)                              | https://www.playstationtrophies.org/game/embers-of-mirrim-na/guide/
@@ -1808,9 +1845,9 @@ Farpoint                                           | https://www.playstationtrop
 Fast & Furious Crossroads                          | https://www.playstationtrophies.org/game/fast-and-furious-crossroads/guide/
 Fast Striker (EU) (PS4)                            | https://www.playstationtrophies.org/game/fast-striker-eu/guide/
 Fast Striker (NA) (PS4)                            | https://www.playstationtrophies.org/game/fast-striker/guide/
+Fat City NYC VR (EU) (Unreleased)                  | https://www.playstationtrophies.org/game/fat-city-nyc-unreleased/guide/
+Fat City NYC VR (NA) (PS4)                         | https://www.playstationtrophies.org/game/fat-city-nyc/guide/
 Fat City: NYC (PS4 & Vita)                         | https://www.playstationtrophies.org/game/fat-city-nyc-global/guide/
-Fat City: NYC (Unreleased) (PS4 & Vita)            | https://www.playstationtrophies.org/game/fat-city-nyc-unreleased/guide/
-Fat City: NYC VR (PS4)                             | https://www.playstationtrophies.org/game/fat-city-nyc/guide/
 Fat Princess Adventures                            | https://www.playstationtrophies.org/game/fat-princess-adventures/guide/
 Fatal Fury: Battle Archives Vol. 2                 | https://www.playstationtrophies.org/game/fatal-fury-battle-archives-vol-2/guide/
 Fatal Twelve                                       | https://www.playstationtrophies.org/game/fatal-twelve/guide/
@@ -1974,6 +2011,8 @@ Freakout: Calamity TV Show (EU)                    | https://www.playstationtrop
 Freakout: Calamity TV Show (NA)                    | https://www.playstationtrophies.org/game/freakout-calamity-tv-show-na/guide/
 Freaky Awesome (EU)                                | https://www.playstationtrophies.org/game/freaky-awesome-eu/guide/
 Freaky Awesome (NA)                                | https://www.playstationtrophies.org/game/freaky-awesome/guide/
+Freddy Spaghetti (EU) (PS4)                        | https://www.playstationtrophies.org/game/freddy-spaghetti/guide/
+Freddy Spaghetti (NA) (PS4)                        | https://www.playstationtrophies.org/game/freddy-spaghetti-na-ps4/guide/
 Freediver: Triton Down (EU)                        | https://www.playstationtrophies.org/game/freediver-triton-down/guide/
 Freediver: Triton Down (NA)                        | https://www.playstationtrophies.org/game/freediver-triton-down-na/guide/
 Freedom Finger (Asia)                              | https://www.playstationtrophies.org/game/freedom-finger-asia/guide/
@@ -2225,7 +2264,9 @@ Hajwala (EU)                                       | https://www.playstationtrop
 Hajwala (NA)                                       | https://www.playstationtrophies.org/game/hajwala-na/guide/
 Halloween Candy Break (EU)                         | https://www.playstationtrophies.org/game/halloween-candy-break/guide/
 Halloween Candy Break (NA)                         | https://www.playstationtrophies.org/game/halloween-candy-break-na/guide/
-Halloween Forever (PS4 & Vita)                     | https://www.playstationtrophies.org/game/halloween-forever/guide/
+Halloween Candy Break Head to Head (EU)            | https://www.playstationtrophies.org/game/halloween-candy-break-head-to-head/guide/
+Halloween Candy Break Head to Head (NA)            | https://www.playstationtrophies.org/game/halloween-candy-break-head-to-head-na/guide/
+Halloween Forever (PS4 &amp; Vita)                 | https://www.playstationtrophies.org/game/halloween-forever/guide/
 Hammerwatch                                        | https://www.playstationtrophies.org/game/hammerwatch/guide/
 Hand of Fate                                       | https://www.playstationtrophies.org/game/hand-of-fate/guide/
 Hand of Fate 2 (NA & EU)                           | https://www.playstationtrophies.org/game/hand-of-fate-2-na-eu/guide/
@@ -2321,6 +2362,8 @@ Hide & Dance!                                      | https://www.playstationtrop
 Himno (EU) (PS4)                                   | https://www.playstationtrophies.org/game/himno-eu-ps4/guide/
 Himno (NA) (PS4)                                   | https://www.playstationtrophies.org/game/himno-na-ps4/guide/
 HiQ Ace                                            | https://www.playstationtrophies.org/game/hiq-ace/guide/
+HiQ Ace Unlimited (EU)                             | https://www.playstationtrophies.org/game/hiq-ace-unlimited/guide/
+HiQ Ace Unlimited (NA)                             | https://www.playstationtrophies.org/game/hiq-ace-unlimited-na/guide/
 Hitman (2016)                                      | https://www.playstationtrophies.org/game/hitman/guide/
 Hitman 2 (2018)                                    | https://www.playstationtrophies.org/game/hitman-2/guide/
 Hitman 2 (2018): Additional Expansions             | https://www.playstationtrophies.org/game/hitman-2-2018-additional-expansions/guide/
@@ -2400,6 +2443,8 @@ HyperParasite (EU)                                 | https://www.playstationtrop
 HyperParasite (NA)                                 | https://www.playstationtrophies.org/game/hyperparasite-na/guide/
 Hypnospace Outlaw (EU)                             | https://www.playstationtrophies.org/game/hypnospace-outlaw/guide/
 Hypnospace Outlaw (NA)                             | https://www.playstationtrophies.org/game/hypnospace-outlaw-na/guide/
+I AI (EU)                                          | https://www.playstationtrophies.org/game/i-ai/guide/
+I AI (NA)                                          | https://www.playstationtrophies.org/game/i-ai-na/guide/
 I Am Bread                                         | https://www.playstationtrophies.org/game/i-am-bread/guide/
 I Am Setsuna (PS4 & Vita)                          | https://www.playstationtrophies.org/game/i-am-setsuna/guide/
 I Am The Hero (EU) (PS4)                           | https://www.playstationtrophies.org/game/i-am-the-hero/guide/
@@ -2456,6 +2501,7 @@ Inferno Climber: Reborn                            | https://www.playstationtrop
 Infinifactory                                      | https://www.playstationtrophies.org/game/infinifactory/guide/
 Infinita Strada (PS4 & Vita)                       | https://www.playstationtrophies.org/game/infinita-strada/guide/
 Infinite Adventures                                | https://www.playstationtrophies.org/game/infinite-adventures/guide/
+Infinite Arrow                                     | https://www.playstationtrophies.org/game/infinite-arrow/guide/
 Infinite Minigolf                                  | https://www.playstationtrophies.org/game/infinite-minigolf/guide/
 Infinite: Beyond the Mind (EU)                     | https://www.playstationtrophies.org/game/infinite-beyond-the-mind/guide/
 Infinite: Beyond the Mind (NA)                     | https://www.playstationtrophies.org/game/infinite-beyond-the-mind-na/guide/
@@ -2486,6 +2532,8 @@ Invokers Tournament (EU) (PS3, PS4 & Vita)         | https://www.playstationtrop
 Invokers Tournament (NA) (PS3, PS4 & Vita)         | https://www.playstationtrophies.org/game/invokers-tournament-na/guide/
 iO (PS4 & Vita)                                    | https://www.playstationtrophies.org/game/io/guide/
 Ion Fury                                           | https://www.playstationtrophies.org/game/ion-fury/guide/
+Iris.Fall (EU)                                     | https://www.playstationtrophies.org/game/iris-fall/guide/
+Iris.Fall (NA)                                     | https://www.playstationtrophies.org/game/iris-fall-na/guide/
 Iro Hero (EU)                                      | https://www.playstationtrophies.org/game/iro-hero/guide/
 Iro Hero (NA)                                      | https://www.playstationtrophies.org/game/iro-hero-na/guide/
 Iron Crypticle                                     | https://www.playstationtrophies.org/game/iron-crypticle/guide/
@@ -2587,7 +2635,9 @@ Kamiko (NA)                                        | https://www.playstationtrop
 Kandagawa Jet Girls                                | https://www.playstationtrophies.org/game/kandagawa-jet-girls-eu/guide/
 Katamari Damacy Reroll                             | https://www.playstationtrophies.org/game/katamari-damacy-reroll/guide/
 Katana Kami: A Way of the Samurai Story            | https://www.playstationtrophies.org/game/katana-kami-a-way-of-the-samurai-story/guide/
-Kawaii Deathu Desu (NA) (PS4)                      | https://www.playstationtrophies.org/game/kawaii-deathu-desu/guide/
+Kauil's Treasure (EU)                              | https://www.playstationtrophies.org/game/kauil-s-treasure/guide/
+Kauil's Treasure (NA)                              | https://www.playstationtrophies.org/game/kauil-s-treasure-na/guide/
+Kawaii Deathu Desu (PS4)                           | https://www.playstationtrophies.org/game/kawaii-deathu-desu/guide/
 Keep Talking and Nobody Explodes                   | https://www.playstationtrophies.org/game/keep-talking-and-nobody-explodes/guide/
 Kentucky Route Zero: TV Edition (EU)               | https://www.playstationtrophies.org/game/kentucky-route-zero-tv-edition/guide/
 Kentucky Route Zero: TV Edition (NA)               | https://www.playstationtrophies.org/game/kentucky-route-zero-tv-edition-na/guide/
@@ -2768,13 +2818,15 @@ Let's Sing 8 - Versión Española                    | https://www.playstationtr
 Let's Sing 9 - Versión Española                    | https://www.playstationtrophies.org/game/lets-sing-9/guide/
 Let's Sing Country                                 | https://www.playstationtrophies.org/game/let-s-sing-country/guide/
 Let's Sing Queen                                   | https://www.playstationtrophies.org/game/let-s-sing-queen/guide/
+Let's Sing 13 (Spain)                              | https://www.playstationtrophies.org/game/let-s-sing-13/guide/
 Let's Sing 2021 (EU)                               | https://www.playstationtrophies.org/game/let-s-sing-2021/guide/
+Let's Sing 2021 (French)                           | https://www.playstationtrophies.org/game/let-s-sing-2021-french/guide/
+Let's Sing 2021 (German)                           | https://www.playstationtrophies.org/game/let-s-sing-2021-german/guide/
 Let's Sing 2021 (NA)                               | https://www.playstationtrophies.org/game/let-s-sing-2021-na/guide/
 Lethal League                                      | https://www.playstationtrophies.org/game/lethal-league/guide/
 Lethal League Blaze                                | https://www.playstationtrophies.org/game/lethal-league-blaze/guide/
 Lethal VR                                          | https://www.playstationtrophies.org/game/lethal-vr/guide/
 Lets Create! Pottery VR                            | https://www.playstationtrophies.org/game/lets-create-pottery-vr/guide/
-Letter Quest: Grimm's Journey Remastered (Hong Kong) (PS4 & Vita) | https://www.playstationtrophies.org/game/letter-quest-grimm-s-journey-remastered-hong-kong-ps4-vita/guide/
 Letter Quest: Grimm's Journey Remastered (NA & EU) (PS4 & Vita) | https://www.playstationtrophies.org/game/letter-quest-grimm-s-journey-remastered-na-eu-ps4-vita/guide/
 Levantate: All Stars                               | https://www.playstationtrophies.org/game/levantate-all-stars/guide/
 Level 22 (PS4, PS3 & Vita)                         | https://www.playstationtrophies.org/game/level-22/guide/
@@ -2839,6 +2891,7 @@ Lost Orbit                                         | https://www.playstationtrop
 Lost Sea                                           | https://www.playstationtrophies.org/game/lost-sea/guide/
 Lost Sphear                                        | https://www.playstationtrophies.org/game/lost-sphear/guide/
 Lost Wing (EU)                                     | https://www.playstationtrophies.org/game/lost-wing/guide/
+Lost Wing (NA)                                     | https://www.playstationtrophies.org/game/lost-wing-na/guide/
 LOUD on Planet X (EU)                              | https://www.playstationtrophies.org/game/loud-on-planet-x-eu/guide/
 LOUD on Planet X (NA)                              | https://www.playstationtrophies.org/game/loud-on-planet-x-na/guide/
 Lovecraft's Untold Stories                         | https://www.playstationtrophies.org/game/lovecrafts-untold-stories/guide/
@@ -2908,6 +2961,8 @@ Maldita Castilla EX: Cursed Castilla (EU) (PS4)    | https://www.playstationtrop
 Maldita Castilla EX: Cursed Castilla (NA) (PS4)    | https://www.playstationtrophies.org/game/maldita-castilla-ex-cursed-castilla-na-ps4/guide/
 Maldita Castilla EX: Cursed Castilla (Retail) (PS4) | https://www.playstationtrophies.org/game/maldita-castilla-ex-cursed-castilla-retail-ps4/guide/
 Malicious Fallen                                   | https://www.playstationtrophies.org/game/malicious-fallen/guide/
+Mana Spark (EU)                                    | https://www.playstationtrophies.org/game/mana-spark/guide/
+Mana Spark (NA)                                    | https://www.playstationtrophies.org/game/mana-spark-na/guide/
 Maneater                                           | https://www.playstationtrophies.org/game/maneater/guide/
 Manga Kakeru (PS4)                                 | https://www.playstationtrophies.org/game/manga-kakeru-jp-ps4/guide/
 Manhunt                                            | https://www.playstationtrophies.org/game/manhunt/guide/
@@ -3018,6 +3073,8 @@ Metro: Last Light Redux                            | https://www.playstationtrop
 Metropolis: Lux Obscura (EU) (PS4)                 | https://www.playstationtrophies.org/game/metropolis-lux-obscura-eu-ps4/guide/
 Metropolis: Lux Obscura (EU) (Vita)                | https://www.playstationtrophies.org/game/metropolis-lux-obscura-eu-vita/guide/
 Metropolis: Lux Obscura (NA) (PS4)                 | https://www.playstationtrophies.org/game/metropolis-lux-obscura-na-ps4/guide/
+Mia's Picnic (EU)                                  | https://www.playstationtrophies.org/game/mia-s-picnic/guide/
+Mia's Picnic (NA)                                  | https://www.playstationtrophies.org/game/mia-s-picnic-na/guide/
 Micetopia (EU)                                     | https://www.playstationtrophies.org/game/micetopia/guide/
 Micetopia (NA)                                     | https://www.playstationtrophies.org/game/micetopia-na/guide/
 Micro Machines World Series                        | https://www.playstationtrophies.org/game/micro-machines-world-series/guide/
@@ -3098,6 +3155,7 @@ Monster Loves You!                                 | https://www.playstationtrop
 Monster of the Deep: Final Fantasy XV (EU)         | https://www.playstationtrophies.org/game/monster-of-the-deep-final-fantasy-xv-eu/guide/
 Monster of the Deep: Final Fantasy XV (NA)         | https://www.playstationtrophies.org/game/monster-of-the-deep-final-fantasy-xv-na/guide/
 Monster Prom: XXL                                  | https://www.playstationtrophies.org/game/monster-prom-xxl/guide/
+Monster Sanctuary                                  | https://www.playstationtrophies.org/game/monster-sanctuary/guide/
 Monster Slayers                                    | https://www.playstationtrophies.org/game/monster-slayers/guide/
 Monster Truck Championship                         | https://www.playstationtrophies.org/game/monster-truck-championship/guide/
 Monster Viator                                     | https://www.playstationtrophies.org/game/monster-viator/guide/
@@ -3109,6 +3167,8 @@ Moonlighter                                        | https://www.playstationtrop
 Moons of Madness                                   | https://www.playstationtrophies.org/game/moons-of-madness/guide/
 Moonshot Galaxy                                    | https://www.playstationtrophies.org/game/moonshot-galaxy/guide/
 MOP: Operation Cleanup                             | https://www.playstationtrophies.org/game/mop/guide/
+Morbid The Seven Acolytes (EU)                     | https://www.playstationtrophies.org/game/morbid-the-seven-acolytes/guide/
+Morbid The Seven Acolytes (NA)                     | https://www.playstationtrophies.org/game/morbid-the-seven-acolytes-na/guide/
 Mordheim: City of the Damned                       | https://www.playstationtrophies.org/game/mordheim-city-of-the-damned/guide/
 More Dark (EU)                                     | https://www.playstationtrophies.org/game/more-dark/guide/
 More Dark (NA)                                     | https://www.playstationtrophies.org/game/more-dark-na/guide/
@@ -3153,7 +3213,7 @@ Mugsters                                           | https://www.playstationtrop
 Mulaka (EU)                                        | https://www.playstationtrophies.org/game/mulaka-eu/guide/
 Mulaka (NA)                                        | https://www.playstationtrophies.org/game/mulaka-na/guide/
 Munchkin: Quacked Quest                            | https://www.playstationtrophies.org/game/munchkin-quacked-quest/guide/
-Murdered: Soul Suspect (PS4)                       | https://www.playstationtrophies.org/game/murdered-soul-suspect-ps4/guide/
+Murdered Soul Suspect (PS4)                        | https://www.playstationtrophies.org/game/murdered-soul-suspect-ps4/guide/
 Mushroom Heroes (PS4 & Vita)                       | https://www.playstationtrophies.org/game/mushroom-heroes/guide/
 Music Racer (EU)                                   | https://www.playstationtrophies.org/game/music-racer/guide/
 Music Racer (NA)                                   | https://www.playstationtrophies.org/game/music-racer-na/guide/
@@ -3170,6 +3230,7 @@ MX vs ATV All Out                                  | https://www.playstationtrop
 MX vs ATV Supercross Encore                        | https://www.playstationtrophies.org/game/mx-vs-atv-supercross-encore/guide/
 MXGP - The Official Motocross Videogame Compact (PS4) | https://www.playstationtrophies.org/game/mxgp-compact-ps4/guide/
 MXGP 2019                                          | https://www.playstationtrophies.org/game/mxgp-2019-ps4/guide/
+MXGP 2020 The Official Motocross Videogame (PS4)   | https://www.playstationtrophies.org/game/mxgp-2020/guide/
 MXGP Pro                                           | https://www.playstationtrophies.org/game/mxgp-pro/guide/
 MXGP: The Official Motocross Video Game (PS4)      | https://www.playstationtrophies.org/game/mxgp-ps4/guide/
 MXGP2 - The Official Motocross Videogame           | https://www.playstationtrophies.org/game/mxgp2/guide/
@@ -3183,6 +3244,8 @@ My Brother Rabbit                                  | https://www.playstationtrop
 My Friend Pedro                                    | https://www.playstationtrophies.org/game/my-friend-pedro/guide/
 My Hero Academia: One's Justice                    | https://www.playstationtrophies.org/game/my-hero-academia-one-s-justice/guide/
 My Hero One's Justice 2                            | https://www.playstationtrophies.org/game/my-hero-ones-justice-2/guide/
+My Hidden Things (EU)                              | https://www.playstationtrophies.org/game/my-hidden-things/guide/
+My Hidden Things (NA)                              | https://www.playstationtrophies.org/game/my-hidden-things-na/guide/
 My Little Riding Champion                          | https://www.playstationtrophies.org/game/my-little-riding-champion/guide/
 My Memory of Us                                    | https://www.playstationtrophies.org/game/my-memory-of-us/guide/
 My Name is Mayo (PS4)                              | https://www.playstationtrophies.org/game/my-name-is-mayo/guide/
@@ -3196,6 +3259,7 @@ My Riding Stables: Life with Horses (Unreleased)   | https://www.playstationtrop
 My Time at Portia                                  | https://www.playstationtrophies.org/game/my-time-at-portia/guide/
 My Universe Cooking Star Restaurant                | https://www.playstationtrophies.org/game/my-universe-cooking-star-restaurant/guide/
 My Universe My Baby                                | https://www.playstationtrophies.org/game/my-universe-my-baby/guide/
+My Universe Pet Clinic Cats &amp; Dogs             | https://www.playstationtrophies.org/game/my-universe-pet-clinic-cats-and-dogs/guide/
 My Universe: Fashion Boutique                      | https://www.playstationtrophies.org/game/my-universe-fashion-boutique/guide/
 My Universe: School Teacher                        | https://www.playstationtrophies.org/game/my-universe-school-teacher/guide/
 Mystery Chronicle: One Way Heroics (EU) (PS4 & Vita) | https://www.playstationtrophies.org/game/mystery-chronicle-one-way-heroics-eu/guide/
@@ -3265,7 +3329,9 @@ Neighbours Back From Hell (NA)                     | https://www.playstationtrop
 Nekopara Vol. 1                                    | https://www.playstationtrophies.org/game/nekopara-vol-1/guide/
 Nekopara Vol. 2                                    | https://www.playstationtrophies.org/game/nekopara-vol-2/guide/
 Nekopara Vol. 3 (EU)                               | https://www.playstationtrophies.org/game/nekopara-vol-3-eu/guide/
-Nekopara Vol. 3 (NA & JP)                          | https://www.playstationtrophies.org/game/nekopara-vol-3-na-jp/guide/
+Nekopara Vol. 3 (NA &amp; JP)                      | https://www.playstationtrophies.org/game/nekopara-vol-3-na-jp/guide/
+Nekopara Vol. 4 (EU)                               | https://www.playstationtrophies.org/game/nekopara-vol-4/guide/
+Nekopara Vol. 4 (NA &amp; JP)                      | https://www.playstationtrophies.org/game/nekopara-vol-4-na/guide/
 Nelke & the Legendary Alchemists: Ateliers of the New World (PS4 & Vita) | https://www.playstationtrophies.org/game/nelke-and-the-legendary-alchemists-ateliers-of-the-new-world/guide/
 Neon Abyss                                         | https://www.playstationtrophies.org/game/neon-abyss/guide/
 Neon Chrome (PS4)                                  | https://www.playstationtrophies.org/game/neon-chrome/guide/
@@ -3279,8 +3345,8 @@ Neptune Flux                                       | https://www.playstationtrop
 Nerved (EU)                                        | https://www.playstationtrophies.org/game/nerved/guide/
 Nerved (NA)                                        | https://www.playstationtrophies.org/game/nerved-na/guide/
 NeuroVoider (PS4)                                  | https://www.playstationtrophies.org/game/neurovoider-ps4/guide/
-Never Alone                                        | https://www.playstationtrophies.org/game/never-alone/guide/
 Never Alone (EU)                                   | https://www.playstationtrophies.org/game/never-alone-eu/guide/
+Never Alone (NA)                                   | https://www.playstationtrophies.org/game/never-alone/guide/
 NeverEnd (EU) (PS4)                                | https://www.playstationtrophies.org/game/neverend-ps4-eu/guide/
 NeverEnd (NA) (PS4)                                | https://www.playstationtrophies.org/game/neverend-ps4-na/guide/
 Neverending Nightmares (PS4 & Vita)                | https://www.playstationtrophies.org/game/neverending-nightmares/guide/
@@ -3354,6 +3420,7 @@ No Heroes Here (NA)                                | https://www.playstationtrop
 No Man's Sky                                       | https://www.playstationtrophies.org/game/no-mans-sky/guide/
 No Straight Roads (EU)                             | https://www.playstationtrophies.org/game/no-straight-roads/guide/
 No Straight Roads (NA)                             | https://www.playstationtrophies.org/game/no-straight-roads-na/guide/
+No Thing                                           | https://www.playstationtrophies.org/game/no-thing/guide/
 No Time To Explain                                 | https://www.playstationtrophies.org/game/no-time-to-explain/guide/
 No Way Out: A Dead Realm Tale (EU)                 | https://www.playstationtrophies.org/game/no-way-out-a-dead-realm-tale/guide/
 No Way Out: A Dead Realm Tale (NA)                 | https://www.playstationtrophies.org/game/no-way-out-a-dead-realm-tale-na/guide/
@@ -3369,7 +3436,10 @@ Norman's Great Illusion (NA) (PS4)                 | https://www.playstationtrop
 North (EU) (PS4)                                   | https://www.playstationtrophies.org/game/north-eu-ps4/guide/
 North (NA) (PS4)                                   | https://www.playstationtrophies.org/game/north-na-ps4/guide/
 Northgard                                          | https://www.playstationtrophies.org/game/northgard/guide/
+Nostos (EU)                                        | https://www.playstationtrophies.org/game/nostos/guide/
+Nostos (NA)                                        | https://www.playstationtrophies.org/game/nostos-na/guide/
 Not A Hero                                         | https://www.playstationtrophies.org/game/not-a-hero/guide/
+Not Not A Brain Buster                             | https://www.playstationtrophies.org/game/not-not-a-brain-buster/guide/
 Nova-111 (PS3, PS4 & Vita)                         | https://www.playstationtrophies.org/game/nova-111/guide/
 NOW That's What I Call Sing                        | https://www.playstationtrophies.org/game/now-thats-what-i-call-sing/guide/
 Now That's What I Call Sing 2                      | https://www.playstationtrophies.org/game/now-thats-what-i-call-sing-2/guide/
@@ -3447,6 +3517,8 @@ One Piece: World Seeker                            | https://www.playstationtrop
 One Punch Man: A Hero Nobody Knows                 | https://www.playstationtrophies.org/game/one-punch-man-a-hero-nobody-knows/guide/
 One Step From Eden (EU)                            | https://www.playstationtrophies.org/game/one-step-from-eden/guide/
 One Step From Eden (NA)                            | https://www.playstationtrophies.org/game/one-step-from-eden-na/guide/
+One Strike (EU)                                    | https://www.playstationtrophies.org/game/one-strike/guide/
+One Strike (NA)                                    | https://www.playstationtrophies.org/game/one-strike-na/guide/
 One Tap Hero (PS4)                                 | https://www.playstationtrophies.org/game/one-tap-hero-ps4/guide/
 One Upon Light                                     | https://www.playstationtrophies.org/game/one-upon-light/guide/
 One Way Trip                                       | https://www.playstationtrophies.org/game/one-way-trip/guide/
@@ -3506,6 +3578,7 @@ Overland                                           | https://www.playstationtrop
 Overload                                           | https://www.playstationtrophies.org/game/overload/guide/
 Overlord: Fellowship of Evil                       | https://www.playstationtrophies.org/game/overlord-fellowship-of-evil/guide/
 Overpass                                           | https://www.playstationtrophies.org/game/overpass/guide/
+Override 2 Super Mech League (PS4)                 | https://www.playstationtrophies.org/game/override-2-super-mech-league/guide/
 Override: Mech City Brawl                          | https://www.playstationtrophies.org/game/override-mech-city-brawl/guide/
 Overruled!                                         | https://www.playstationtrophies.org/game/overruled/guide/
 Overwatch: Origins Edition                         | https://www.playstationtrophies.org/game/overwatch-origins-edition/guide/
@@ -3574,10 +3647,14 @@ Pato Box (PS4)                                     | https://www.playstationtrop
 Paw Patrol Mighty Pups Save Adventure Bay (EU)     | https://www.playstationtrophies.org/game/paw-patrol-mighty-pups-save-adventure-bay/guide/
 Paw Patrol Mighty Pups Save Adventure Bay (NA)     | https://www.playstationtrophies.org/game/paw-patrol-mighty-pups-save-adventure-bay-na/guide/
 Paw Patrol: On a Roll                              | https://www.playstationtrophies.org/game/paw-patrol-on-a-roll/guide/
+Paw Paw Paw (EU)                                   | https://www.playstationtrophies.org/game/paw-paw-paw/guide/
+Paw Paw Paw (NA)                                   | https://www.playstationtrophies.org/game/paw-paw-paw-na/guide/
 Pawarumi (EU)                                      | https://www.playstationtrophies.org/game/pawarumi/guide/
 Pawarumi (NA)                                      | https://www.playstationtrophies.org/game/pawarumi-na/guide/
 Payday 2: Crimewave Edition                        | https://www.playstationtrophies.org/game/payday-2-crimewave/guide/
 PBA Pro Bowling                                    | https://www.playstationtrophies.org/game/pba-pro-bowling/guide/
+PBA Pro Bowling 2021 (EU)                          | https://www.playstationtrophies.org/game/pba-pro-bowling-2021/guide/
+PBA Pro Bowling 2021 (NA)                          | https://www.playstationtrophies.org/game/pba-pro-bowling-2021-na/guide/
 PC Building Simulator                              | https://www.playstationtrophies.org/game/pc-building-simulator/guide/
 Peaky Blinders: Mastermind                         | https://www.playstationtrophies.org/game/peaky-blinders/guide/
 Peasant Knight (EU) (PS4)                          | https://www.playstationtrophies.org/game/peasant-knight-eu-ps4/guide/
@@ -3594,6 +3671,7 @@ Perfect Angle                                      | https://www.playstationtrop
 Perfect Universe                                   | https://www.playstationtrophies.org/game/perfect-universe/guide/
 Perils of Baking (EU) (PS4)                        | https://www.playstationtrophies.org/game/perils-of-baking-eu/guide/
 Perils of Baking (NA) (PS4)                        | https://www.playstationtrophies.org/game/perils-of-baking-na/guide/
+Persian Nights 2 Moonlight Veil                    | https://www.playstationtrophies.org/game/persian-nights-2-moonlight-veil/guide/
 Persian Nights: Sands of Wonders                   | https://www.playstationtrophies.org/game/persian-nights-sands-of-wonders/guide/
 Persona 3: Dancing in Moonlight (PS4 & Vita)       | https://www.playstationtrophies.org/game/persona-3-dancing-in-moonlight/guide/
 Persona 3: Dancing Moon Night (Asia) (PS4 & Vita)  | https://www.playstationtrophies.org/game/persona-3-dancing-moon-night-asia/guide/
@@ -3618,6 +3696,7 @@ Pharaonic                                          | https://www.playstationtrop
 Phobos Vector Prime: The First Ring (EU)           | https://www.playstationtrophies.org/game/phobos-vector-prime/guide/
 Phobos Vector Prime: The First Ring (NA)           | https://www.playstationtrophies.org/game/phobos-vector-prime-na/guide/
 Phoenix Wright: Ace Attorney Trilogy               | https://www.playstationtrophies.org/game/phoenix-wright-ace-attorney-trilogy/guide/
+Phogs                                              | https://www.playstationtrophies.org/game/phogs/guide/
 Pic-a-Pix Classic (EU) (PS4)                       | https://www.playstationtrophies.org/game/pic-a-pix-classic-ps4-eu/guide/
 Pic-a-Pix Classic (NA) (PS4)                       | https://www.playstationtrophies.org/game/pic-a-pix-classic-na-ps4/guide/
 Pic-a-Pix Classic 2 (EU) (PS4)                     | https://www.playstationtrophies.org/game/pic-a-pix-classic-2/guide/
@@ -3685,6 +3764,8 @@ Planet of the Apes: Last Frontier (NA)             | https://www.playstationtrop
 Planet of the Eyes                                 | https://www.playstationtrophies.org/game/planet-of-the-eyes/guide/
 Planet RIX-13 (EU) (PS4)                           | https://www.playstationtrophies.org/game/planet-rix-13/guide/
 Planet RIX-13 (NA) (PS4)                           | https://www.playstationtrophies.org/game/planet-rix-13-na/guide/
+Planetary Defence Force (NA)                       | https://www.playstationtrophies.org/game/planetary-defence-force-na/guide/
+Planetary Defense Force (EU)                       | https://www.playstationtrophies.org/game/planetary-defense-force/guide/
 Planetbase                                         | https://www.playstationtrophies.org/game/planetbase/guide/
 PlanetSide 2 (EU)                                  | https://www.playstationtrophies.org/game/planetside-2/guide/
 PlanetSide 2 (NA)                                  | https://www.playstationtrophies.org/game/planetside-2-na/guide/
@@ -3713,6 +3794,8 @@ Polybius                                           | https://www.playstationtrop
 Poncho                                             | https://www.playstationtrophies.org/game/poncho/guide/
 PONG Quest (EU)                                    | https://www.playstationtrophies.org/game/pong-quest/guide/
 PONG Quest (NA)                                    | https://www.playstationtrophies.org/game/pong-quest-na/guide/
+Ponpu (EU)                                         | https://www.playstationtrophies.org/game/ponpu/guide/
+Ponpu (NA)                                         | https://www.playstationtrophies.org/game/ponpu-na/guide/
 Pool (EU)                                          | https://www.playstationtrophies.org/game/pool/guide/
 Pool (NA)                                          | https://www.playstationtrophies.org/game/pool-na/guide/
 Pool Nation (EU) (PS4)                             | https://www.playstationtrophies.org/game/pool-nation-eu-ps4/guide/
@@ -3805,6 +3888,8 @@ Putty Squad (PS4)                                  | https://www.playstationtrop
 Puyo Puyo Champions                                | https://www.playstationtrophies.org/game/puyo-puyo-champions/guide/
 Puyo Puyo Tetris (Global) (PS4)                    | https://www.playstationtrophies.org/game/puyo-puyo-tetris-global-ps4/guide/
 Puyo Puyo Tetris (Hong Kong) (PS4)                 | https://www.playstationtrophies.org/game/puyo-puyo-tetris-hong-kong-ps4/guide/
+Puyo Puyo Tetris 2 (EU) (PS4)                      | https://www.playstationtrophies.org/game/puyo-puyo-tetris-2/guide/
+Puyo Puyo Tetris 2 (NA) (PS4)                      | https://www.playstationtrophies.org/game/puyo-puyo-tetris-2-na-ps4/guide/
 Puzzle Quest: Challenge of the Warlords            | https://www.playstationtrophies.org/game/puzzle-quest/guide/
 Puzzle Showdown 4K                                 | https://www.playstationtrophies.org/game/puzzle-showdown-4k/guide/
 Pyre                                               | https://www.playstationtrophies.org/game/pyre/guide/
@@ -3820,6 +3905,7 @@ Queen's Quest 4: Sacred Truce                      | https://www.playstationtrop
 Quest Hunter                                       | https://www.playstationtrophies.org/game/quest-hunter/guide/
 Quest of Dungeons                                  | https://www.playstationtrophies.org/game/quest-of-dungeons/guide/
 Quiplash (PS4)                                     | https://www.playstationtrophies.org/game/quiplash-ps4/guide/
+Quiplash 2 InterLASHional - The Say Anything Party Game | https://www.playstationtrophies.org/game/quiplash-2-interlashional-the-say-anything-party-game/guide/
 Quiz Night Tonight!                                | https://www.playstationtrophies.org/game/quiz-night-tonight/guide/
 Qurare: Magic Library (NA)                         | https://www.playstationtrophies.org/game/qurare-na/guide/
 R-Type Dimensions EX (PS4)                         | https://www.playstationtrophies.org/game/r-type-dimensions-ex-ps4/guide/
@@ -3970,6 +4056,8 @@ Revolve                                            | https://www.playstationtrop
 Rez Infinite                                       | https://www.playstationtrophies.org/game/rez-infinite/guide/
 RGX: Showdown (EU)                                 | https://www.playstationtrophies.org/game/rgx-showdown/guide/
 RGX: Showdown (NA)                                 | https://www.playstationtrophies.org/game/rgx-showdown-na/guide/
+Rhythm of the Gods (EU)                            | https://www.playstationtrophies.org/game/rhythm-of-the-gods/guide/
+Rhythm of the Gods (NA)                            | https://www.playstationtrophies.org/game/rhythm-of-the-gods-na/guide/
 Rick and Morty: Virtual Rick-ality (EU)            | https://www.playstationtrophies.org/game/rick-and-morty-virtual-rick-ality-eu/guide/
 Rick and Morty: Virtual Rick-ality (NA)            | https://www.playstationtrophies.org/game/rick-and-morty-virtual-rick-ality-na/guide/
 Rico                                               | https://www.playstationtrophies.org/game/rico/guide/
@@ -3981,6 +4069,8 @@ RIDE 4                                             | https://www.playstationtrop
 Rift Keeper (EU)                                   | https://www.playstationtrophies.org/game/rift-keeper/guide/
 Rift Keeper (NA)                                   | https://www.playstationtrophies.org/game/rift-keeper-na/guide/
 RiftStar Raiders                                   | https://www.playstationtrophies.org/game/riftstar-raiders/guide/
+Rigid Force Redux (EU)                             | https://www.playstationtrophies.org/game/rigid-force-redux/guide/
+Rigid Force Redux (NA)                             | https://www.playstationtrophies.org/game/rigid-force-redux-na/guide/
 RIGS: Mechanized Combat League                     | https://www.playstationtrophies.org/game/rigs-mcl/guide/
 RiME                                               | https://www.playstationtrophies.org/game/rime/guide/
 RIOT: Civil Unrest                                 | https://www.playstationtrophies.org/game/riot-civil-unrest/guide/
@@ -4014,7 +4104,8 @@ Road Redemption                                    | https://www.playstationtrop
 Road to Ballhalla                                  | https://www.playstationtrophies.org/game/road-to-ballhalla/guide/
 Road to Guangdong (EU)                             | https://www.playstationtrophies.org/game/road-to-guangdong/guide/
 Road to Guangdong (NA)                             | https://www.playstationtrophies.org/game/road-to-guangdong-na/guide/
-Roarr! Jurassic Edition (EU)                       | https://www.playstationtrophies.org/game/roarr-jurassic-edition/guide/
+Roarr Jurassic Edition (EU)                        | https://www.playstationtrophies.org/game/roarr-jurassic-edition/guide/
+Roarr Jurassic Edition (NA)                        | https://www.playstationtrophies.org/game/roarr-jurassic-edition-na/guide/
 Robbie Swifthand and the Orb of Mysteries          | https://www.playstationtrophies.org/game/robbie-swifthand-and-the-orb-of-mysteries/guide/
 Robinson: The Journey (EU)                         | https://www.playstationtrophies.org/game/robinson-the-journey/guide/
 Robinson: The Journey (NA)                         | https://www.playstationtrophies.org/game/robinson-the-journey-na/guide/
@@ -4063,8 +4154,8 @@ Romance of the Three Kingdoms XIV                  | https://www.playstationtrop
 Romancing SaGa 2 (PS4 & Vita)                      | https://www.playstationtrophies.org/game/romancing-saga-2/guide/
 Romancing SaGa 3 (PS4 & Vita)                      | https://www.playstationtrophies.org/game/romancing-saga-3/guide/
 Ronin                                              | https://www.playstationtrophies.org/game/ronin/guide/
-Roommates (EU)                                     | https://www.playstationtrophies.org/game/roommates/guide/
-Roommates (NA)                                     | https://www.playstationtrophies.org/game/roommates-na/guide/
+Roommates (EU) (PS4)                               | https://www.playstationtrophies.org/game/roommates/guide/
+Roommates (NA) (PS4)                               | https://www.playstationtrophies.org/game/roommates-na/guide/
 Rooms: The Unsolvable Puzzle (EU)                  | https://www.playstationtrophies.org/game/rooms-the-unsolvable-puzzle-eu/guide/
 Rooms: The Unsolvable Puzzle (NA)                  | https://www.playstationtrophies.org/game/rooms-the-unsolvable-puzzle-na/guide/
 Root Letter (PS4) (EU)                             | https://www.playstationtrophies.org/game/root-letter-ps4-eu/guide/
@@ -4072,6 +4163,8 @@ Root Letter (PS4) (NA)                             | https://www.playstationtrop
 Root Letter: Last Answer (PS4)                     | https://www.playstationtrophies.org/game/root-letter-last-answer-eu-ps4/guide/
 Roundabout (PS4 & Vita)                            | https://www.playstationtrophies.org/game/roundabout/guide/
 Roundguard                                         | https://www.playstationtrophies.org/game/roundguard/guide/
+Roundout by POWGI (EU)                             | https://www.playstationtrophies.org/game/roundout-by-powgi/guide/
+Roundout by POWGI (NA)                             | https://www.playstationtrophies.org/game/roundout-by-powgi-na/guide/
 Royal Assault                                      | https://www.playstationtrophies.org/game/royal-assault/guide/
 Royal Defense (EU) (PS4)                           | https://www.playstationtrophies.org/game/royal-defense-eu-ps4/guide/
 Royal Defense (NA) (PS4)                           | https://www.playstationtrophies.org/game/royal-defense-na-ps4/guide/
@@ -4090,6 +4183,7 @@ Rugby League Live 3 (PS4)                          | https://www.playstationtrop
 Rugby League Live 4                                | https://www.playstationtrophies.org/game/rugby-league-live-4/guide/
 Rugby World Cup 2015 (PS4)                         | https://www.playstationtrophies.org/game/rugby-world-cup-15-ps4/guide/
 Ruiner                                             | https://www.playstationtrophies.org/game/ruiner/guide/
+Ruinverse                                          | https://www.playstationtrophies.org/game/ruinverse/guide/
 Run Dorothy Run                                    | https://www.playstationtrophies.org/game/run-dorothy-run/guide/
 Runbow                                             | https://www.playstationtrophies.org/game/runbow/guide/
 Rune Lord                                          | https://www.playstationtrophies.org/game/rune-lord/guide/
@@ -4188,6 +4282,7 @@ Second Chance Heroes                               | https://www.playstationtrop
 Secret of Mana (PS4 & Vita)                        | https://www.playstationtrophies.org/game/secret-of-mana-ps4-vita/guide/
 Secret Ponchos (EU)                                | https://www.playstationtrophies.org/game/secret-ponchos-eu/guide/
 Secret Ponchos (NA)                                | https://www.playstationtrophies.org/game/secret-ponchos/guide/
+Seeds of Resilience                                | https://www.playstationtrophies.org/game/seeds-of-resilience/guide/
 Seek Hearts                                        | https://www.playstationtrophies.org/game/seek-hearts/guide/
 SEGA Mega Drive & Genesis Classics                 | https://www.playstationtrophies.org/game/sega-mega-drive-and-genesis-classics/guide/
 Sekiro: Shadows Die Twice                          | https://www.playstationtrophies.org/game/sekiro-shadows-die-twice/guide/
@@ -4223,6 +4318,7 @@ Shadow Warrior 2                                   | https://www.playstationtrop
 Shadowgate                                         | https://www.playstationtrophies.org/game/shadowgate/guide/
 Shadows: Awakening                                 | https://www.playstationtrophies.org/game/shadows-awakening/guide/
 Shadwen                                            | https://www.playstationtrophies.org/game/shadwen/guide/
+Shady Part of Me                                   | https://www.playstationtrophies.org/game/shady-part-of-me/guide/
 Shakedown Hawaii (PS4, PS3 & Vita)                 | https://www.playstationtrophies.org/game/shakedown-hawaii/guide/
 Shalnor Legends: Sacred Lands                      | https://www.playstationtrophies.org/game/shalnor-legends-sacred-lands/guide/
 Shanky: The Vegan's Nightmare                      | https://www.playstationtrophies.org/game/shanky-the-vegan-s-nightmare/guide/
@@ -4311,9 +4407,9 @@ Skyforge (NA)                                      | https://www.playstationtrop
 Skyhill                                            | https://www.playstationtrophies.org/game/skyhill/guide/
 SkyKeepers                                         | https://www.playstationtrophies.org/game/sky-keepers/guide/
 Skylanders Imaginators (PS4)                       | https://www.playstationtrophies.org/game/skylanders-imaginators-ps4/guide/
+Skylanders Swap Force (EU) (PS4)                   | https://www.playstationtrophies.org/game/skylanders-swap-force-eu-ps4/guide/
+Skylanders Swap Force (NA) (PS4)                   | https://www.playstationtrophies.org/game/skylanders-swap-force-ps4/guide/
 Skylanders: SuperChargers                          | https://www.playstationtrophies.org/game/skylanders-superchargers/guide/
-Skylanders: Swap Force (EU) (PS4)                  | https://www.playstationtrophies.org/game/skylanders-swap-force-eu-ps4/guide/
-Skylanders: Swap Force (NA) (PS4)                  | https://www.playstationtrophies.org/game/skylanders-swap-force-ps4/guide/
 Skylanders: Trap Team (PS4)                        | https://www.playstationtrophies.org/game/skylanders-trap-team/guide/
 Skylar & Plux: Adventure on Clover Island          | https://www.playstationtrophies.org/game/skylar-and-plux-adventure-on-clover-island/guide/
 Skylight Freerange (PS4 & Vita)                    | https://www.playstationtrophies.org/game/skylight-freerange/guide/
@@ -4413,6 +4509,8 @@ Space Hulk Ascension (EU)                          | https://www.playstationtrop
 Space Hulk Ascension (NA)                          | https://www.playstationtrophies.org/game/space-hulk-ascension-na/guide/
 Space Hulk: Deathwing - Enhanced Edition           | https://www.playstationtrophies.org/game/space-hulk-deathwing-enhanced-edition/guide/
 Space Hulk: Tactics                                | https://www.playstationtrophies.org/game/space-hulk-tactics/guide/
+Space Invaders Forever (EU)                        | https://www.playstationtrophies.org/game/space-invaders-forever/guide/
+Space Invaders Forever (NA)                        | https://www.playstationtrophies.org/game/space-invaders-forever-na/guide/
 Space Jones VR                                     | https://www.playstationtrophies.org/game/space-jones-vr/guide/
 Space Junkies                                      | https://www.playstationtrophies.org/game/space-junkies/guide/
 Space Overlords (PS4)                              | https://www.playstationtrophies.org/game/space-overlords-ps4/guide/
@@ -4428,6 +4526,7 @@ Spacelords (EU)                                    | https://www.playstationtrop
 Spacelords (NA)                                    | https://www.playstationtrophies.org/game/spacelords-na/guide/
 Sparc                                              | https://www.playstationtrophies.org/game/sparc/guide/
 Sparkle 2 (PS4)                                    | https://www.playstationtrophies.org/game/sparkle-2-ps4/guide/
+Sparkle 4 Tales                                    | https://www.playstationtrophies.org/game/sparkle-4-tales/guide/
 Sparkle Unleashed (PS3, PS4 & Vita)                | https://www.playstationtrophies.org/game/sparkle-unleashed/guide/
 Sparklite (EU)                                     | https://www.playstationtrophies.org/game/sparklite-eu/guide/
 Sparklite (NA)                                     | https://www.playstationtrophies.org/game/sparklite/guide/
@@ -4457,6 +4556,8 @@ Spider Solitaire F (NA)                            | https://www.playstationtrop
 Spike Volleyball                                   | https://www.playstationtrophies.org/game/spike-volleyball/guide/
 Spiral Splatter (EU) (PS4)                         | https://www.playstationtrophies.org/game/spiral-splatter-eu/guide/
 Spiral Splatter (NA) (PS4)                         | https://www.playstationtrophies.org/game/spiral-splatter-na/guide/
+Spirit Arena (EU)                                  | https://www.playstationtrophies.org/game/spirit-arena/guide/
+Spirit Arena (NA)                                  | https://www.playstationtrophies.org/game/spirit-arena-na/guide/
 Spirit Hunter: NG (PS4 & Vita)                     | https://www.playstationtrophies.org/game/spirit-hunter-ng/guide/
 Spirit of the North (EU)                           | https://www.playstationtrophies.org/game/spirit-of-the-north/guide/
 Spirit of the North (NA)                           | https://www.playstationtrophies.org/game/spirit-of-the-north-na/guide/
@@ -4530,6 +4631,7 @@ Stealth Inc 2: A Game of Clones (PS3, PS4 & Vita)  | https://www.playstationtrop
 Stealth Inc. (PS4)                                 | https://www.playstationtrophies.org/game/stealth-inc-ultimate-edition/guide/
 Steam Tactics (EU) (PS4)                           | https://www.playstationtrophies.org/game/steam-tactics-eu-ps4/guide/
 Steam Tactics (NA) (PS4)                           | https://www.playstationtrophies.org/game/steam-tactics-na-ps4/guide/
+Steampunk Tower 2                                  | https://www.playstationtrophies.org/game/steampunk-tower-2/guide/
 SteamWorld Dig (JP) (PS4)                          | https://www.playstationtrophies.org/game/steamworld-dig-ps4-jp/guide/
 SteamWorld Dig (NA & EU) (PS4)                     | https://www.playstationtrophies.org/game/steamworld-dig-na-eu-ps4/guide/
 SteamWorld Dig 2 (PS4)                             | https://www.playstationtrophies.org/game/steamworld-dig-2-ps4/guide/
@@ -4608,6 +4710,8 @@ Suicide Guy (NA)                                   | https://www.playstationtrop
 Suicide Guy: Sleepin’ Deeply (EU)                  | https://www.playstationtrophies.org/game/suicide-guy-sleepin-deeply-eu/guide/
 Suicide Guy: Sleepin’ Deeply (NA)                  | https://www.playstationtrophies.org/game/suicide-guy-sleepin-deeply/guide/
 Summer Funland                                     | https://www.playstationtrophies.org/game/summer-funland/guide/
+Summer in Mara (EU)                                | https://www.playstationtrophies.org/game/summer-in-mara/guide/
+Summer in Mara (NA)                                | https://www.playstationtrophies.org/game/summer-in-mara-na/guide/
 Summer Sports Games                                | https://www.playstationtrophies.org/game/summer-sports-games/guide/
 Summon Night 6: Lost Borders (PS4 & Vita)          | https://www.playstationtrophies.org/game/summon-night-6-lost-borders/guide/
 Sundered                                           | https://www.playstationtrophies.org/game/sundered/guide/
@@ -4668,6 +4772,8 @@ Super Skelemania (EU)                              | https://www.playstationtrop
 Super Skelemania (NA)                              | https://www.playstationtrophies.org/game/super-skelemania-na/guide/
 Super Skull Smash Go! 2 Turbo (PS4 & Vita)         | https://www.playstationtrophies.org/game/super-skull-smash-go-2-turbo/guide/
 Super Soccer Blast                                 | https://www.playstationtrophies.org/game/super-soccer-blast/guide/
+Super Sports Blast (EU)                            | https://www.playstationtrophies.org/game/super-sports-blast/guide/
+Super Sports Blast (NA)                            | https://www.playstationtrophies.org/game/super-sports-blast-na/guide/
 Super Star Wars (PS4 & Vita)                       | https://www.playstationtrophies.org/game/super-star-wars/guide/
 Super Stardust Ultra                               | https://www.playstationtrophies.org/game/super-stardust-ultra/guide/
 Super Street: The Game (EU)                        | https://www.playstationtrophies.org/game/super-street-the-game-eu/guide/
@@ -4701,6 +4807,8 @@ Surf World Series                                  | https://www.playstationtrop
 Surgeon Simulator: Anniversary Edition             | https://www.playstationtrophies.org/game/surgeon-simulator/guide/
 Surgeon Simulator: Experience Reality              | https://www.playstationtrophies.org/game/surgeon-simulator-vr/guide/
 Surprise! Nekketsu New Records! The Distant Gold Medal | https://www.playstationtrophies.org/game/surprise-nekketsu-new-records-the-distant-gold-medal/guide/
+Survival (EU)                                      | https://www.playstationtrophies.org/game/survival/guide/
+Survival (NA)                                      | https://www.playstationtrophies.org/game/survival-na/guide/
 Survive! Mr. Cube (EU)                             | https://www.playstationtrophies.org/game/survive-mr-cube-eu/guide/
 Survive! Mr. Cube (NA)                             | https://www.playstationtrophies.org/game/survive-mr-cube-na/guide/
 Surviving Mars                                     | https://www.playstationtrophies.org/game/surviving-mars/guide/
@@ -4726,6 +4834,7 @@ Sword of Fortress the Onomuzim                     | https://www.playstationtrop
 Swordbreaker: The Game (EU) (PS4)                  | https://www.playstationtrophies.org/game/swordbreaker-the-game/guide/
 Swordbreaker: The Game (NA) (PS4)                  | https://www.playstationtrophies.org/game/swordbreaker-the-game-na-ps4/guide/
 Swords & Soldiers 2 Shawarmageddon                 | https://www.playstationtrophies.org/game/swords-and-soldiers-2-shawarmageddon/guide/
+Swords of Gargantua                                | https://www.playstationtrophies.org/game/swords-of-gargantua/guide/
 Swordsman VR (EU)                                  | https://www.playstationtrophies.org/game/swordsman-vr/guide/
 Swordsman VR (NA)                                  | https://www.playstationtrophies.org/game/swordsman-vr-na/guide/
 Syberia 3                                          | https://www.playstationtrophies.org/game/syberia-3/guide/
@@ -4784,14 +4893,14 @@ Tennis in the Face                                 | https://www.playstationtrop
 Tennis World Tour                                  | https://www.playstationtrophies.org/game/tennis-world-tour/guide/
 Tennis World Tour 2                                | https://www.playstationtrophies.org/game/tennis-world-tour-2/guide/
 Tera                                               | https://www.playstationtrophies.org/game/tera/guide/
-Terminator: Resistance                             | https://www.playstationtrophies.org/game/terminator-resistance/guide/
+Terminator Resistance (PS4)                        | https://www.playstationtrophies.org/game/terminator-resistance/guide/
 Terra Bomber (EU)                                  | https://www.playstationtrophies.org/game/terra-bomber/guide/
 Terra Bomber (NA)                                  | https://www.playstationtrophies.org/game/terra-bomber-na/guide/
 Terra Lander                                       | https://www.playstationtrophies.org/game/terra-lander/guide/
 Terra Lander II: Rockslide Rescue                  | https://www.playstationtrophies.org/game/terra-lander-2-rockslide-rescue/guide/
 TerraTech                                          | https://www.playstationtrophies.org/game/terratech/guide/
 Tesla Force (PS4)                                  | https://www.playstationtrophies.org/game/tesla-force/guide/
-Tesla vs. Lovecraft                                | https://www.playstationtrophies.org/game/tesla-vs-lovecraft/guide/
+Tesla vs. Lovecraft (PS4)                          | https://www.playstationtrophies.org/game/tesla-vs-lovecraft/guide/
 Tethered                                           | https://www.playstationtrophies.org/game/tethered/guide/
 Tetra's Escape (Asia) (PS4)                        | https://www.playstationtrophies.org/game/tetras-escape-asia-ps4/guide/
 Tetra's Escape (EU) (PS4)                          | https://www.playstationtrophies.org/game/tetras-escape-eu-ps4/guide/
@@ -4946,6 +5055,8 @@ The Language of Love (EU)                          | https://www.playstationtrop
 The Language of Love (NA)                          | https://www.playstationtrophies.org/game/the-language-of-love-na/guide/
 The Last Blade 2 (PS4 & Vita)                      | https://www.playstationtrophies.org/game/the-last-blade-2/guide/
 The Last Campfire                                  | https://www.playstationtrophies.org/game/the-last-campfire/guide/
+The Last Dead End (EU)                             | https://www.playstationtrophies.org/game/the-last-dead-end/guide/
+The Last Dead End (NA)                             | https://www.playstationtrophies.org/game/the-last-dead-end-na/guide/
 The Last Door (EU)                                 | https://www.playstationtrophies.org/game/the-last-door-eu-ps4/guide/
 The Last Door (NA)                                 | https://www.playstationtrophies.org/game/the-last-door-na-ps4/guide/
 The Last Guardian                                  | https://www.playstationtrophies.org/game/the-last-guardian/guide/
@@ -5232,6 +5343,7 @@ Tour de France 2019                                | https://www.playstationtrop
 Tour de France 2020                                | https://www.playstationtrophies.org/game/tour-de-france-2020/guide/
 Touring Karts (EU)                                 | https://www.playstationtrophies.org/game/touring-karts/guide/
 Touring Karts (NA)                                 | https://www.playstationtrophies.org/game/touring-karts-na/guide/
+Towaga Among Shadows (EU)                          | https://www.playstationtrophies.org/game/towaga-among-ahadows/guide/
 Tower of Dragonasia                                | https://www.playstationtrophies.org/game/tower-of-dragonasia/guide/
 Tower of Guns (PS4)                                | https://www.playstationtrophies.org/game/tower-of-guns/guide/
 Tower of Guns: Special Edition                     | https://www.playstationtrophies.org/game/tower-of-guns-se/guide/
@@ -5334,6 +5446,8 @@ Ubermosh: Omega                                    | https://www.playstationtrop
 UglyDolls: An Imperfect Adventure                  | https://www.playstationtrophies.org/game/uglydolls-an-imperfect-adventure/guide/
 Ultimate Chicken Horse (EU)                        | https://www.playstationtrophies.org/game/ultimate-chicken-horse-eu/guide/
 Ultimate Chicken Horse (NA)                        | https://www.playstationtrophies.org/game/ultimate-chicken-horse-na/guide/
+Ultimate Fishing Simulator (EU)                    | https://www.playstationtrophies.org/game/ultimate-fishing-simulator/guide/
+Ultimate Fishing Simulator (NA)                    | https://www.playstationtrophies.org/game/ultimate-fishing-simulator-na/guide/
 Ultimate Marvel vs. Capcom 3 (PS4)                 | https://www.playstationtrophies.org/game/ultimate-marvel-vs-capcom-ps4/guide/
 Ultimate Racing 2D (EU)                            | https://www.playstationtrophies.org/game/ultimate-racing-2d/guide/
 Ultimate Racing 2D (NA)                            | https://www.playstationtrophies.org/game/ultimate-racing-2d-na/guide/
@@ -5387,6 +5501,7 @@ Until Dawn: Rush of Blood                          | https://www.playstationtrop
 Until We Fall (EU)                                 | https://www.playstationtrophies.org/game/until-we-fall/guide/
 Until We Fall (NA)                                 | https://www.playstationtrophies.org/game/until-we-fall-na/guide/
 Untitled Goose Game                                | https://www.playstationtrophies.org/game/untitled-goose-game/guide/
+Unto The End                                       | https://www.playstationtrophies.org/game/unto-the-end/guide/
 Unturned (EU)                                      | https://www.playstationtrophies.org/game/unturned/guide/
 Unturned (NA)                                      | https://www.playstationtrophies.org/game/unturned-na/guide/
 Use Your Words                                     | https://www.playstationtrophies.org/game/use-your-words/guide/
@@ -5489,7 +5604,7 @@ Waking Violet (PS4 & Vita)                         | https://www.playstationtrop
 Walden, a game                                     | https://www.playstationtrophies.org/game/walden-a-game/guide/
 Waltz of the Wizard: Extended Edition              | https://www.playstationtrophies.org/game/waltz-of-the-wizard-extended-edition-ps4/guide/
 Wand Wars                                          | https://www.playstationtrophies.org/game/wand-wars/guide/
-Wander                                             | https://www.playstationtrophies.org/game/wander/guide/
+Wander (EU)                                        | https://www.playstationtrophies.org/game/wander/guide/
 Wanderjahr (PS4)                                   | https://www.playstationtrophies.org/game/wanderjahr-ps4/guide/
 Wandersong (EU)                                    | https://www.playstationtrophies.org/game/wandersong/guide/
 Wandersong (NA)                                    | https://www.playstationtrophies.org/game/wandersong-na/guide/
@@ -5539,7 +5654,7 @@ Wasteland 2: Director's Cut (NA)                   | https://www.playstationtrop
 Wasteland 3                                        | https://www.playstationtrophies.org/game/wasteland-3/guide/
 Watch Dogs (PS4)                                   | https://www.playstationtrophies.org/game/watch-dogs-ps4/guide/
 Watch Dogs 2                                       | https://www.playstationtrophies.org/game/watch-dogs-2/guide/
-Watch Dogs: Legion                                 | https://www.playstationtrophies.org/game/watch-dogs-legion/guide/
+Watch Dogs Legion (PS4)                            | https://www.playstationtrophies.org/game/watch-dogs-legion/guide/
 Water Balloon Mania                                | https://www.playstationtrophies.org/game/water-balloon-mania/guide/
 Wattam (EU)                                        | https://www.playstationtrophies.org/game/wattam/guide/
 Wattam (NA)                                        | https://www.playstationtrophies.org/game/wattam-na/guide/
@@ -5568,6 +5683,7 @@ What Remains of Edith Finch (NA)                   | https://www.playstationtrop
 Wheel of Fortune (2017)                            | https://www.playstationtrophies.org/game/wheel-of-fortune-2017/guide/
 Wheels of Aurelia (EU)                             | https://www.playstationtrophies.org/game/wheels-of-aurelia-eu/guide/
 Wheels of Aurelia (NA)                             | https://www.playstationtrophies.org/game/wheels-of-aurelia-na/guide/
+When the Past was Around                           | https://www.playstationtrophies.org/game/when-the-past-was-around/guide/
 Where Are My Friends? (EU) (PS4)                   | https://www.playstationtrophies.org/game/where-are-my-friends-eu/guide/
 Where Are My Friends? (NA) (PS4)                   | https://www.playstationtrophies.org/game/where-are-my-friends-na/guide/
 Where the Bees Make Honey                          | https://www.playstationtrophies.org/game/where-the-bees-make-honey/guide/
@@ -5588,6 +5704,7 @@ Wild Arms 3                                        | https://www.playstationtrop
 Wild Guns Reloaded                                 | https://www.playstationtrophies.org/game/wild-guns-reloaded/guide/
 Wild Turkey Hunter                                 | https://www.playstationtrophies.org/game/wild-turkey-hunter/guide/
 Wild Turkey Hunter VR                              | https://www.playstationtrophies.org/game/wild-turkey-hunter-vr/guide/
+Wildfire                                           | https://www.playstationtrophies.org/game/wildfire/guide/
 WILL: A Wonderful World (EU)                       | https://www.playstationtrophies.org/game/will-a-wonderful-world-eu/guide/
 WILL: A Wonderful World (NA)                       | https://www.playstationtrophies.org/game/will-a-wonderful-world-na/guide/
 Willy Jetman: Astromonkey's Revenge                | https://www.playstationtrophies.org/game/willy-jetman-astromonkey-s-revenge/guide/
@@ -5618,6 +5735,8 @@ Wolfenstein: The New Order (PS4)                   | https://www.playstationtrop
 Wolfenstein: The Old Blood                         | https://www.playstationtrophies.org/game/wolfenstein-the-old-blood/guide/
 Wolfenstein: The Old Blood (German)                | https://www.playstationtrophies.org/game/wolfenstein-the-old-blood-german/guide/
 Wolfenstein: Youngblood                            | https://www.playstationtrophies.org/game/wolfenstein-youngblood/guide/
+Wonder Blade (EU)                                  | https://www.playstationtrophies.org/game/wonder-blade/guide/
+Wonder Blade (NA)                                  | https://www.playstationtrophies.org/game/wonder-blade-na/guide/
 Wonder Boy Returns (EU)                            | https://www.playstationtrophies.org/game/wonder-boy-returns-eu/guide/
 Wonder Boy Returns (NA)                            | https://www.playstationtrophies.org/game/wonder-boy-returns-na/guide/
 Wonder Boy Returns (Unreleased)                    | https://www.playstationtrophies.org/game/wonder-boy-returns-stack/guide/
