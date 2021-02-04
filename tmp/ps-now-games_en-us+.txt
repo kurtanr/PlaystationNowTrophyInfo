@@ -115,6 +115,7 @@ Brothers: A Tale of Two Sons,PS4,https://www.playstationtrophies.org/game/brothe
 BRUT@L,PS4,https://www.playstationtrophies.org/game/brutal/guide/
 Bubsy: The Woolies Strike Back,PS4,https://www.playstationtrophies.org/game/bubsy-the-woolies-strike-back-na/guide/
 Burn Zombie Burn!,PS3(PSN),https://www.playstationtrophies.org/game/burn-zombie-burn/guide/
+Call of Duty: Black Ops III,PS4,https://www.playstationtrophies.org/game/call-of-duty-black-ops-3/guide/
 CAPCOM ARCADE CABINET,PS3(PSN),https://www.playstationtrophies.org/game/capcom-arcade-cabinet/guide/
 Carmageddon: Max Damage,PS4,https://www.playstationtrophies.org/game/carmageddon-max-damage/guide/
 Cars 2: The Video Game,PS3,https://www.playstationtrophies.org/game/cars-2-the-video-game/guide/
@@ -162,11 +163,11 @@ Dark Void,PS3,https://www.playstationtrophies.org/game/dark-void/guide/
 Darksiders Warmastered Edition,PS4,https://www.playstationtrophies.org/game/darksiders-warmastered-edition/guide/
 Darksiders II Deathinitive Edition,PS4,https://www.playstationtrophies.org/game/darksiders-2-deathinitive-edition/guide/
 Darksiders III,PS4,https://www.playstationtrophies.org/game/darksiders-3/guide/
+Darksiders Genesis,PS4,https://www.playstationtrophies.org/game/darksiders-genesis/guide/
 Darkstalkers® Resurrection,PS3(PSN),https://www.playstationtrophies.org/game/darkstalkers-resurrection/guide/
 Day of the Tentacle Remastered,PS4,https://www.playstationtrophies.org/game/day-of-the-tentacle-remastered/guide/
 de Blob,PS4,https://www.playstationtrophies.org/game/de-blob-ps4/guide/
 de Blob 2,PS3,https://www.playstationtrophies.org/game/de-blob-2-ps3/guide/
-Dead Cells,PS4,https://www.playstationtrophies.org/game/dead-cells-na/guide/
 Dead Island: Definitive Edition,PS4,https://www.playstationtrophies.org/game/dead-island-ps4/guide/
 Dead Island Retro Revenge,PS4,https://www.playstationtrophies.org/game/dead-island-retro-revenge/guide/
 Dead Island Riptide,PS3,https://www.playstationtrophies.org/game/dead-island-riptide/guide/
@@ -187,6 +188,7 @@ Derrick the Deathfin,PS3(PSN),https://www.playstationtrophies.org/game/derrick-t
 Desert Child,PS4,https://www.playstationtrophies.org/game/desert-child/guide/
 Destroy All Humans!,PS4,https://www.playstationtrophies.org/game/destroy-all-humans/guide/
 Destroy All Humans! 2,PS4,https://www.playstationtrophies.org/game/destroy-all-humans-2/guide/
+Detroit: Become Human,PS4,https://www.playstationtrophies.org/game/detroit-become-human/guide/
 Devil May Cry 4,PS3(no_trophies)
 Devil May Cry,PS3,https://www.playstationtrophies.org/game/devil-may-cry-ps3/guide/
 Devil May Cry 2,PS3,https://www.playstationtrophies.org/game/devil-may-cry-2-ps3/guide/
@@ -321,7 +323,6 @@ Heavy Fire: Shattered Spear,PS3,https://www.playstationtrophies.org/game/heavy-f
 Heavy Rain,PS4,https://www.playstationtrophies.org/game/heavy-rain-ps4/guide/
 Hello Neighbor,PS4,https://www.playstationtrophies.org/game/hello-neighbour/guide/
 High Stakes on the Vegas Strip: Poker Edition,PS3(PSN),https://www.playstationtrophies.org/game/high-stakes-vegas-poker-edition/guide/
-Hitman 2 (2018),PS4,https://www.playstationtrophies.org/game/hitman-2/guide/
 Hoard,PS3(PSN),https://www.playstationtrophies.org/game/hoard/guide/
 Hohokum,PS4,https://www.playstationtrophies.org/game/hohokum/guide/
 Hollow Knight,PS4,https://www.playstationtrophies.org/game/hollow-knight/guide/
@@ -331,6 +332,7 @@ Hot Shots Golf: Out of Bounds,PS3(no_trophies)
 Hot Shots Golf: World Invitational,PS3(PSN),https://www.playstationtrophies.org/game/hot-shots-golf-world-invitational-ps3-na/guide/
 Hot Shots Tennis,PS4,https://www.playstationtrophies.org/game/hot-shots-tennis/guide/
 Hotel Transylvania 3 Monsters Overboard,PS4,https://www.playstationtrophies.org/game/hotel-transylvania-3-monsters-overboard/guide/
+Hotline Miami 2: Wrong Number,PS4,https://www.playstationtrophies.org/game/hotline-miami-2-wrong-number/guide/
 How to Survive: Storm Warning Edition,PS4,https://www.playstationtrophies.org/game/how-to-survive-storm-warning-edition/guide/
 Hunted: The Demon's Forge™,PS3,https://www.playstationtrophies.org/game/hunted-the-demons-forge/guide/
 Hunter’s Trophy 2: America,PS3(PSN),https://www.playstationtrophies.org/game/hunters-trophy-2-america/guide/
@@ -391,6 +393,7 @@ Leo's Fortune,PS4,https://www.playstationtrophies.org/game/leos-fortune/guide/
 Limbo,PS4,https://www.playstationtrophies.org/game/limbo-ps4/guide/
 Linger in Shadows,PS3(PSN),https://www.playstationtrophies.org/game/linger-in-shadows/guide/
 LittleBigPlanet 3,PS4,https://www.playstationtrophies.org/game/littlebigplanet-3/guide/
+Little Nightmares,PS4,https://www.playstationtrophies.org/game/little-nightmares/guide/
 Lock’s Quest,PS4,https://www.playstationtrophies.org/game/locks-quest/guide/
 LocoRoco Cocoreccho!,PS3(no_trophies)
 LocoRoco Remastered,PS4,https://www.playstationtrophies.org/game/locoroco-remastered/guide/
@@ -740,7 +743,6 @@ The Deer God,PS4,https://www.playstationtrophies.org/game/the-deer-god-ps4/guide
 The Dwarves,PS4,https://www.playstationtrophies.org/game/the-dwarves/guide/
 The Elder Scrolls IV: Oblivion,PS3(no_trophies)
 The Elder Scrolls Online,PS4,https://www.playstationtrophies.org/game/the-elder-scrolls-online-tamriel-unlimited/guide/
-The Evil Within,PS4,https://www.playstationtrophies.org/game/the-evil-within-ps4-eu/guide/
 The Evil Within 2,PS4,https://www.playstationtrophies.org/game/the-evil-within-2/guide/
 The Final Station,PS4,https://www.playstationtrophies.org/game/the-final-station/guide/
 The Golf Club 2019,PS4,https://www.playstationtrophies.org/game/the-golf-club-2019/guide/
@@ -847,6 +849,7 @@ WWE 2K15,PS3,https://www.playstationtrophies.org/game/wwe-2k-15-ps3/guide/
 WWE 2K16,PS4,https://www.playstationtrophies.org/game/wwe-2k16/guide/
 WWE 2K18,PS4,https://www.playstationtrophies.org/game/wwe-2k18/guide/
 WWE 2K19,PS4,https://www.playstationtrophies.org/game/wwe-2k19/guide/
+WWE 2K Battlegrounds,PS4,https://www.playstationtrophies.org/game/wwe-2k-battlegrounds/guide/
 XBLAZE Code: Embryo,PS3,https://www.playstationtrophies.org/game/xblaze-code-embryo-na-ps3/guide/
 XCOM: Enemy Within,PS3,https://www.playstationtrophies.org/game/xcom-enemy-within/guide/
 XCOM 2,PS4,https://www.playstationtrophies.org/game/xcom-2/guide/

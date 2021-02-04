@@ -866,6 +866,7 @@ Street Fighter IV                                  | https://www.playstationtrop
 Street Fighter X Tekken (PS3)                      | https://www.playstationtrophies.org/game/street-fighter-x-tekken/guide/
 Summer Challenge                                   | https://www.playstationtrophies.org/game/summer-challenge/guide/
 Summer Stars 2012                                  | https://www.playstationtrophies.org/game/summer-stars-2012/guide/
+Super Heroine Chronicle Chou Heroine Senki (PS3)   | https://www.playstationtrophies.org/game/super-heroine-chronicle-chou-heroine-senki-ps3/guide/
 Super Street Fighter IV                            | https://www.playstationtrophies.org/game/super-street-fighter-iv/guide/
 Supercar Challenge                                 | https://www.playstationtrophies.org/game/supercar-challenge/guide/
 Superstars V8 Racing (EU)                          | https://www.playstationtrophies.org/game/superstars-v8-racing/guide/
@@ -911,8 +912,8 @@ The Cursed Crusade (EU)                            | https://www.playstationtrop
 The Cursed Crusade (NA)                            | https://www.playstationtrophies.org/game/the-cursed-crusade-us/guide/
 The Darkness II                                    | https://www.playstationtrophies.org/game/the-darkness-ii/guide/
 The Elder Scrolls V: Skyrim                        | https://www.playstationtrophies.org/game/the-elder-scrolls-v-skyrim/guide/
+The Evil Within (Hong Kong) (PS3)                  | https://www.playstationtrophies.org/game/the-evil-within/guide/
 The Evil Within (Korea) (PS3)                      | https://www.playstationtrophies.org/game/the-evil-within-ps3-korean/guide/
-The Evil Within (PS3) (Chinese)                    | https://www.playstationtrophies.org/game/the-evil-within/guide/
 The Evil Within (PS3) (NA & EU)                    | https://www.playstationtrophies.org/game/the-evil-within-na/guide/
 The Eye of Judgment                                | https://www.playstationtrophies.org/game/the-eye-of-judgment/guide/
 The Fight: Lights Out                              | https://www.playstationtrophies.org/game/the-fight-lights-out/guide/
@@ -968,7 +969,7 @@ Tomb Raider: Legend                                | https://www.playstationtrop
 Tomb Raider: Underworld                            | https://www.playstationtrophies.org/game/tomb-raider-underworld/guide/
 Tony Hawk: Ride                                    | https://www.playstationtrophies.org/game/tony-hawk-ride/guide/
 Tony Hawk: Shred                                   | https://www.playstationtrophies.org/game/tony-hawk-shred/guide/
-Tony Hawk's Pro Skater 5                           | https://www.playstationtrophies.org/game/tony-hawks-pro-skater-5-ps3/guide/
+Tony Hawk's Pro Skater 5 (PS3)                     | https://www.playstationtrophies.org/game/tony-hawks-pro-skater-5-ps3/guide/
 Top Gun: Hard Lock                                 | https://www.playstationtrophies.org/game/top-gun-hard-lock/guide/
 Top Spin 4                                         | https://www.playstationtrophies.org/game/top-spin-4/guide/
 Tornado Outbreak                                   | https://www.playstationtrophies.org/game/tornado-outbreak/guide/
@@ -985,9 +986,9 @@ Transformers: Fall of Cybertron (PS3)              | https://www.playstationtrop
 Transformers: Revenge of The Fallen                | https://www.playstationtrophies.org/game/transformers-revenge-of-the-fallen/guide/
 Transformers: Rise of the Dark Spark (PS3)         | https://www.playstationtrophies.org/game/transformers-rise-of-the-dark-spark-ps/guide/
 Transformers: War for Cybertron                    | https://www.playstationtrophies.org/game/transformers-war-for-cybertron/guide/
+Trinity Souls of Zill O'll                         | https://www.playstationtrophies.org/game/trinity-souls-of-zill-oll/guide/
+Trinity Souls of Zill O'll (JP)                    | https://www.playstationtrophies.org/game/trinity-souls-of-zill-oll-jp/guide/
 Trinity Universe (NA & EU)                         | https://www.playstationtrophies.org/game/trinity-universe-us/guide/
-Trinity: Souls of Zill O'll (EU)                   | https://www.playstationtrophies.org/game/trinity-souls-of-zill-oll-eu/guide/
-Trinity: Souls of Zill O'll (NA)                   | https://www.playstationtrophies.org/game/trinity-souls-of-zill-oll/guide/
 Trivial Pursuit                                    | https://www.playstationtrophies.org/game/trivial-pursuit/guide/
 Tron: Evolution                                    | https://www.playstationtrophies.org/game/tron-evolution/guide/
 Truth or Lies                                      | https://www.playstationtrophies.org/game/truth-or-lies/guide/

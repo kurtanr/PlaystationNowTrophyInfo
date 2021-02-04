@@ -21,7 +21,7 @@ elseif($platform.Equals("psn"))
 elseif($platform.Equals("ps4"))
 {
     $platformPst = "ps4"
-    $pageCount = 118
+    $pageCount = 121
 }
 else
 {

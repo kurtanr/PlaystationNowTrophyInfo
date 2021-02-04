@@ -115,6 +115,7 @@ Brothers: A Tale of Two Sons
 BRUT@L
 Bubsy: The Woolies Strike Back
 Burn Zombie Burn: The Diarrhea Bundle
+Call of Duty: Black Ops III
 CAPCOM ARCADE CABINET
 Carmageddon: Max Damage
 Cars 2: The Video Game
@@ -162,11 +163,11 @@ Dark Void
 Darksiders Warmastered Edition
 Darksiders II Deathinitive Edition
 Darksiders III
+Darksiders Genesis
 Darkstalkers® Resurrection
 Day of the Tentacle Remastered
 de Blob
 de Blob 2
-Dead Cells
 Dead Island: Definitive Edition
 Dead Island Retro Revenge
 Dead Island Riptide
@@ -187,6 +188,7 @@ Derrick the Deathfin
 Desert Child
 Destroy All Humans!
 Destroy All Humans! 2
+Detroit: Become Human
 Devil May Cry 4
 Devil May Cry
 Devil May Cry 2
@@ -321,7 +323,6 @@ Heavy Fire: Shattered Spear
 Heavy Rain
 Hello Neighbor
 High Stakes on the Vegas Strip: Poker Edition
-HITMAN 2
 Hoard
 Hohokum
 Hollow Knight
@@ -331,6 +332,7 @@ Hot Shots Golf: Out of Bounds
 Hot Shots Golf: World Invitational
 Hot Shots Tennis
 Hotel Transylvania 3 Monsters Overboard
+Hotline Miami 2: Wrong Number
 How to Survive: Storm Warning Edition
 Hunted: The Demon's Forge™
 Hunter’s Trophy 2: America
@@ -391,6 +393,7 @@ Leo's Fortune
 Limbo
 Linger in Shadows
 LittleBigPlanet 3
+Little Nightmares
 Lock’s Quest
 LocoRoco Cocoreccho!
 LocoRoco Remastered
@@ -740,7 +743,6 @@ The Deer God
 The Dwarves
 The Elder Scrolls IV: Oblivion
 The Elder Scrolls Online
-The Evil Within
 The Evil Within 2
 The Final Station
 The Golf Club 2019 Featuring PGA Tour
@@ -847,6 +849,7 @@ WWE 2K15
 WWE 2K16
 WWE 2K18
 WWE 2K19
+WWE 2K Battlegrounds
 XBLAZE Code: Embryo
 XCOM: Enemy Within
 XCOM 2
