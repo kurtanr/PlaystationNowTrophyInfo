@@ -1,6 +1,7 @@
 A Bastard’s Tale
 A Boy and His Blob
 ABZU
+Ace Combat 7: Skies Unknown
 Aces of the Luftwaffe
 Act It Out! A Game Of Charades
 Active Soccer 2 DX
@@ -266,7 +267,6 @@ Fat Princess Adventures
 Fighting Vipers
 Final Exam
 Final Fight: Double Impact
-FINAL FANTASY XV
 Firefighters: The Simulation
 fLOW
 Flower
@@ -346,6 +346,7 @@ Industry Giant 2
 inFAMOUS
 inFAMOUS 2
 inFAMOUS: Festival Of Blood
+inFAMOUS: Second Son
 Infinite Minigolf
 Injustice: Gods Among Us Ultimate Edition
 Injustice 2
@@ -710,6 +711,7 @@ Strong Bad's Cool Game for Attractive People - Episode 5: 8-Bit is Enough
 Styx: Shards of Darkness
 Super Dungeon Bros
 Super Hang-On
+Superhot
 Super Mega Baseball
 Super Puzzle Fighter II Turbo HD Remix
 Super Stacker Party
@@ -840,8 +842,8 @@ Wild ARMs 3
 Wild Guns Reloaded
 Wizardry: Labyrinth of Lost Souls
 Wolfenstein The New Order
-Wolfenstein II: The New Colossus
 World to the West
+World War Z
 WRC 4: FIA World Rally Championship
 WRC 5: FIA World Rally Championship
 Wuppo

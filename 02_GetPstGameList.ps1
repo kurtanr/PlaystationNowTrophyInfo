@@ -21,7 +21,7 @@ elseif($platform.Equals("psn"))
 elseif($platform.Equals("ps4"))
 {
     $platformPst = "ps4"
-    $pageCount = 121
+    $pageCount = 123
 }
 else
 {
@@ -64,6 +64,7 @@ if($StatusCode -eq "200")
         $gameLink -match '<strong>(?<gameName>.+)</strong>' | Out-Null
         $gameName = $gameLink.InnerText
         $gameName = $gameName.Replace("&#039;", "'")
+        $gameName = $gameName.Replace("&amp;", "&")
 
         if($gameName.StartsWith("Toukiden 2"))
         {

@@ -1,6 +1,7 @@
 A Bastard’s Tale,PS4,https://www.playstationtrophies.org/game/a-bastards-tale-na/guide/
 A Boy and His Blob,PS4,https://www.playstationtrophies.org/game/a-boy-and-his-blob/guide/
 ABZU,PS4,https://www.playstationtrophies.org/game/abzu/guide/
+Ace Combat 7: Skies Unknown,PS4,https://www.playstationtrophies.org/game/ace-combat-7/guide/
 Aces of the Luftwaffe,PS4,https://www.playstationtrophies.org/game/aces-of-the-luftwaffe/guide/
 Act It Out! A Game Of Charades,PS4,https://www.playstationtrophies.org/game/act-it-out/guide/
 Active Soccer 2 DX,PS4,https://www.playstationtrophies.org/game/active-soccer-2-dx-na-ps4/guide/
@@ -266,7 +267,6 @@ Fat Princess Adventures,PS4,https://www.playstationtrophies.org/game/fat-princes
 Fighting Vipers,PS3(PSN),https://www.playstationtrophies.org/game/fighting-vipers/guide/
 Final Exam,PS3(PSN),https://www.playstationtrophies.org/game/final-exam/guide/
 Final Fight: Double Impact,PS3(PSN),https://www.playstationtrophies.org/game/final-fight-double-impact/guide/
-FINAL FANTASY XV,PS4,https://www.playstationtrophies.org/game/final-fantasy-xv-na/guide/
 Firefighters: The Simulation,PS4,https://www.playstationtrophies.org/game/firefighters/guide/
 fLOW,PS3(PSN),https://www.playstationtrophies.org/game/flow/guide/
 Flower,PS3(PSN),https://www.playstationtrophies.org/game/flower/guide/
@@ -346,6 +346,7 @@ Industry Giant 2,PS4,https://www.playstationtrophies.org/game/industry-giant-2/g
 inFAMOUS,PS3,https://www.playstationtrophies.org/game/infamous/guide/
 inFAMOUS 2,PS3,https://www.playstationtrophies.org/game/infamous-2/guide/
 inFAMOUS: Festival Of Blood,PS3(PSN),https://www.playstationtrophies.org/game/infamous-festival-of-blood/guide/
+inFAMOUS: Second Son,PS4,https://www.playstationtrophies.org/game/infamous-second-son/guide/
 Infinite Minigolf,PS4,https://www.playstationtrophies.org/game/infinite-minigolf/guide/
 Injustice: Gods Among Us,PS3,https://www.playstationtrophies.org/game/injustice-gods-among-us/guide/
 Injustice 2,PS4,https://www.playstationtrophies.org/game/injustice-2/guide/
@@ -710,6 +711,7 @@ Strong Bad's Cool Game for Attractive People - Episode 5: 8-Bit is Enough,PS3(PS
 Styx: Shards of Darkness,PS4,https://www.playstationtrophies.org/game/styx-shards-of-darkness/guide/
 Super Dungeon Bros,PS4,https://www.playstationtrophies.org/game/super-dungeon-bros/guide/
 Super Hang-On,PS3(PSN),https://www.playstationtrophies.org/game/super-hang-on/guide/
+Superhot,PS4,https://www.playstationtrophies.org/game/superhot/guide/
 Super Mega Baseball,PS4,https://www.playstationtrophies.org/game/super-mega-baseball/guide/
 Super Puzzle Fighter II Turbo HD Remix,PS3(no_trophies)
 Super Stacker,PS3(PSN),https://www.playstationtrophies.org/game/super-stacker/guide/
@@ -840,8 +842,8 @@ Wild ARMs 3,PS4,https://www.playstationtrophies.org/game/wild-arms-3/guide/
 Wild Guns Reloaded,PS4,https://www.playstationtrophies.org/game/wild-guns-reloaded/guide/
 Wizardry: Labyrinth of Lost Souls,PS3(PSN),https://www.playstationtrophies.org/game/wizardry/guide/
 Wolfenstein The New Order,PS4,https://www.playstationtrophies.org/game/wolfenstein-the-new-order-ps4/guide/
-Wolfenstein II: The New Colossus,PS4,https://www.playstationtrophies.org/game/wolfenstein-2-the-new-colossus/guide/
 World to the West,PS4,https://www.playstationtrophies.org/game/world-to-the-west/guide/
+World War Z,PS4,https://www.playstationtrophies.org/game/world-war-z/guide/
 WRC 4,PS3,https://www.playstationtrophies.org/game/wrc-4/guide/
 WRC 5,PS4,https://www.playstationtrophies.org/game/wrc-5/guide/
 Wuppo,PS4,https://www.playstationtrophies.org/game/wuppo/guide/

@@ -61,9 +61,9 @@ BANG! The Official Video Game                      | https://www.playstationtrop
 Barnanza                                           | https://www.playstationtrophies.org/game/barnanza/guide/
 Batman: Arkham Origins Blackgate - Deluxe Edition (PS3) | https://www.playstationtrophies.org/game/batman-arkham-origins-blackgate-deluxe-edition/guide/
 Batman: The Telltale Series (PS3)                  | https://www.playstationtrophies.org/game/batman-telltale-ps3/guide/
+Battle Fantasia (NA)                               | https://www.playstationtrophies.org/game/battlefantasia/guide/
 Battle Trivia Knockout (PS3)                       | https://www.playstationtrophies.org/game/battle-trivia-knockout-ps3/guide/
 Battle: Los Angeles                                | https://www.playstationtrophies.org/game/battle-los-angeles/guide/
-BattleFantasia                                     | https://www.playstationtrophies.org/game/battlefantasia/guide/
 Battlefield 1943                                   | https://www.playstationtrophies.org/game/battlefield-1943/guide/
 Beat Hazard Ultra                                  | https://www.playstationtrophies.org/game/beat-hazard-ultra/guide/
 Beat Sketcher                                      | https://www.playstationtrophies.org/game/beat-sketcher/guide/
@@ -175,6 +175,7 @@ Doki-Doki Universe (PS3 & Vita)                    | https://www.playstationtrop
 Dollar Dash                                        | https://www.playstationtrophies.org/game/dollar-dash/guide/
 Don't Starve: Giant Edition (PS3)                  | https://www.playstationtrophies.org/game/dont-starve-ps3/guide/
 Doodle Devil (PS3)                                 | https://www.playstationtrophies.org/game/doodle-devill-ps3/guide/
+Doodle God (NA) (PS3)                              | https://www.playstationtrophies.org/game/doodle-god-ps3-na/guide/
 Doodle God (PS3)                                   | https://www.playstationtrophies.org/game/doodle-god-ps3/guide/
 Doodle Kingdom (EU) (PS3)                          | https://www.playstationtrophies.org/game/doodle-kingdom-ps3/guide/
 Doodle Kingdom (NA) (PS3)                          | https://www.playstationtrophies.org/game/doodle-kingdom-ps3-na/guide/
@@ -243,7 +244,7 @@ Funky Lab Rat                                      | https://www.playstationtrop
 Galaga Legions DX                                  | https://www.playstationtrophies.org/game/galaga-legions-dx/guide/
 Game of Thrones (PS3)                              | https://www.playstationtrophies.org/game/game-of-thrones-ps3/guide/
 Gatling Gears                                      | https://www.playstationtrophies.org/game/gatling-gears/guide/
-Geometry Wars 3 (PS3)                              | https://www.playstationtrophies.org/game/geometry-wars-3-ps3/guide/
+Geometry Wars 3: Dimensions (PS3)                  | https://www.playstationtrophies.org/game/geometry-wars-3-ps3/guide/
 Geon                                               | https://www.playstationtrophies.org/game/geon/guide/
 Germany's Next Topmodel 2010                       | https://www.playstationtrophies.org/game/germanys-next-top-model-2010/guide/
 Germinator (PS3 & Vita)                            | https://www.playstationtrophies.org/game/germinator/guide/
@@ -281,7 +282,7 @@ Hitogata Happa                                     | https://www.playstationtrop
 Hoard                                              | https://www.playstationtrophies.org/game/hoard/guide/
 Hollywood Squares                                  | https://www.playstationtrophies.org/game/hollywood-squares/guide/
 Hot Shots Golf: World Invitational (PS3) (NA)      | https://www.playstationtrophies.org/game/hot-shots-golf-world-invitational-ps3-na/guide/
-Hotline Miami (PS3, PS4 & Vita)                    | https://www.playstationtrophies.org/game/hotline-miami/guide/
+Hotline Miami (PS3 PS4 & Vita)                     | https://www.playstationtrophies.org/game/hotline-miami/guide/
 How to Survive                                     | https://www.playstationtrophies.org/game/how-to-survive/guide/
 Hunter's Trophy 2: America                         | https://www.playstationtrophies.org/game/hunters-trophy-2-america/guide/
 Hunter's Trophy 2: Australia                       | https://www.playstationtrophies.org/game/hunters-trophy-2-australia/guide/
@@ -478,8 +479,8 @@ Rag Doll Kung Fu: Fists of Plastic                 | https://www.playstationtrop
 Raiden IV: Overkill (NA & EU)                      | https://www.playstationtrophies.org/game/raiden-iv-overkill/guide/
 Rain                                               | https://www.playstationtrophies.org/game/rain/guide/
 Rainbow Moon (PS3 & Vita)                          | https://www.playstationtrophies.org/game/rainbow-moon/guide/
-Ratchet & Clank: Full Frontal Assault (PS3 & Vita) | https://www.playstationtrophies.org/game/ratchet-and-clank-full-frontal-assault/guide/
-Ratchet: Deadlocked HD                             | https://www.playstationtrophies.org/game/ratchet-deadlocked-hd/guide/
+Ratchet & Clank Full Frontal Assault (PS3 & Vita)  | https://www.playstationtrophies.org/game/ratchet-and-clank-full-frontal-assault/guide/
+Ratchet Deadlocked HD                              | https://www.playstationtrophies.org/game/ratchet-deadlocked-hd/guide/
 RAW: Realms of Ancient War (NA & EU)               | https://www.playstationtrophies.org/game/raw-realms-of-ancient-war/guide/
 Rayman 3: Hoodlum Havoc HD                         | https://www.playstationtrophies.org/game/rayman-3-hoodlum-havoc/guide/
 Real Steel                                         | https://www.playstationtrophies.org/game/real-steel/guide/
@@ -738,7 +739,7 @@ World Hunter (EU)                                  | https://www.playstationtrop
 World Hunter (NA)                                  | https://www.playstationtrophies.org/game/world-hunter-na/guide/
 World of Outlaws Sprint Cars                       | https://www.playstationtrophies.org/game/world-of-outlaws-sprint-cars/guide/
 Worms                                              | https://www.playstationtrophies.org/game/worms/guide/
-Worms 2: Armageddon                                | https://www.playstationtrophies.org/game/worms-2-armageddon/guide/
+Worms 2 Armageddon                                 | https://www.playstationtrophies.org/game/worms-2-armageddon/guide/
 Worms Crazy Golf                                   | https://www.playstationtrophies.org/game/worms-crazy-golf/guide/
 Worms Revolution                                   | https://www.playstationtrophies.org/game/worms-revolution/guide/
 Worms Ultimate Mayhem                              | https://www.playstationtrophies.org/game/worms-ultimate-mayhem/guide/
